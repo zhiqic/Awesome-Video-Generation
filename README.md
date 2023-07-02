@@ -105,3 +105,10 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2104.10157v2.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wilson1yan.github.io/videogpt/index.html)
 
++ [Latent Neural Differential Equations for Video Generation](https://arxiv.org/pdf/2011.03864v3.pdf)   
+  [![Star](https://img.shields.io/github/stars/Zasder3/Latent-Neural-Differential-Equations-for-Video-Generation.svg?style=social&label=Star)](https://github.com/Zasder3/Latent-Neural-Differential-Equations-for-Video-Generation) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2011.03864v3.pdf)
+
+  
+
+
