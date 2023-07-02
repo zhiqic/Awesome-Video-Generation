@@ -101,7 +101,7 @@
 
 
 + [VideoGPT: Video Generation using VQ-VAE and Transformers](https://arxiv.org/pdf/2104.10157v2.pdf)   
-  [![Star](https://img.shields.io/github/stars/PierfrancescoArdino/C2M.svg?style=social&label=Star)](https://github.com/wilson1yan/VideoGPT) 
+  [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/wilson1yan/VideoGPT) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2104.10157v2.pdf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wilson1yan.github.io/videogpt/index.html)
 
