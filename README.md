@@ -132,6 +132,18 @@
   [![Star](https://img.shields.io/github/stars/isl-org/StableViewSynthesis.svg?style=social&label=Star)]( https://github.com/isl-org/StableViewSynthesis ) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.07233 ) 
 
++ [ Scene-Aware Generative Network for Human Motion Synthesis ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scene-Aware_Generative_Network_for_Human_Motion_Synthesis_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2105.14804 ) 
+  
++ [ Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Neural_Scene_Flow_Fields_for_Space-Time_View_Synthesis_of_Dynamic_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/zhengqili/Neural-Scene-Flow-Fields.svg?style=social&label=Star)]( https://github.com/zhengqili/Neural-Scene-Flow-Fields ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.13084 ) 
+  
++ [ Deep Animation Video Interpolation in the Wild ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Siyao_Deep_Animation_Video_Interpolation_in_the_Wild_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/lisiyao21/AnimeInterp.svg?style=social&label=Star)]( https://github.com/lisiyao21/AnimeInterp ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2104.02495 ) 
+  
+
 <!--
   // Entry template
   
