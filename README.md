@@ -142,7 +142,33 @@
 + [ Deep Animation Video Interpolation in the Wild ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Siyao_Deep_Animation_Video_Interpolation_in_the_Wild_CVPR_2021_paper.pdf ) (CVPR 2021)   
   [![Star](https://img.shields.io/github/stars/lisiyao21/AnimeInterp.svg?style=social&label=Star)]( https://github.com/lisiyao21/AnimeInterp ) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2104.02495 ) 
-  
+
++ [ High-Fidelity Neural Human Motion Transfer from Monocular Video ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Kappel_High-Fidelity_Neural_Human_Motion_Transfer_From_Monocular_Video_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/MoritzKappel/HF-NHMT.svg?style=social&label=Star)]( https://github.com/MoritzKappel/HF-NHMT ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2012.10974 ) 
+
++ [ Learning Semantic-Aware Dynamics for Video Prediction ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Bei_Learning_Semantic-Aware_Dynamics_for_Video_Prediction_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2104.09762 ) 
+
++ [ Flow-Guided One-Shot Talking Face Generation With a High-Resolution Audio-Visual Dataset ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Flow-Guided_One-Shot_Talking_Face_Generation_With_a_High-Resolution_Audio-Visual_Dataset_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/MRzzm/HDTF.svg?style=social&label=Star)]( https://github.com/MRzzm/HDTF ) 
+
++ [ Layout-Guided Novel View Synthesis From a Single Indoor Panorama ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Layout-Guided_Novel_View_Synthesis_From_a_Single_Indoor_Panorama_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/bluestyle97/PNVS.svg?style=social&label=Star)]( https://github.com/bluestyle97/PNVS ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2103.17022 ) 
+
++ [ Space-Time Neural Irradiance Fields for Free-Viewpoint Video ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Xian_Space-Time_Neural_Irradiance_Fields_for_Free-Viewpoint_Video_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.12950 ) 
+
++ [ GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_GeoSim_Realistic_Video_Simulation_via_Geometry-Aware_Composition_for_Self-Driving_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2101.06543 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://tmux.top/publication/geosim/ )
+
++ [ Animating Pictures With Eulerian Motion Fields ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.15128 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://eulerian.cs.washington.edu/ )
+
+
 
 <!--
   // Entry template
