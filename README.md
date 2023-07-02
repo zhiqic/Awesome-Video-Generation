@@ -116,6 +116,12 @@
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://compvis.github.io/image2video-synthesis-using-cINNs/ )
 
 
++ [ Understanding Object Dynamics for Interactive Image-to-Video Synthesis ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Blattmann_Understanding_Object_Dynamics_for_Interactive_Image-to-Video_Synthesis_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/CompVis/interactive-image2video-synthesis.svg?style=social&label=Star)]( https://github.com/CompVis/interactive-image2video-synthesis ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2106.11303 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://compvis.github.io/interactive-image2video-synthesis/ )
+
+
 <!--
   // Entry template
   
