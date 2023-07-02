@@ -69,3 +69,27 @@
 + [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/forum?id=nJfylDvgzlq) (ICLR 2023)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=nJfylDvgzlq) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://makeavideo.studio)
+
++ [Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2203.06605) (CVPR 2022)   
+  [![Star](https://img.shields.io/github/stars/harlanhong/CVPR2022-DaGAN.svg?style=social&label=Star)](https://github.com/harlanhong/CVPR2022-DaGAN) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.06605)
+
++ [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](https://arxiv.org/abs/2203.02573) (CVPR 2022)   
+  [![Star](https://img.shields.io/github/stars/snap-research/MMVID.svg?style=social&label=Star)](https://github.com/snap-research/MMVID) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.02573) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/MMVID/)
+
++ [Playable Environments: Video Manipulation in Space and Time](https://arxiv.org/abs/2203.01914) (CVPR 2022)   
+  [![Star](https://img.shields.io/github/stars/willi-menapace/PlayableEnvironments.svg?style=social&label=Star)](https://github.com/willi-menapace/PlayableEnvironments) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.01914) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
+
++ [Fast-Vid2Vid: Spatial-Temporal Compression for Video-to-Video Synthesis](https://arxiv.org/abs/2207.05049) (ECCV 2022)   
+  [![Star](https://img.shields.io/github/stars/fast-vid2vid/fast-vid2vid.svg?style=social&label=Star)](https://github.com/fast-vid2vid/fast-vid2vid) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.05049) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://fast-vid2vid.github.io/)
+
++ [TM2T: Stochastic and Tokenized Modeling for the Reciprocal Generation of 3D Human Motions and Texts](https://arxiv.org/abs/2207.01696) (ECCV 2022)   
+  [![Star](https://img.shields.io/github/stars/EricGuo5513/TM2T.svg?style=social&label=Star)](https://github.com/EricGuo5513/TM2T) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.01696) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ericguo5513.github.io/TM2T/)
