@@ -109,6 +109,16 @@
   [![Star](https://img.shields.io/github/stars/Zasder3/Latent-Neural-Differential-Equations-for-Video-Generation.svg?style=social&label=Star)](https://github.com/Zasder3/Latent-Neural-Differential-Equations-for-Video-Generation) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2011.03864v3.pdf)
 
-  
+<!--
++ [ TITLE ]( LINK )
+  [![Star](https://img.shields.io/github/stars/XXX/YYY.svg?style=social&label=Star)]( GITHUB ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( ARXIV )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( WEBSITE )
+-->
+
++ [ Stochastic Image-to-Video Synthesis Using cINNs ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Dorkenwald_Stochastic_Image-to-Video_Synthesis_Using_cINNs_CVPR_2021_paper.pdf )
+  [![Star](https://img.shields.io/github/stars/CompVis/image2video-synthesis-using-cINNs.svg?style=social&label=Star)]( https://github.com/CompVis/image2video-synthesis-using-cINNs ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2105.04551 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://compvis.github.io/image2video-synthesis-using-cINNs/ )
 
 
