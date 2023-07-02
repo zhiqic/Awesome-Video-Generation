@@ -121,6 +121,16 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2106.11303 ) 
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://compvis.github.io/interactive-image2video-synthesis/ )
 
++ [ One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_One-Shot_Free-View_Neural_Talking-Head_Synthesis_for_Video_Conferencing_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis.svg?style=social&label=Star)]( https://github.com/zhanglonghao1992/One-Shot_Free-View_Neural_Talking_Head_Synthesis ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.15126 ) 
+
++ [ Flow Guided Transformable Bottleneck Networks for Motion Retargeting ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Ren_Flow_Guided_Transformable_Bottleneck_Networks_for_Motion_Retargeting_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2106.07771 ) 
+
++ [ Stable View Synthesis ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Riegler_Stable_View_Synthesis_CVPR_2021_paper.pdf ) (CVPR 2021)   
+  [![Star](https://img.shields.io/github/stars/isl-org/StableViewSynthesis.svg?style=social&label=Star)]( https://github.com/isl-org/StableViewSynthesis ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.07233 ) 
 
 <!--
   // Entry template
