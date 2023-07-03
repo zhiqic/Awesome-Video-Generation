@@ -1,5 +1,9 @@
+
 # video-generation-survey
+
 ## 2023
+
+
 + [VIDM: Video Implicit Diffusion Models](https://arxiv.org/abs/2212.00235) (AAAI 2023)   
   [![Star](https://img.shields.io/github/stars/MKFMIKU/VIDM.svg?style=social&label=Star)](https://github.com/MKFMIKU/VIDM) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.00235) 
@@ -51,7 +55,38 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11251)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/mebt-cvpr2023)
 
++ [ Learning Universal Policies via Text-Guided Video Generation ]( https://arxiv.org/abs/2302.00111 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2302.00111 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://universal-policy.github.io/unipi/ )
+
++ [ Tell me what happened: Unifying text-guided video completion via multimodal masked video generation ]( https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Tell_Me_What_Happened_Unifying_Text-Guided_Video_Completion_via_Multimodal_CVPR_2023_paper.pdf ) (CVPR 2023)   
+  [![Star](https://img.shields.io/github/stars/tsujuifu/pytorch_tvc.svg?style=social&label=Star)]( https://github.com/tsujuifu/pytorch_tvc ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2211.12824 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://tvc-mmvg.github.io/ )
+
++ [ Latent-shift: Latent diffusion with temporal shift for efficient text-to-video generation ]( https://arxiv.org/pdf/2304.08477.pdf )    
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2304.08477 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://latent-shift.github.io/ )
+
++ [ Video-p2p: Video editing with cross-attention control ]( https://arxiv.org/abs/2303.04761 )    
+  [![Star](https://img.shields.io/github/stars/ShaoTengLiu/Video-P2P.svg?style=social&label=Star)]( https://github.com/ShaoTengLiu/Video-P2P ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.04761 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://video-p2p.github.io/ )
+
++ [ MAGVIT: Masked Generative Video Transformer ]( https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf ) (CVPR 2023)   
+  [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)]( https://github.com/google-research/magvit ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2212.05199 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://magvit.cs.cmu.edu/ )
+
++ [ Text2video-zero: Text-to-image diffusion models are zero-shot video generators ]( https://arxiv.org/abs/2303.13439 )    
+  [![Star](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Star)]( https://github.com/Picsart-AI-Research/Text2Video-Zero ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.13439 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://text2video-zero.github.io/ )
+
+
 ## 2022
+
+
 + [Video Diffusion Models](https://arxiv.org/abs/2204.03458) (NeurIPS 2022)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03458) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://video-diffusion.github.io/)
@@ -167,7 +202,6 @@
 + [ Animating Pictures With Eulerian Motion Fields ]( https://openaccess.thecvf.com/content/CVPR2021/papers/Holynski_Animating_Pictures_With_Eulerian_Motion_Fields_CVPR_2021_paper.pdf ) (CVPR 2021)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.15128 ) 
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://eulerian.cs.washington.edu/ )
-
 
 
 <!--
