@@ -1,6 +1,10 @@
 
 # video-generation-survey
 
+## Survey Papers
+
++ [ Video Frame Interpolation: A Comprehensive Survey ]( https://dl.acm.org/doi/10.1145/3556544 )   
+
 ## 2023
 
 
@@ -83,6 +87,32 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.13439 ) 
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://text2video-zero.github.io/ )
 
++ [ Pix2video: Video editing using image diffusion ]( https://arxiv.org/pdf/2303.12688.pdf )    
+  [![Star](https://img.shields.io/github/stars/G-U-N/Pix2Video.pytorch.svg?style=social&label=Star)]( https://github.com/G-U-N/Pix2Video.pytorch ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( G-U-N/Pix2Video.pytorch ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://duyguceylan.github.io/pix2video.github.io/ )
+
++ [ Dreamix: Video diffusion models are general video editors ]( https://arxiv.org/abs/2302.01329 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2302.01329 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://dreamix-video-editing.github.io/ )
+
++ [ VarietySound: Timbre-controllable video to sound generation via unsupervised information disentanglement ]( https://arxiv.org/abs/2211.10666 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2211.10666 ) 
+
++ [ Text-to-4d dynamic scene generation ]( https://arxiv.org/abs/2301.11280 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2301.11280 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://make-a-video3d.github.io/ )
+
++ [ Fatezero: Fusing attentions for zero-shot text-based video editing ]( https://arxiv.org/abs/2303.09535 )   
+  [![Star](https://img.shields.io/github/stars/ChenyangQiQi/FateZero.svg?style=social&label=Star)]( https://github.com/ChenyangQiQi/FateZero ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.09535 ) 
+
++ [ Structure and content-guided video synthesis with diffusion models ]( https://arxiv.org/abs/2302.03011 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2302.03011 ) 
+
+
+
+
 
 ## 2022
 
@@ -129,7 +159,31 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.01696) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ericguo5513.github.io/TM2T/)
 
++ [ Imagen Video: High Definition Video Generation with Diffusion Models ]( https://arxiv.org/abs/2210.02303 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2210.02303 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://video-diffusion.github.io/ )
+
+
++ [ Phenaki: Variable length video generation from open domain textual description ]( https://arxiv.org/abs/2210.02399 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2210.02399 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://sites.research.google/phenaki/ )
+  [alt-website](https://phenaki.video/)
+
+  Code (unofficial?): [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)]( https://github.com/XX/YY ) 
+
+
++ [ Cogvideo: Large-scale pretraining for text-to-video generation via transformers ]( https://arxiv.org/abs/2205.15868 )   
+  [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)]( https://github.com/THUDM/CogVideo ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( (Conference) ) 
+
+
+
+
+
 ## 2021
+
+
+
 + [Click to Move: Controlling Video Generation with Sparse Motion](https://arxiv.org/abs/2108.08815) (ICCV 2021)   
   [![Star](https://img.shields.io/github/stars/PierfrancescoArdino/C2M.svg?style=social&label=Star)](https://github.com/PierfrancescoArdino/C2M) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.08815) 
