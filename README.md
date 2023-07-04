@@ -2,7 +2,13 @@
 # video-generation-survey
 
 <p align="center">
-<img src="https://magvit.cs.cmu.edu/img/fi/00034_cond2.png" width="480px"/>  
+<img src="https://magvit.cs.cmu.edu/img/fp/00083_gen_sr.gif" width="240px"/>  
+<img src="https://magvit.cs.cmu.edu/img/mt_ssv2/full_generation_0143SqueezingSomething_000000782_sr.gif" width="240px"/> 
+</p>
+
+<p align="center">
+<img src="https://lh3.googleusercontent.com/ClNR5OtVjEPa9R1-fIZDL8SNiCkNiJDiVuBw0MYK_sCTkebzMpQNZiCKzsES5HS0lfiDzRTeIN4BkDymqU66OXlqPylv1KN18zNFouXvX5AQBpMz-FFq9KsGHVFs9vf9aw=w1280" width="240px"/>  
+<img src="https://lh4.googleusercontent.com/ozOtbsFxOQDFxBXT_zUD5cdVwfv70EH8iGEtMP6RXbBogzwVnRdjuj5TFayYvrZHeIVa-VAYiiQKEQQxb5BAIh7Muv5CpGph6w6phH4IFbgyvzeHHyK_glQz4rO24WbQEw=w1280" width="240px"/> 
 </p>
 
 ## Survey Papers
