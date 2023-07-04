@@ -7,8 +7,16 @@
 </p>
 
 <p align="center">
-<img src="https://lh3.googleusercontent.com/ClNR5OtVjEPa9R1-fIZDL8SNiCkNiJDiVuBw0MYK_sCTkebzMpQNZiCKzsES5HS0lfiDzRTeIN4BkDymqU66OXlqPylv1KN18zNFouXvX5AQBpMz-FFq9KsGHVFs9vf9aw=w1280" width="240px"/>  
-<img src="https://lh4.googleusercontent.com/ozOtbsFxOQDFxBXT_zUD5cdVwfv70EH8iGEtMP6RXbBogzwVnRdjuj5TFayYvrZHeIVa-VAYiiQKEQQxb5BAIh7Muv5CpGph6w6phH4IFbgyvzeHHyK_glQz4rO24WbQEw=w1280" width="240px"/> 
+<img src="https://modelscope.cn/api/v1/models/damo/text-to-video-synthesis/repo?Revision=master&FilePath=./samples/006_A_cat_eating_food_out_of_a_bowl,_in_style_of_van_Gogh._003.gif&View=true" width="240px"/>  
+<img src="https://modelscope.cn/api/v1/models/damo/text-to-video-synthesis/repo?Revision=master&FilePath=./samples/040_Incredibly_detailed_science_fiction_scene_set_on_an_alien_planet,_view_of_a_marketplace._Pixel_art._003.gif&View=true" width="240px"/> 
+</p>
+
+<p align="center">
+<img src="https://kfmei.page/vidm/results/taichi/vidm.gif" width="480px"/>  
+</p>
+
+<p align="center">
+(Source: <a href="https://mask-cond-video-diffusion.github.io">MCVD</a>, <a href="https://modelscope.cn/models/damo/text-to-video-synthesis/summary">VideoFusion</a>, and <a href="https://kfmei.page/vidm/">VIDM</a>.)
 </p>
 
 ## Survey Papers
