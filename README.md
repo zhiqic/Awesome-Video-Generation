@@ -322,7 +322,7 @@
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://nuwa-infinity.microsoft.com/ )
 
 + [ 3D-Aware Video Generation ]( https://arxiv.org/abs/2206.14797 )   
-  [![Star](https://img.shields.io/github/stars/sherwinbahmani/3dvideogenerati.svg?style=social&label=Star)]( https://github.com/sherwinbahmani/3dvideogenerati ) 
+  [![Star](https://img.shields.io/github/stars/sherwinbahmani/3dvideogeneration.svg?style=social&label=Star)]( https://github.com/sherwinbahmani/3dvideogeneration/ ) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2206.14797 )
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://sherwinbahmani.github.io/3dvidgen/ )
 
