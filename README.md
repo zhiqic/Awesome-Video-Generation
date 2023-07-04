@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<img src="https://kfmei.page/vidm/results/taichi/vidm.gif" width="480px"/>  
+<img src="https://kfmei.page/vidm/results/sky/vidm.gif" width="480px"/>  
 </p>
 
 <p align="center">
