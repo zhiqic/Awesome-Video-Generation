@@ -155,7 +155,12 @@
 
 + [ ControlVideo: Training-free Controllable Text-to-Video Generation ]( https://arxiv.org/abs/2305.13077 )   
   [![Star](https://img.shields.io/github/stars/ybybzhang/controlvideo.svg?style=social&label=Star)]( https://github.com/ybybzhang/controlvideo ) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.13077 ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.13077 )
+
++ [ Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models ]( https://arxiv.org/pdf/2305.13840 )   
+  [![Star](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Star)]( https://github.com/Weifeng-Chen/control-a-video ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.13840 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://controlavideo.github.io/ )
 
 + [ VDT: An Empirical Study on Video Diffusion with Transformers ]( https://arxiv.org/abs/2305.13311 )   
   [![Star](https://img.shields.io/github/stars/rerv/vdt.svg?style=social&label=Star)]( https://github.com/rerv/vdt ) 
@@ -202,6 +207,10 @@
   [![Star](https://img.shields.io/github/stars/FudanVI/compositional-scene-representation-toolbox.svg?style=social&label=Star)]( https://github.com/FudanVI/compositional-scene-representation-toolbox ) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2301.08951 )
 
++ [ VideoComposer: Compositional Video Synthesis with Motion Controllability ]( https://arxiv.org/pdf/2306.02018 )   
+  [![Star](https://img.shields.io/github/stars/damo-vilab/videocomposer.svg?style=social&label=Star)]( https://github.com/damo-vilab/videocomposer ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2306.02018 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://videocomposer.github.io/ )
 
 ## 2022
 
