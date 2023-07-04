@@ -10,7 +10,12 @@
 
 ## Datasets
 
-+ [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393) 
++ [ CelebV-Text: A Large-Scale Facial Text-Video Dataset ]( https://arxiv.org/abs/2303.14717 )   
+  [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)]( https://github.com/CelebV-Text/CelebV-Text ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.14717 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://celebv-text.github.io/ )
+
++ [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393)  
   [![Star](https://img.shields.io/github/stars/celebv-hq/celebv-hq.svg?style=social&label=Star)](https://github.com/celebv-hq/celebv-hq) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.12393) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://celebv-hq.github.io/)
@@ -174,11 +179,6 @@
 + [ Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation ]( https://arxiv.org/abs/2303.16541 )   
   [![Star](https://img.shields.io/github/stars/jwliu-cc/svg.svg?style=social&label=Star)]( https://github.com/jwliu-cc/svg ) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.16541 )
-
-+ [ CelebV-Text: A Large-Scale Facial Text-Video Dataset ]( https://arxiv.org/abs/2303.14717 )   
-  [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)]( https://github.com/CelebV-Text/CelebV-Text ) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.14717 )
-  [![Website](https://img.shields.io/badge/Website-9cf)]( https://celebv-text.github.io/ )
 
 + [ MotionVideoGAN: A Novel Video Generator Based on the Motion Space Learned from Image Pairs ]( https://arxiv.org/abs/2303.02906 )   
   [![Star](https://img.shields.io/github/stars/bbzhu-jy16/motionvideogan.svg?style=social&label=Star)]( https://github.com/bbzhu-jy16/motionvideogan ) 
