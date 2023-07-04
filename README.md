@@ -1,6 +1,10 @@
 
 # video-generation-survey
 
+<p align="center">
+<img src="https://magvit.cs.cmu.edu/img/fi/00034_cond2.png" width="480px"/>  
+</p>
+
 ## Survey Papers
 
 + [ Video Frame Interpolation: A Comprehensive Survey ]( https://dl.acm.org/doi/10.1145/3556544 )
