@@ -9,7 +9,7 @@
   [![Star](https://img.shields.io/github/stars/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy.svg?style=social&label=Star)](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.00796)
 
-+ [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747)  (IEEE TPAMI 2023)
++ [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747)  (IEEE TPAMI 2023)  
   [![Star](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.04747)
 
