@@ -3,7 +3,17 @@
 
 ## Survey Papers
 
-+ [ Video Frame Interpolation: A Comprehensive Survey ]( https://dl.acm.org/doi/10.1145/3556544 )   
++ [ Video Frame Interpolation: A Comprehensive Survey ]( https://dl.acm.org/doi/10.1145/3556544 )
++ [Diffusion Models: A Comprehensive Survey of Methods and Applications](https://arxiv.org/abs/2209.00796)  
+  [![Star](https://img.shields.io/github/stars/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy.svg?style=social&label=Star)](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.00796)
+
+## Datasets
+
++ [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393) 
+  [![Star](https://img.shields.io/github/stars/celebv-hq/celebv-hq.svg?style=social&label=Star)](https://github.com/celebv-hq/celebv-hq) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.12393) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://celebv-hq.github.io/)
 
 ## 2023
 
@@ -276,6 +286,49 @@
 + [ Computational Choreography using Human Motion Synthesis ]( https://arxiv.org/abs/2210.04366 )   
   [![Star](https://img.shields.io/github/stars/patrickrperrine/comp-choreo.svg?style=social&label=Star)]( https://github.com/patrickrperrine/comp-choreo ) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2210.04366 )
+
++ [ Phenaki: Variable Length Video Generation From Open Domain Textual Description ]( https://arxiv.org/abs/2210.02399 )   
+  [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)]( https://github.com/lucidrains/phenaki-pytorch ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2210.02399 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://phenaki.video/ )
+
++ [ Temporally Consistent Transformers for Video Generation ]( https://arxiv.org/abs/2210.02396 )   
+  [![Star](https://img.shields.io/github/stars/wilson1yan/teco.svg?style=social&label=Star)]( https://github.com/wilson1yan/teco ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2210.02396 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://wilson1yan.github.io/teco/ )
+
++ [ StyleFaceV: Face Video Generation via Decomposing and Recomposing Pretrained StyleGAN3 ]( https://arxiv.org/abs/2208.07862 )   
+  [![Star](https://img.shields.io/github/stars/arthur-qiu/stylefacev.svg?style=social&label=Star)]( https://github.com/arthur-qiu/stylefacev ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2208.07862 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( http://haonanqiu.com/projects/StyleFaceV.html )
+
++ [ NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis ]( https://arxiv.org/abs/2207.09814 )   
+  [![Star](https://img.shields.io/github/stars/arthur-qiu/stylefacev.svg?style=social&label=Star)]( https://github.com/microsoft/nuwa ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2207.09814 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://nuwa-infinity.microsoft.com/ )
+
++ [ 3D-Aware Video Generation ]( https://arxiv.org/abs/2206.14797 )   
+  [![Star](https://img.shields.io/github/stars/sherwinbahmani/3dvideogenerati.svg?style=social&label=Star)]( https://github.com/sherwinbahmani/3dvideogenerati ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2206.14797 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://sherwinbahmani.github.io/3dvidgen/ )
+
++ [ Patch-based Object-centric Transformers for Efficient Video Generation ]( https://arxiv.org/abs/2206.04003 )   
+  [![Star](https://img.shields.io/github/stars/wilson1yan/povt.svg?style=social&label=Star)]( https://github.com/wilson1yan/povt ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2206.04003 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://sites.google.com/view/povt-public )
+
++ [ Generating Long Videos of Dynamic Scenes ]( https://arxiv.org/abs/2206.03429 )   
+  [![Star](https://img.shields.io/github/stars/nvlabs/long-video-gan.svg?style=social&label=Star)]( https://github.com/nvlabs/long-video-gan ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2206.03429 )
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://www.timothybrooks.com/tech/long-video-gan/ )
+
++ [ D'ARTAGNAN: Counterfactual Video Generation ]( https://arxiv.org/abs/2206.01651 )   
+  [![Star](https://img.shields.io/github/stars/nvlabs/long-video-gan.svg?style=social&label=Star)]( https://github.com/hreynaud/dartagnan ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2206.01651 )
+
++ [ CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers ]( https://arxiv.org/abs/2205.15868 )   
+  [![Star](https://img.shields.io/github/stars/nvlabs/long-video-gan.svg?style=social&label=Star)]( https://github.com/thudm/cogvideo ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2205.15868 )
 
 ## 2021
 
