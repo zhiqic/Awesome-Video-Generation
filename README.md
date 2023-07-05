@@ -439,14 +439,67 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11495) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://fdmolv.github.io/)
 
++ [Long Video Generation with Time-Agnostic VQGAN and Time-Sensitive Transformer](https://arxiv.org/pdf/2204.03638) (ECCV 2022)  
+  [![Star](https://img.shields.io/github/stars/songweige/tats.svg?style=social&label=Star)](https://github.com/songweige/tats) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.03638) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://songweige.github.io/projects/tats/index.html)
+
++ [Diffusion Probabilistic Modeling for Video Generation](https://arxiv.org/pdf/2203.09481)  
+  [![Star](https://img.shields.io/github/stars/buggyyang/rvd.svg?style=social&label=Star)](https://github.com/buggyyang/rvd) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09481) 
+
++ [StyleHEAT: One-Shot High-Resolution Editable Talking Face Generation via Pre-trained StyleGAN](https://arxiv.org/pdf/2203.04036)  
+  [![Star](https://img.shields.io/github/stars/OpenTalker/StyleHEAT.svg?style=social&label=Star)](https://github.com/OpenTalker/StyleHEAT) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.04036) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://feiiyin.github.io/StyleHEAT/)
+
++ [Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://arxiv.org/pdf/2202.10571) (ICLR 2022)  
+  [![Star](https://img.shields.io/github/stars/sihyun-yu/digan.svg?style=social&label=Star)](https://github.com/sihyun-yu/digan) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2202.10571) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sihyun.me/digan/)
+
++ [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2](https://arxiv.org/pdf/2112.14683) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/universome/stylegan-v.svg?style=social&label=Star)](https://github.com/universome/stylegan-v) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.14683) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://universome.github.io/stylegan-v.html)
+
++ [Make It Move: Controllable Image-to-Video Generation with Text Descriptions](https://arxiv.org/pdf/2112.02815) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/youncy-hu/mage.svg?style=social&label=Star)](https://github.com/youncy-hu/mage) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.02815) 
+
+
 ## 2021
 
++ [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://arxiv.org/pdf/2111.12417)  
+  [![Star](https://img.shields.io/github/stars/lucidrains/nuwa-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/nuwa-pytorch) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.12417) 
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.microsoft.com/en-us/research/project/nuwa-infinity/)
 
++ [Generative Adversarial Graph Convolutional Networks for Human Action Synthesis](https://arxiv.org/pdf/2110.11191) (WACV 2022)  
+  [![Star](https://img.shields.io/github/stars/degardinbruno/kinetic-gan.svg?style=social&label=Star)](https://github.com/degardinbruno/kinetic-gan) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.11191)
+
++ [Towards Using Clothes Style Transfer for Scenario-aware Person Video Generation](https://arxiv.org/pdf/2110.11894)  
+  [![Star](https://img.shields.io/github/stars/xsimba123/demos-of-csf-sa.svg?style=social&label=Star)](https://github.com/xsimba123/demos-of-csf-sa) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2110.11894) 
+
++ [Latent Image Animator: Learning to animate image via latent space navigation](https://arxiv.org/pdf/2203.09043) (ICLR 2022)  
+  [![Star](https://img.shields.io/github/stars/wyhsirius/LIA.svg?style=social&label=Star)](https://github.com/wyhsirius/LIA) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.09043)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wyhsirius.github.io/LIA-project/)
+
++ [SLAMP: Stochastic Latent Appearance and Motion Prediction](https://arxiv.org/pdf/2108.02760) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/wyhsirius/LIA.svg?style=social&label=Star)](https://github.com/kaanakan/slamp) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.02760)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kuis-ai.github.io/slamp/)
+
++ [VirtualConductor: Music-driven Conducting Video Generation System](https://arxiv.org/pdf/2108.04350) (ICME 2021)  
+  [![Star](https://img.shields.io/github/stars/ChenDelong1999/VirtualConductor.svg?style=social&label=Star)](https://github.com/ChenDelong1999/VirtualConductor) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.04350)
 
 + [Click to Move: Controlling Video Generation with Sparse Motion](https://arxiv.org/abs/2108.08815) (ICCV 2021)   
   [![Star](https://img.shields.io/github/stars/PierfrancescoArdino/C2M.svg?style=social&label=Star)](https://github.com/PierfrancescoArdino/C2M) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.08815) 
-
 
 + [VideoGPT: Video Generation using VQ-VAE and Transformers](https://arxiv.org/pdf/2104.10157v2.pdf)   
   [![Star](https://img.shields.io/github/stars/wilson1yan/VideoGPT.svg?style=social&label=Star)](https://github.com/wilson1yan/VideoGPT) 
@@ -516,6 +569,73 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2011.15128 ) 
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://eulerian.cs.washington.edu/ )
 
++ [SLAMP: Stochastic Latent Appearance and Motion Prediction](https://arxiv.org/pdf/2108.02760) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/wyhsirius/LIA.svg?style=social&label=Star)](https://github.com/kaanakan/slamp) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.02760)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kuis-ai.github.io/slamp/)
+
++ [CCVS: Context-aware Controllable Video Synthesis](https://arxiv.org/pdf/2107.08037v2) (NeurIPS 2021)  
+  [![Star](https://img.shields.io/github/stars/16lemoing/ccvs.svg?style=social&label=Star)](https://github.com/16lemoing/ccvs) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.08037v2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://16lemoing.github.io/ccvs/)
+
++ [Diverse Video Generation using a Gaussian Process Trigger](https://arxiv.org/pdf/2107.04619) (ICLR 2021)  
+  [![Star](https://img.shields.io/github/stars/shgaurav1/DVG.svg?style=social&label=Star)](https://github.com/shgaurav1/DVG) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.04619)
+
++ [FitVid: Overfitting in Pixel-Level Video Prediction](https://arxiv.org/pdf/2106.13195)  
+  [![Star](https://img.shields.io/github/stars/google-research/fitvid.svg?style=social&label=Star)](https://github.com/google-research/fitvid) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.13195)
+
++ [NWT: Towards natural audio-to-video generation with representation learning](https://arxiv.org/pdf/2106.04283)  
+  [![Star](https://img.shields.io/github/stars/lucidrains/NWT-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/NWT-pytorch) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.04283)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://next-week-tonight.github.io/NWT_blog/)
+
++ [Editable Free-viewpoint Video Using a Layered Neural Representation](https://arxiv.org/pdf/2104.14786)  
+  [![Star](https://img.shields.io/github/stars/darlinghang/st-nerf.svg?style=social&label=Star)](https://github.com/darlinghang/st-nerf) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.14786)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jiakai-zhang.github.io/st-nerf/)
+
++ [A Good Image Generator Is What You Need for High-Resolution Video Synthesis](https://arxiv.org/pdf/2104.15069)  
+  [![Star](https://img.shields.io/github/stars/snap-research/MoCoGAN-HD.svg?style=social&label=Star)](https://github.com/snap-research/MoCoGAN-HD) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.15069)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://bluer555.github.io/MoCoGAN-HD/)
+
++ [GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions](https://arxiv.org/pdf/2104.14806)  
+  [![Star](https://img.shields.io/github/stars/mehdidc/DALLE_clip_score.svg?style=social&label=Star)](https://github.com/mehdidc/DALLE_clip_score) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.14806)
+
++ [Text2Video: Text-driven Talking-head Video Synthesis with Personalized Phoneme-Pose Dictionary](https://arxiv.org/pdf/2104.14631)  
+  [![Star](https://img.shields.io/github/stars/sibozhang/Text2Video.svg?style=social&label=Star)](https://github.com/sibozhang/Text2Video) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2104.14631)
+
++ [Adaptive Appearance Rendering](https://arxiv.org/pdf/2104.11931)  
+  [![Star](https://img.shields.io/github/stars/wisdomdeng/AdaptiveRendering.svg?style=social&label=Star)](https://github.com/wisdomdeng/AdaptiveRendering) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.11931)
+
++ [Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation](https://arxiv.org/pdf/2104.07995)  
+  [![Star](https://img.shields.io/github/stars/FuxiVirtualHuman/Write-a-Speaker.svg?style=social&label=Star)](https://github.com/FuxiVirtualHuman/Write-a-Speaker) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.07995)
+
++ [Predicting Video with VQVAE](https://arxiv.org/pdf/2103.01950)  
+  [![Star](https://img.shields.io/github/stars/FuxiVirtualHuman/Write-a-Speaker.svg?style=social&label=Star)](https://github.com/mattiasxu/Video-VQVAE) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.01950)
+
++ [Playable Video Generation](https://arxiv.org/pdf/2101.12195) (CVPR 2021)  
+  [![Star](https://img.shields.io/github/stars/FuxiVirtualHuman/Write-a-Speaker.svg?style=social&label=Star)](https://github.com/willi-menapace/PlayableVideoGeneration) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2101.12195)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
+
+## 2016
 
 <!--
   // Entry template
