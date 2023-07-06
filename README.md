@@ -1,7 +1,10 @@
 
-# Awesome Video Generation
+# Awesome Video Generation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+A comprehensive collection of works on video generation/synthesis/prediction.
 
+<br>
+<br>
 
 <p align="center">
 <img src="https://magvit.cs.cmu.edu/img/fp/00083_gen_sr.gif" width="240px"/>  
@@ -18,7 +21,7 @@
 </p>
 
 <p align="center">
-(Source: <a href="https://mask-cond-video-diffusion.github.io">MCVD</a>, <a href="https://modelscope.cn/models/damo/text-to-video-synthesis/summary">VideoFusion</a>, and <a href="https://kfmei.page/vidm/">VIDM</a>.)
+(Source: <a href="https://mask-cond-video-diffusion.github.io">MCVD</a>, <a href="https://modelscope.cn/models/damo/text-to-video-synthesis/summary">VideoFusion</a>, and <a href="https://kfmei.page/vidm/">VIDM</a>)
 </p>
 
 
