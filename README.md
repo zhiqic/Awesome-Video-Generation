@@ -1,5 +1,5 @@
 
-# video-generation-survey
+# Awesome Video Generation
 
 
 
