@@ -31,6 +31,9 @@
   [![Star](https://img.shields.io/github/stars/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey.svg?style=social&label=Star)](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.04747)
 
++ [What comprises a good talking-head video generation?: A Survey and Benchmark](https://arxiv.org/pdf/2005.03201)  
+  [![Star](https://img.shields.io/github/stars/lelechen63/talking-head-generation-survey.svg?style=social&label=Star)](https://github.com/lelechen63/talking-head-generation-survey) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2005.03201)
 
 
 ## Datasets
@@ -696,11 +699,78 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2101.12195)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
 
++ [Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image](https://arxiv.org/pdf/2012.09855) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/google-research/google-research.svg?style=social&label=Star)](https://github.com/google-research/google-research/tree/master/infinite_nature) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2012.09855)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://infinite-nature.github.io/)
+
++ [Vid-ODE: Continuous-Time Video Generation with Neural Ordinary Differential Equation](https://arxiv.org/pdf/2010.08188) (AAAI 2021)  
+  [![Star](https://img.shields.io/github/stars/psh01087/Vid-ODE.svg?style=social&label=Star)](https://github.com/psh01087/Vid-ODE) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.08188)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://psh01087.github.io/Vid-ODE/)
+
++ [Compositional Video Synthesis with Action Graphs](https://arxiv.org/pdf/2006.15327) (ICML 2021)  
+  [![Star](https://img.shields.io/github/stars/roeiherz/AG2Video.svg?style=social&label=Star)](https://github.com/roeiherz/AG2Video) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.15327)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/par/publication/sg2vid.html)
+
++ [Temporal Shift GAN for Large Scale Video Generation](https://arxiv.org/pdf/2004.01823) (WACV 2021)
+  [![Star](https://img.shields.io/github/stars/amunozgarza/tsb-gan.svg?style=social&label=Star)](https://github.com/amunozgarza/tsb-gan) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.01823)
 
 __temporary__: https://free-view-video.github.io/
 
 
 ## 2020
+
++ [Stochastic Talking Face Generation Using Latent Distribution Matching](https://arxiv.org/pdf/2011.10727)  
+  [![Star](https://img.shields.io/github/stars/ry85/Stochastic-Talking-Face-Generation-Using-Latent-Distribution-Matching.svg?style=social&label=Star)](https://github.com/ry85/Stochastic-Talking-Face-Generation-Using-Latent-Distribution-Matching) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.10727)
+
++ [Latent Neural Differential Equations for Video Generation](https://arxiv.org/pdf/2011.03864)  
+  [![Star](https://img.shields.io/github/stars/Zasder3/Latent-Neural-Differential-Equations-for-Video-Generation.svg?style=social&label=Star)](https://github.com/Zasder3/Latent-Neural-Differential-Equations-for-Video-Generation) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.03864)
+
++ [LIFI: Towards Linguistically Informed Frame Interpolation](https://arxiv.org/pdf/2010.16078)  
+  [![Star](https://img.shields.io/github/stars/midas-research/linguistically-informed-frame-interpolation.svg?style=social&label=Star)](https://github.com/midas-research/linguistically-informed-frame-interpolation) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.16078)
+
++ [DTVNet: Dynamic Time-lapse Video Generation via Single Still Image](https://arxiv.org/pdf/2008.04776) (ECCV 2020)  
+  [![Star](https://img.shields.io/github/stars/zhangzjn/DTVNet.svg?style=social&label=Star)](https://github.com/zhangzjn/DTVNet) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2008.04776)
+
++ [Unsupervised object-centric video generation and decomposition in 3D](https://arxiv.org/pdf/2007.06705) (NeurIPS 2020)  
+  [![Star](https://img.shields.io/github/stars/pmh47/o3v.svg?style=social&label=Star)](https://github.com/pmh47/o3v) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2007.06705)
+
++ [Novel-View Human Action Synthesis](https://arxiv.org/pdf/2007.02808) (ACCV 2020)  
+  [![Star](https://img.shields.io/github/stars/mlakhal/gtnet.svg?style=social&label=Star)](https://github.com/mlakhal/gtnet) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2007.02808)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mlakhal.github.io/novel-view_action_synthesis.html)
+
++ [Structure-Aware Human-Action Generation](https://arxiv.org/pdf/2007.01971) (ECCV 2020)  
+  [![Star](https://img.shields.io/github/stars/PingYu-iris/SA-GCN.svg?style=social&label=Star)](https://github.com/PingYu-iris/SA-GCN) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2007.01971)
+
++ [Hierarchical Patch VAE-GAN: Generating Diverse Videos from a Single Sample](https://arxiv.org/pdf/2006.12226) (NeurIPS 2020 )  
+  [![Star](https://img.shields.io/github/stars/shirgur/hp-vae-gan.svg?style=social&label=Star)](https://github.com/shirgur/hp-vae-gan) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.12226)
+
++ [Latent Video Transformer](https://arxiv.org/pdf/2006.10704)  
+  [![Star](https://img.shields.io/github/stars/rakhimovv/lvt.svg?style=social&label=Star)](https://github.com/rakhimovv/lvt) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.10704)
+
++ [Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose](https://arxiv.org/pdf/2002.10137)  
+  [![Star](https://img.shields.io/github/stars/yiranran/Audio-driven-TalkingFace-HeadPose.svg?style=social&label=Star)](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2002.10137)
+
++ [Exploring Spatial-Temporal Multi-Frequency Analysis for High-Fidelity and Temporal-Consistency Video Prediction](https://arxiv.org/pdf/2002.09905) (CVPR 2020)  
+  [![Star](https://img.shields.io/github/stars/Bei-Jin/STMFANet.svg?style=social&label=Star)](https://github.com/Bei-Jin/STMFANet) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2002.09905)
+
++ [Stochastic Latent Residual Video Prediction](https://arxiv.org/pdf/2002.09219) (ICML 2020)  
+  [![Star](https://img.shields.io/github/stars/edouardelasalles/srvp.svg?style=social&label=Star)](https://github.com/edouardelasalles/srvp) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2002.09219)
 
 ## 2019
 
