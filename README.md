@@ -376,6 +376,84 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.14308)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://16lemoing.github.io/waldo/)
 
++ [Fast Fourier Inception Networks for Occluded Video Prediction](https://arxiv.org/abs/2306.10346)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.10346)
+
++ [Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction](https://arxiv.org/abs/2305.13903)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13903)
+
++ [PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction](https://arxiv.org/abs/2305.11421)  
+  [![Star](https://img.shields.io/github/stars/easylearningscores/PastNet.svg?style=social&label=Star)](https://github.com/easylearningscores/PastNet)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11421)
+
++ [A Control-Centric Benchmark for Video Prediction](https://arxiv.org/abs/2304.13723) (ICLR 2023)  
+  [![Star](https://img.shields.io/github/stars/s-tian/vp2.svg?style=social&label=Star)](https://github.com/s-tian/vp2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.13723)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://s-tian.github.io/projects/vp2/)
+
++ [Combining Vision and Tactile Sensation for Video Prediction](https://arxiv.org/abs/2304.11193)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11193)
+
++ [MS-LSTM: Exploring Spatiotemporal Multiscale Representations in Video Prediction Domain](https://arxiv.org/abs/2304.07724)  
+  [![Star](https://img.shields.io/github/stars/mazhf/MS-RNN.svg?style=social&label=Star)](https://github.com/mazhf/MS-RNN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.07724)
+
++ [Forecasting localized weather impacts on vegetation as seen from space with meteo-guided video prediction](https://arxiv.org/abs/2303.16198)  
+  [![Star](https://img.shields.io/github/stars/earthnet2021/earthnet-models-pytorch.svg?style=social&label=Star)](https://github.com/XX/YY)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16198)
+
++ [A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN.svg?style=social&label=Star)](https://github.com/megvii-research/CVPR2023-DMVFN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09875)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huxiaotaostasy.github.io/DMVFN/)
+
++ [TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction](https://arxiv.org/abs/2303.09807)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09807)
+
++ [Implicit Stacked Autoregressive Model for Video Prediction](https://arxiv.org/abs/2303.07849)  
+  [![Star](https://img.shields.io/github/stars/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction.svg?style=social&label=Star)](https://github.com/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07849)
+
++ [MOSO: Decomposing MOtion, Scene and Object for Video Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf) (CVPR 2023)  
+  [![Star](https://img.shields.io/github/stars/iva-mzsun/MOSO.svg?style=social&label=Star)](https://github.com/iva-mzsun/MOSO)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.03684)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://iva-mzsun.github.io/MOSO)
+
++ [Polar Prediction of Natural Videos](https://arxiv.org/abs/2303.03432)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.03432)
+
++ [STDepthFormer: Predicting Spatio-temporal Depth from Video with a Self-supervised Transformer Model](https://arxiv.org/abs/2303.01196) (IROS 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01196)
+
++ [Object-Centric Video Prediction via Decoupling of Object Dynamics and Interactions](https://arxiv.org/abs/2302.11850)  
+  [![Star](https://img.shields.io/github/stars/AIS-Bonn/OCVP-object-centric-video-prediction.svg?style=social&label=Star)](https://github.com/AIS-Bonn/OCVP-object-centric-video-prediction)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.11850)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/ocvp-vp)
+
++ [Anti-aliasing Predictive Coding Network for Future Video Frame Prediction](https://arxiv.org/abs/2301.05421)  
+  [![Star](https://img.shields.io/github/stars/ling-cf/ppnv2.svg?style=social&label=Star)](https://github.com/ling-cf/ppnv2)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.05421)
+
++ [Long-horizon video prediction using a dynamic latent hierarchy](https://arxiv.org/abs/2212.14376)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.14376)
+
++ [Motion and Context-Aware Audio-Visual Conditioned Video Prediction](https://arxiv.org/abs/2212.04679)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.04679)
+
++ [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/25289) (AAAI 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.04655)
+
++ [A unified model for continuous conditional video prediction](https://arxiv.org/abs/2210.05810) (CVPR 2023 Workshop)  
+  [![Star](https://img.shields.io/github/stars/XiYe20/NPVP.svg?style=social&label=Star)](https://github.com/XiYe20/NPVP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.05810)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://npvp.github.io/)
+
++ [PreCNet: Next-Frame Video Prediction Based on Predictive Coding](https://arxiv.org/abs/2004.14878) (IEEE TNNLS 2023)  
+  [![Star](https://img.shields.io/github/stars/ctu-vras/precnet.svg?style=social&label=Star)](https://github.com/ctu-vras/precnet)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.14878)
+
+
+
 
 
 ## 2022
@@ -558,6 +636,10 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.02815)
 
 
+__temporary__:
+
+SimVP: Simpler yet Better Video Prediction (CVPR 2022)
+
 ## 2021
 
 + [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://arxiv.org/pdf/2111.12417)  
@@ -737,7 +819,15 @@
   [![Star](https://img.shields.io/github/stars/amunozgarza/tsb-gan.svg?style=social&label=Star)](https://github.com/amunozgarza/tsb-gan)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.01823)
 
-__temporary__: https://free-view-video.github.io/
+
+
+__temporary__:
+
+Dynamic View Synthesis from Dynamic Monocular Video (ICCV 2021)
+https://free-view-video.github.io/
+
+
+Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 2021)
 
 
 ## 2020
