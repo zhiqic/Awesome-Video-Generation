@@ -772,7 +772,36 @@ __temporary__: https://free-view-video.github.io/
   [![Star](https://img.shields.io/github/stars/edouardelasalles/srvp.svg?style=social&label=Star)](https://github.com/edouardelasalles/srvp) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2002.09219)
 
++ [G3AN: Disentangling Appearance and Motion for Video Generation](https://arxiv.org/pdf/1912.05523) (CVPR 2020)  
+  [![Star](https://img.shields.io/github/stars/wyhsirius/g3an-project.svg?style=social&label=Star)](https://github.com/wyhsirius/g3an-project) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1912.05523)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://wyhsirius.github.io/G3AN/)
+
++ [Scaling Autoregressive Video Models](https://arxiv.org/pdf/1906.02634) (ICLR 2020)  
+  [![Star](https://img.shields.io/github/stars/rakhimovv/lvt.svg?style=social&label=Star)](https://github.com/rakhimovv/lvt) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1906.02634)
+
 ## 2019
+
++ [Music-oriented Dance Video Synthesis with Pose Perceptual Loss](https://arxiv.org/pdf/2002.09219)  
+  [![Star](https://img.shields.io/github/stars/xrenaa/Music-Dance-Video-Synthesis.svg?style=social&label=Star)](https://github.com/xrenaa/Music-Dance-Video-Synthesis) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2002.09219)
+
++ [DwNet: Dense warp-based network for pose-guided human video generation](https://arxiv.org/pdf/1910.09139)  
+  [![Star](https://img.shields.io/github/stars/ubc-vision/DwNet.svg?style=social&label=Star)](https://github.com/ubc-vision/DwNet) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1910.09139)
+
++ [Order Matters: Shuffling Sequence Generation for Video Prediction](https://arxiv.org/pdf/1907.08845)  
+  [![Star](https://img.shields.io/github/stars/andrewjywang/SEENet.svg?style=social&label=Star)](https://github.com/andrewjywang/SEENet) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1907.08845)
+
++ [Adversarial Video Generation on Complex Datasets](https://arxiv.org/pdf/1907.06571)  
+  [![Star](https://img.shields.io/github/stars/Harrypotterrrr/DVD-GAN.svg?style=social&label=Star)](https://github.com/Harrypotterrrr/DVD-GAN) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1907.06571)
+
++ [From Here to There: Video Inbetweening Using Direct 3D Convolutions](https://arxiv.org/pdf/1905.10240)  
+  [![Star](https://img.shields.io/github/stars/xih108/Video_Completion.svg?style=social&label=Star)](https://github.com/xih108/Video_Completion) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1905.10240)
 
 ## 2018
 
