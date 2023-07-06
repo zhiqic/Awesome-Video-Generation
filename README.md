@@ -256,7 +256,7 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tsaishien-chen.github.io/MCDiff/)
 
-+ [LaMD: Latent Motion Diffusion for Video Generation](https://arxiv.org/abs/2304.11603) (Apr., 2023)  
++ [LaMD: Latent Motion Diffusion for Video Generation](https://arxiv.org/abs/2304.11603)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11603)   
 
 + [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://arxiv.org/abs/2304.06025)  
@@ -285,6 +285,61 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01418) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://priormdm.github.io/priorMDM-page/)
 
++ [ Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions ]( https://arxiv.org/abs/2306.03988 )   
+  [![Star](https://img.shields.io/github/stars/araachie/yoda.svg?style=social&label=Star)]( https://github.com/araachie/yoda ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2306.03988 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://araachie.github.io/yoda/ )
+
++ [ Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance ]( https://arxiv.org/abs/2306.00943 )   
+  [![Star](https://img.shields.io/github/stars/VideoCrafter/Make-Your-Video.svg?style=social&label=Star)]( https://github.com/VideoCrafter/Make-Your-Video ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2306.00943 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://doubiiu.github.io/projects/Make-Your-Video/ )
+
++ [ Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts ]( https://arxiv.org/abs/2305.08850 )   
+  [![Star](https://img.shields.io/github/stars/HeliosZhao/Make-A-Protagonist.svg?style=social&label=Star)]( https://github.com/HeliosZhao/Make-A-Protagonist ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.08850 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://make-a-protagonist.github.io/ )
+
++ [ DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation ]( https://arxiv.org/abs/2305.06225 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.06225 ) 
+
++ [ LEO: Generative Latent Image Animator for Human Video Synthesis ]( https://arxiv.org/abs/2305.03989 )   
+  [![Star](https://img.shields.io/github/stars/wyhsirius/LEO.svg?style=social&label=Star)]( https://github.com/wyhsirius/LEO ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.03989 ) 
+
++ [ Multi-object Video Generation from Single Frame Layouts ]( https://arxiv.org/abs/2305.03983 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.03983 ) 
+
++ [ StyleLipSync: Style-based Personalized Lip-sync Video Generation ]( https://arxiv.org/abs/2305.00521 )   
+  [![Star](https://img.shields.io/github/stars/TaekyungKi/StyleLipSync.svg?style=social&label=Star)]( https://github.com/TaekyungKi/StyleLipSync ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.00521 ) 
+
++ [ High-Fidelity and Freely Controllable Talking Head Video Generation ]( https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.pdf ) (CVPR 2023)   
+  [![Star](https://img.shields.io/github/stars/hologerry/PECHead.svg?style=social&label=Star)]( https://github.com/hologerry/PECHead ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2304.10168 ) 
+
++ [ Video Generation Beyond a Single Clip ]( https://arxiv.org/abs/2304.07483 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2304.07483 ) 
+
++ [ DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions ]( https://arxiv.org/abs/2303.07697 ) (ICASSP 2023)   
+  [![Star](https://img.shields.io/github/stars/deepbrainai-research/discohead.svg?style=social&label=Star)]( https://github.com/deepbrainai-research/discohead ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.07697 ) 
+
++ [ Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE ]( https://arxiv.org/abs/2303.05323 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.05323 ) 
+
++ [ DPE: Disentanglement of Pose and Expression for General Video Portrait Editing ]( https://openaccess.thecvf.com/content/CVPR2023/papers/Pang_DPE_Disentanglement_of_Pose_and_Expression_for_General_Video_Portrait_CVPR_2023_paper.pdf ) (CVPR 2023)   
+  [![Star](https://img.shields.io/github/stars/OpenTalker/DPE.svg?style=social&label=Star)]( https://github.com/OpenTalker/DPE ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2301.06281 ) 
+
++ [ PV3D: A 3D Generative Model for Portrait Video Generation ]( https://arxiv.org/abs/2212.06384 ) (ICLR 2023)   
+  [![Star](https://img.shields.io/github/stars/bytedance/pv3d.svg?style=social&label=Star)]( https://github.com/bytedance/pv3d ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2212.06384 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://showlab.github.io/pv3d/ )
+
+
+
+
 ## 2022
 
 
@@ -306,9 +361,10 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=nJfylDvgzlq) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://makeavideo.studio)
 
-+ [Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2203.06605) (CVPR 2022)   
++ [DaGAN: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2203.06605) (CVPR 2022)   
   [![Star](https://img.shields.io/github/stars/harlanhong/CVPR2022-DaGAN.svg?style=social&label=Star)](https://github.com/harlanhong/CVPR2022-DaGAN) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2203.06605)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://harlanhong.github.io/publications/dagan.html)
 
 + [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](https://arxiv.org/abs/2203.02573) (CVPR 2022)   
   [![Star](https://img.shields.io/github/stars/snap-research/MMVID.svg?style=social&label=Star)](https://github.com/snap-research/MMVID) 
@@ -341,11 +397,6 @@
   [alt-website](https://phenaki.video/)
 
   Code (unofficial?): [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)]( https://github.com/XX/YY ) 
-
-
-+ [ Cogvideo: Large-scale pretraining for text-to-video generation via transformers ]( https://arxiv.org/abs/2205.15868 )   
-  [![Star](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Star)]( https://github.com/THUDM/CogVideo ) 
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( (Conference) ) 
 
 + [ Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation ]( https://arxiv.org/abs/2212.11565 )   
   [![Star](https://img.shields.io/github/stars/bbzhu-jy16/motionvideogan.svg?style=social&label=Star)]( https://github.com/showlab/Tune-A-Video ) 
