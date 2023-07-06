@@ -337,6 +337,24 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2212.06384 ) 
   [![Website](https://img.shields.io/badge/Website-9cf)]( https://showlab.github.io/pv3d/ )
 
++ [ AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion ]( https://arxiv.org/abs/2305.04001 ) (CVPR 2023 Workshop)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2305.04001 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://lifrary.github.io/AADiff/ )
+
++ [ Controllable One-Shot Face Video Synthesis With Semantic Aware Prior ]( https://arxiv.org/abs/2304.14471 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2304.14471 ) 
+
++ [ Decoupling Dynamic Monocular Videos for Dynamic View Synthesis ]( https://arxiv.org/abs/2304.01716 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2304.01716 ) 
+
++ [ Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis ]( https://arxiv.org/abs/2303.12644 ) (MICCAI 2023)   
+  [![Star](https://img.shields.io/github/stars/HReynaud/EchoDiffusion.svg?style=social&label=Star)]( https://github.com/HReynaud/EchoDiffusion ) 
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2303.12644 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://hreynaud.github.io/EchoDiffusion/ )
+
++ [ WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction ]( https://arxiv.org/abs/2211.14308 )   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2211.14308 ) 
+  [![Website](https://img.shields.io/badge/Website-9cf)]( https://16lemoing.github.io/waldo/ )
 
 
 
@@ -677,6 +695,10 @@
   [![Star](https://img.shields.io/github/stars/FuxiVirtualHuman/Write-a-Speaker.svg?style=social&label=Star)](https://github.com/willi-menapace/PlayableVideoGeneration) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2101.12195)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
+
+
+__temporary__: https://free-view-video.github.io/
+
 
 ## 2020
 
