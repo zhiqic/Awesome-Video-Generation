@@ -1,6 +1,9 @@
 
 # video-generation-survey
 
+
+
+
 <p align="center">
 <img src="https://magvit.cs.cmu.edu/img/fp/00083_gen_sr.gif" width="240px"/>  
 <img src="https://magvit.cs.cmu.edu/img/mt_ssv2/full_generation_0143SqueezingSomething_000000782_sr.gif" width="240px"/> 
@@ -19,7 +22,12 @@
 (Source: <a href="https://mask-cond-video-diffusion.github.io">MCVD</a>, <a href="https://modelscope.cn/models/damo/text-to-video-synthesis/summary">VideoFusion</a>, and <a href="https://kfmei.page/vidm/">VIDM</a>.)
 </p>
 
+
+
+
 ## Survey Papers
+
+
 
 + [ Video Frame Interpolation: A Comprehensive Survey ]( https://dl.acm.org/doi/10.1145/3556544 )
   
@@ -35,8 +43,14 @@
   [![Star](https://img.shields.io/github/stars/lelechen63/talking-head-generation-survey.svg?style=social&label=Star)](https://github.com/lelechen63/talking-head-generation-survey) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2005.03201)
 
++ [ A Review on Deep Learning Techniques for Video Prediction ]( https://arxiv.org/abs/2004.05214 ) (2020)    
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]( https://arxiv.org/abs/2004.05214 ) 
+
+
 
 ## Datasets
+
+
 
 + [ CelebV-Text: A Large-Scale Facial Text-Video Dataset ]( https://arxiv.org/abs/2303.14717 )   
   [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)]( https://github.com/CelebV-Text/CelebV-Text ) 
@@ -48,7 +62,12 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.12393) 
   [![Website](https://img.shields.io/badge/Website-9cf)](https://celebv-hq.github.io/)
 
+
+
+
 ## 2023
+
+
 
 + [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)   
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01872)
@@ -361,7 +380,9 @@
 
 
 
+
 ## 2022
+
 
 
 + [Video Diffusion Models](https://arxiv.org/abs/2204.03458) (NeurIPS 2022)   
@@ -715,6 +736,7 @@
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/par/publication/sg2vid.html)
 
 + [Temporal Shift GAN for Large Scale Video Generation](https://arxiv.org/pdf/2004.01823) (WACV 2021)
+
   [![Star](https://img.shields.io/github/stars/amunozgarza/tsb-gan.svg?style=social&label=Star)](https://github.com/amunozgarza/tsb-gan) 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.01823)
 
