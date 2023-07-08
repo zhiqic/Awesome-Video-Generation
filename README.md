@@ -53,21 +53,25 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 
 
-+ 1.[CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://arxiv.org/abs/2303.14717)  
++ [CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://arxiv.org/abs/2303.14717)  
   [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/CelebV-Text/CelebV-Text)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14717)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://celebv-text.github.io/)
 
-+ 2.[CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393)  
++ [CelebV-HQ: A Large-Scale Video Facial Attributes Dataset](https://arxiv.org/abs/2207.12393)  
   [![Star](https://img.shields.io/github/stars/celebv-hq/celebv-hq.svg?style=social&label=Star)](https://github.com/celebv-hq/celebv-hq)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2207.12393)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://celebv-hq.github.io/)
 
-+ 3.[UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://arxiv.org/pdf/1212.0402)  
++ [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://arxiv.org/pdf/1212.0402)  
   [![Star](https://img.shields.io/github/stars/wushidonguc/two-stream-action-recognition-keras.svg?style=social&label=Star)](https://github.com/wushidonguc/two-stream-action-recognition-keras)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1212.0402)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://tensorflow.google.cn/datasets/catalog/ucf101)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.crcv.ucf.edu/data/UCF101.php)
 
++ [The Kinetics Human Action Video Dataset](https://arxiv.org/pdf/1705.06950)  
+  [![Star](https://img.shields.io/github/stars/deepmind/kinetics-i3d.svg?style=social&label=Star)](https://github.com/deepmind/kinetics-i3d)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1705.06950)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.deepmind.com/open-source/kinetics)
 
 ## 2023
 
