@@ -894,6 +894,11 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/rakhimovv/lvt.svg?style=social&label=Star)](https://github.com/rakhimovv/lvt)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1906.02634)
 
++ [VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation](https://arxiv.org/pdf/1903.04480) (ICLR 2020)
+  [![Star](https://img.shields.io/github/stars/tensorflow/tensor2tensor.svg?style=social&label=Star)](https://github.com/tensorflow/tensor2tensor)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1903.04480)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lucassheng.github.io/publication/pan-video-2019/)
+
 ## 2019
 
 + [Music-oriented Dance Video Synthesis with Pose Perceptual Loss](https://arxiv.org/pdf/2002.09219)  
@@ -916,7 +921,57 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/xih108/Video_Completion.svg?style=social&label=Star)](https://github.com/xih108/Video_Completion)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1905.10240)
 
++ [Improved Conditional VRNNs for Video Prediction](https://arxiv.org/pdf/1904.12165) (ICCV 2019)  
+  [![Star](https://img.shields.io/github/stars/facebookresearch/improved_vrnn.svg?style=social&label=Star)](https://github.com/facebookresearch/improved_vrnn)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.12165)
+
++ [Sliced Wasserstein Generative Models](https://arxiv.org/pdf/1706.02631) (CVPR 2019)  
+  [![Star](https://img.shields.io/github/stars/musikisomorphie/swd.svg?style=social&label=Star)](https://github.com/musikisomorphie/swd)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1706.02631)
+
++ [Point-to-Point Video Generation](https://arxiv.org/pdf/1904.02912) (ICCV 2019)
+  [![Star](https://img.shields.io/github/stars/yccyenchicheng/p2pvg.svg?style=social&label=Star)](https://github.com/yccyenchicheng/p2pvg)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.02912)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zswang666.github.io/P2PVG-Project-Page/)
+
++ [High Frame Rate Video Reconstruction based on an Event Camera](https://arxiv.org/pdf/1903.06531)
+  [![Star](https://img.shields.io/github/stars/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera.svg?style=social&label=Star)](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1903.06531)
+
++ [Video Generation from Single Semantic Label Map](https://arxiv.org/pdf/1903.04480) (CVPR 2019)
+  [![Star](https://img.shields.io/github/stars/junting/seg2vid.svg?style=social&label=Star)](https://github.com/junting/seg2vid)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1903.04480)
+
++ [Learning to navigate image manifolds induced by generative adversarial networks for unsupervised video generation](https://arxiv.org/pdf/1901.11384)  
+  [![Star](https://img.shields.io/github/stars/junting/seg2vid.svg?style=social&label=Star)](https://github.com/belaalb/frameGAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1901.11384)
+
++ [Animating Arbitrary Objects via Deep Motion Transfer](https://arxiv.org/pdf/1812.08861) (CVPR 2019)
+  [![Star](https://img.shields.io/github/stars/AliaksandrSiarohin/monkey-net.svg?style=social&label=Star)](https://github.com/AliaksandrSiarohin/monkey-net)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.08861)
+
++ [StoryGAN: A Sequential Conditional GAN for Story Visualization](https://arxiv.org/pdf/1812.02784) (CVPR 2019)  
+  [![Star](https://img.shields.io/github/stars/yitong91/StoryGAN.svg?style=social&label=Star)](https://github.com/yitong91/StoryGAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.02784)
+
 ## 2018
+
++ [TwoStreamVAN: Improving Motion Modeling in Video Generation](https://arxiv.org/pdf/1812.01037)
+  [![Star](https://img.shields.io/github/stars/sunxm2357/TwoStreamVAN.svg?style=social&label=Star)](https://github.com/sunxm2357/TwoStreamVAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.01037)
+
++ [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](https://arxiv.org/pdf/1811.09393)
+  [![Star](https://img.shields.io/github/stars/thunil/TecoGAN.svg?style=social&label=Star)](https://github.com/thunil/TecoGAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1811.09393)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ge.in.tum.de/wp-content/uploads/2020/05/ClickMe.html)
+
++ [Towards High Resolution Video Generation with Progressive Growing of Sliced Wasserstein GANs](https://arxiv.org/pdf/1810.02419)
+  [![Star](https://img.shields.io/github/stars/musikisomorphie/swd.svg?style=social&label=Star)](https://github.com/musikisomorphie/swd)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1810.02419)
+
++ [Everybody Dance Now](https://arxiv.org/pdf/1808.07371) (ICCV 2019)
+  [![Star](https://img.shields.io/github/stars/carolineec/EverybodyDanceNow.svg?style=social&label=Star)](https://github.com/carolineec/EverybodyDanceNow)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1808.07371)
 
 ## 2017
 
