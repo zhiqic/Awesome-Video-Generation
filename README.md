@@ -929,16 +929,16 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/musikisomorphie/swd.svg?style=social&label=Star)](https://github.com/musikisomorphie/swd)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1706.02631)
 
-+ [Point-to-Point Video Generation](https://arxiv.org/pdf/1904.02912) (ICCV 2019)
++ [Point-to-Point Video Generation](https://arxiv.org/pdf/1904.02912) (ICCV 2019)  
   [![Star](https://img.shields.io/github/stars/yccyenchicheng/p2pvg.svg?style=social&label=Star)](https://github.com/yccyenchicheng/p2pvg)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1904.02912)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zswang666.github.io/P2PVG-Project-Page/)
 
-+ [High Frame Rate Video Reconstruction based on an Event Camera](https://arxiv.org/pdf/1903.06531)
++ [High Frame Rate Video Reconstruction based on an Event Camera](https://arxiv.org/pdf/1903.06531)  
   [![Star](https://img.shields.io/github/stars/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera.svg?style=social&label=Star)](https://github.com/panpanfei/Bringing-a-Blurry-Frame-Alive-at-High-Frame-Rate-with-an-Event-Camera)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1903.06531)
 
-+ [Video Generation from Single Semantic Label Map](https://arxiv.org/pdf/1903.04480) (CVPR 2019)
++ [Video Generation from Single Semantic Label Map](https://arxiv.org/pdf/1903.04480) (CVPR 2019)  
   [![Star](https://img.shields.io/github/stars/junting/seg2vid.svg?style=social&label=Star)](https://github.com/junting/seg2vid)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1903.04480)
 
@@ -946,7 +946,7 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/junting/seg2vid.svg?style=social&label=Star)](https://github.com/belaalb/frameGAN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1901.11384)
 
-+ [Animating Arbitrary Objects via Deep Motion Transfer](https://arxiv.org/pdf/1812.08861) (CVPR 2019)
++ [Animating Arbitrary Objects via Deep Motion Transfer](https://arxiv.org/pdf/1812.08861) (CVPR 2019)  
   [![Star](https://img.shields.io/github/stars/AliaksandrSiarohin/monkey-net.svg?style=social&label=Star)](https://github.com/AliaksandrSiarohin/monkey-net)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.08861)
 
@@ -961,20 +961,20 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
 
 ## 2018
 
-+ [TwoStreamVAN: Improving Motion Modeling in Video Generation](https://arxiv.org/pdf/1812.01037)
++ [TwoStreamVAN: Improving Motion Modeling in Video Generation](https://arxiv.org/pdf/1812.01037)  
   [![Star](https://img.shields.io/github/stars/sunxm2357/TwoStreamVAN.svg?style=social&label=Star)](https://github.com/sunxm2357/TwoStreamVAN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.01037)
 
-+ [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](https://arxiv.org/pdf/1811.09393)
++ [Learning Temporal Coherence via Self-Supervision for GAN-based Video Generation](https://arxiv.org/pdf/1811.09393)  
   [![Star](https://img.shields.io/github/stars/thunil/TecoGAN.svg?style=social&label=Star)](https://github.com/thunil/TecoGAN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1811.09393)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ge.in.tum.de/wp-content/uploads/2020/05/ClickMe.html)
 
-+ [Towards High Resolution Video Generation with Progressive Growing of Sliced Wasserstein GANs](https://arxiv.org/pdf/1810.02419)
++ [Towards High Resolution Video Generation with Progressive Growing of Sliced Wasserstein GANs](https://arxiv.org/pdf/1810.02419)  
   [![Star](https://img.shields.io/github/stars/musikisomorphie/swd.svg?style=social&label=Star)](https://github.com/musikisomorphie/swd)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1810.02419)
 
-+ [Everybody Dance Now](https://arxiv.org/pdf/1808.07371) (ICCV 2019)
++ [Everybody Dance Now](https://arxiv.org/pdf/1808.07371) (ICCV 2019)  
   [![Star](https://img.shields.io/github/stars/carolineec/EverybodyDanceNow.svg?style=social&label=Star)](https://github.com/carolineec/EverybodyDanceNow)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1808.07371)
 
@@ -983,7 +983,7 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1807.09951)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://garyzhao.github.io/archives/eccv18_frgan_poster.pdf)
 
-+ [Talking Face Generation by Conditional Recurrent Adversarial Network](https://arxiv.org/pdf/1804.04786)
++ [Talking Face Generation by Conditional Recurrent Adversarial Network](https://arxiv.org/pdf/1804.04786)  
   [![Star](https://img.shields.io/github/stars/susanqq/Talking_Face_Generation.svg?style=social&label=Star)](https://github.com/susanqq/Talking_Face_Generation)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1804.04786)
 
@@ -991,12 +991,12 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/yccyenchicheng/pytorch-VideoVAE.svg?style=social&label=Star)](https://github.com/yccyenchicheng/pytorch-VideoVAE)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1803.08085)
 
-+ [Stochastic Video Generation with a Learned Prior](https://arxiv.org/pdf/1802.07687) (ICML 2018)
++ [Stochastic Video Generation with a Learned Prior](https://arxiv.org/pdf/1802.07687) (ICML 2018)  
   [![Star](https://img.shields.io/github/stars/edenton/svg.svg?style=social&label=Star)](https://github.com/edenton/svg)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.07687)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://holmdk.github.io/2020/01/22/stochastic_vid.html)
 
-+ [Stochastic Video Generation with a Learned Prior](https://arxiv.org/pdf/1802.07687) (ICML 2018)
++ [Stochastic Video Generation with a Learned Prior](https://arxiv.org/pdf/1802.07687) (ICML 2018)  
   [![Star](https://img.shields.io/github/stars/edenton/svg.svg?style=social&label=Star)](https://github.com/edenton/svg)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.07687)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://holmdk.github.io/2020/01/22/stochastic_vid.html)
@@ -1019,7 +1019,7 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/bernhard2202/improved-video-gan.svg?style=social&label=Star)](https://github.com/bernhard2202/improved-video-gan)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1711.11453)
 
-+ [Attentive Semantic Video Generation using Captions](https://arxiv.org/pdf/1708.05980) (ICCV 2017)
++ [Attentive Semantic Video Generation using Captions](https://arxiv.org/pdf/1708.05980) (ICCV 2017)  
   [![Star](https://img.shields.io/github/stars/Singularity42/cap2vid.svg?style=social&label=Star)](https://github.com/Singularity42/cap2vid)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1708.05980)
 
