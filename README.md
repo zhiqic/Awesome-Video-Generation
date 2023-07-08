@@ -954,6 +954,10 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/yitong91/StoryGAN.svg?style=social&label=Star)](https://github.com/yitong91/StoryGAN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1812.02784)
 
++ [Stochastic Adversarial Video Prediction](https://arxiv.org/pdf/1804.01523) (ICLR 2019)  
+  [![Star](https://img.shields.io/github/stars/alexlee-gk/video_prediction.svg?style=social&label=Star)](https://github.com/alexlee-gk/video_prediction)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1804.01523)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-prediction.github.io/video_prediction/)
 ## 2018
 
 + [TwoStreamVAN: Improving Motion Modeling in Video Generation](https://arxiv.org/pdf/1812.01037)
@@ -973,6 +977,28 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/carolineec/EverybodyDanceNow.svg?style=social&label=Star)](https://github.com/carolineec/EverybodyDanceNow)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1808.07371)
 
++ [Learning to Forecast and Refine Residual Motion for Image-to-Video Generation](https://arxiv.org/pdf/1807.09951) (ECCV 2018)  
+  [![Star](https://img.shields.io/github/stars/garyzhao/FRGAN.svg?style=social&label=Star)](https://github.com/garyzhao/FRGAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1807.09951)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://garyzhao.github.io/archives/eccv18_frgan_poster.pdf)
+
++ [Talking Face Generation by Conditional Recurrent Adversarial Network](https://arxiv.org/pdf/1804.04786)
+  [![Star](https://img.shields.io/github/stars/susanqq/Talking_Face_Generation.svg?style=social&label=Star)](https://github.com/susanqq/Talking_Face_Generation)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1804.04786)
+
++ [Probabilistic Video Generation using Holistic Attribute Control](https://arxiv.org/pdf/1803.08085) (ECCV 2018)  
+  [![Star](https://img.shields.io/github/stars/yccyenchicheng/pytorch-VideoVAE.svg?style=social&label=Star)](https://github.com/yccyenchicheng/pytorch-VideoVAE)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1803.08085)
+
++ [Stochastic Video Generation with a Learned Prior](https://arxiv.org/pdf/1802.07687) (ICML 2018)
+  [![Star](https://img.shields.io/github/stars/edenton/svg.svg?style=social&label=Star)](https://github.com/edenton/svg)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.07687)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://holmdk.github.io/2020/01/22/stochastic_vid.html)
+
++ [Stochastic Video Generation with a Learned Prior](https://arxiv.org/pdf/1802.07687) (ICML 2018)
+  [![Star](https://img.shields.io/github/stars/edenton/svg.svg?style=social&label=Star)](https://github.com/edenton/svg)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.07687)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://holmdk.github.io/2020/01/22/stochastic_vid.html)
 ## 2017
 
 ## 2016
