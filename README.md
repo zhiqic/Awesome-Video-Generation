@@ -958,6 +958,7 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/alexlee-gk/video_prediction.svg?style=social&label=Star)](https://github.com/alexlee-gk/video_prediction)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1804.01523)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://video-prediction.github.io/video_prediction/)
+
 ## 2018
 
 + [TwoStreamVAN: Improving Motion Modeling in Video Generation](https://arxiv.org/pdf/1812.01037)
@@ -999,9 +1000,44 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
   [![Star](https://img.shields.io/github/stars/edenton/svg.svg?style=social&label=Star)](https://github.com/edenton/svg)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1802.07687)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://holmdk.github.io/2020/01/22/stochastic_vid.html)
+
++ [Stochastic Variational Video Prediction](https://arxiv.org/pdf/1710.11252) (ICLR 2018)  
+  [![Star](https://img.shields.io/github/stars/RoboTurk-Platform/roboturk_real_dataset.svg?style=social&label=Star)](https://github.com/RoboTurk-Platform/roboturk_real_dataset)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1710.11252)
+
++ [Hierarchical Video Generation from Orthogonal Information: Optical Flow and Texture](https://arxiv.org/pdf/1711.09618) (AAAI 2018)  
+  [![Star](https://img.shields.io/github/stars/mil-tokyo/FTGAN.svg?style=social&label=Star)](https://github.com/mil-tokyo/FTGAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1711.09618)
+
++ [MoCoGAN: Decomposing Motion and Content for Video Generation](https://arxiv.org/pdf/1707.04993) (CVPR 2018)  
+  [![Star](https://img.shields.io/github/stars/sergeytulyakov/mocogan.svg?style=social&label=Star)](https://github.com/sergeytulyakov/mocogan)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1707.04993)
+
 ## 2017
 
++ [Improving Video Generation for Multi-functional Applications](https://arxiv.org/pdf/1711.11453)  
+  [![Star](https://img.shields.io/github/stars/bernhard2202/improved-video-gan.svg?style=social&label=Star)](https://github.com/bernhard2202/improved-video-gan)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1711.11453)
+
++ [Attentive Semantic Video Generation using Captions](https://arxiv.org/pdf/1708.05980) (ICCV 2017)
+  [![Star](https://img.shields.io/github/stars/Singularity42/cap2vid.svg?style=social&label=Star)](https://github.com/Singularity42/cap2vid)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1708.05980)
+
++ [Temporal Generative Adversarial Nets with Singular Value Clipping](https://arxiv.org/pdf/1611.06624) (ICCV 2017)  
+  [![Star](https://img.shields.io/github/stars/universome/stylegan-v.svg?style=social&label=Star)](https://github.com/universome/stylegan-v)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1611.06624)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://pfnet-research.github.io/tgan/)
+
+
 ## 2016
+
++ [Sync-DRAW: Automatic Video Generation using Deep Recurrent Attentive Architectures](https://arxiv.org/pdf/1611.10314)  
+  [![Star](https://img.shields.io/github/stars/Singularity42/Sync-DRAW.svg?style=social&label=Star)](https://github.com/Singularity42/Sync-DRAW)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1611.10314)
+
++ [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/pdf/1605.07157)  
+  [![Star](https://img.shields.io/github/stars/Xiaohui9607/physical_interaction_video_prediction_pytorch.svg?style=social&label=Star)](https://github.com/Xiaohui9607/physical_interaction_video_prediction_pytorch)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1605.07157)
 
 <!--
   // Entry template
