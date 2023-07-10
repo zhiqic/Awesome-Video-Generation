@@ -1,0 +1,1244 @@
+Feature Extraction, Classification and Prediction for Hand Hygiene Gestures with KNN Algorithm
+Spatial Distribution Patterns of Clownfish in Recirculating Aquaculture Systems
+Skin feature point tracking using deep feature encodings
+Extended Self-Critical Pipeline for Transforming Videos to Text (TRECVID-VTT Task 2021) -- Team: MMCUniAugsburg
+Synchronized Audio-Visual Frames with Fractional Positional Encoding for Transformers in Video-to-Text Translation
+Video Reconstruction from a Single Motion Blurred Image using Learned Dynamic Phase Coding
+Multiagent Model-based Credit Assignment for Continuous Control
+Non-Reference Quality Monitoring of Digital Images using Gradient Statistics and Feedforward Neural Networks
+Temporally Constrained Neural Networks (TCNN): A framework for semi-supervised video semantic segmentation
+Weakly Supervised Visual-Auditory Fixation Prediction with Multigranularity Perception
+Video Joint Modelling Based on Hierarchical Transformer for Co-summarization
+Bilingual Speech Recognition by Estimating Speaker Geometry from Video Data
+Will You Dance To The Challenge? Predicting User Participation of TikTok Challenges
+Learning Cross-Scale Weighted Prediction for Efficient Neural Video Compression
+Network-Aware 5G Edge Computing for Object Detection: Augmenting Wearables to "See" More, Farther and Faster
+Benchmarking Pedestrian Odometry: The Brown Pedestrian Odometry Dataset (BPOD)
+Your Face Mirrors Your Deepest Beliefs-Predicting Personality and Morals through Facial Emotion Recognition
+Iteratively Selecting an Easy Reference Frame Makes Unsupervised Video Object Segmentation Easier
+Perceptual Evaluation of 360 Audiovisual Quality and Machine Learning Predictions
+Multimodal Personality Recognition using Cross-Attention Transformer and Behaviour Encoding
+Recur, Attend or Convolve? On Whether Temporal Modeling Matters for Cross-Domain Robustness in Action Recognition
+DA-FDFtNet: Dual Attention Fake Detection Fine-tuning Network to Detect Various AI-Generated Fake Images
+Class-aware Sounding Objects Localization via Audiovisual Correspondence
+Graph augmented Deep Reinforcement Learning in the GameRLand3D environment
+Generalized Local Optimality for Video Steganalysis in Motion Vector Domain
+Adaptive Contrast for Image Regression in Computer-Aided Disease Assessment
+Decompose the Sounds and Pixels, Recompose the Events
+Review of Face Presentation Attack Detection Competitions
+Expansion-Squeeze-Excitation Fusion Network for Elderly Activity Recognition
+Watch Those Words: Video Falsification Detection Using Word-Conditioned Facial Motion
+Mask2Former for Video Instance Segmentation
+A Multi-user Oriented Live Free-viewpoint Video Streaming System Based On View Interpolation
+Initiative Defense against Facial Manipulation
+Reasoning Structural Relation for Occlusion-Robust Facial Landmark Localization
+A New Image Codec Paradigm for Human and Machine Uses
+Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs
+Soundify: Matching Sound Effects to Video
+Cross-Model Pseudo-Labeling for Semi-Supervised Action Recognition
+Align and Prompt: Video-and-Language Pre-training with Entity Prompts
+NFTGAN: Non-Fungible Token Art Generation Using Generative Adversarial Networks
+Masked Feature Prediction for Self-Supervised Visual Pre-Training
+Stable Long-Term Recurrent Video Super-Resolution
+Forensic Analysis of Synthetically Generated Western Blot Images
+ForgeryNet -- Face Forgery Analysis Challenge 2021: Methods and Results
+SeqFormer: Sequential Transformer for Video Instance Segmentation
+Self-Supervised Monocular Depth and Ego-Motion Estimation in Endoscopy: Appearance Flow to the Rescue
+Head Matters: Explainable Human-centered Trait Prediction from Head Motion Dynamics
+Autoencoder-based background reconstruction and foreground segmentation with background noise estimation
+Temporal Action Proposal Generation with Background Constraint
+Overview of the EEG Pilot Subtask at MediaEval 2021: Predicting Media Memorability
+Predicting Media Memorability: Comparing Visual, Textual and Auditory Features
+Temporal Shuffling for Defending Deep Action Recognition Models against Adversarial Attacks
+Assessing Human Interaction in Virtual Reality With Continually Learning Prediction Agents Based on Reinforcement Learning Algorithms: A Pilot Study
+Approaches Toward Physical and General Video Anomaly Detection
+Learning to Deblur and Rotate Motion-Blurred Faces
+CoCo-BERT: Improving Video-Language Pre-training with Contrastive Cross-modal Matching and Denoising
+I M Avatar: Implicit Morphable Head Avatars from Videos
+Temporal Transformer Networks with Self-Supervision for Action Recognition
+A real-time spatiotemporal AI model analyzes skill in open surgical videos
+Event-guided Deblurring of Unknown Exposure Time Videos
+GCNDepth: Self-supervised Monocular Depth Estimation based on Graph Convolutional Network
+Formulating Event-based Image Reconstruction as a Linear Inverse Problem with Deep Regularization using Optical Flow
+Video as Conditional Graph Hierarchy for Multi-Granular Question Answering
+Controlled-rearing studies of newborn chicks and deep neural networks
+Overview of The MediaEval 2021 Predicting Media Memorability Task
+COMPOSER: Compositional Reasoning of Group Activity in Videos with Keypoint-Only Modality
+Seq-Masks: Bridging the gap between appearance and gait modeling for video-based person re-identification
+Multimedia Datasets for Anomaly Detection: A Review
+Cross-Modal Transferable Adversarial Attacks from Images to Videos
+Assistive Tele-op: Leveraging Transformers to Collect Robotic Task Demonstrations
+Self-Supervised Keypoint Discovery in Behavioral Videos
+A Bilingual, OpenWorld Video Text Dataset and End-to-end Video Text Spotter with Transformer
+Progressive Attention on Multi-Level Dense Difference Maps for Generic Event Boundary Detection
+LipSound2: Self-Supervised Pre-Training for Lip-to-Speech Reconstruction and Lip Reading
+Implicit Feature Refinement for Instance Segmentation
+MASTAF: A Model-Agnostic Spatio-Temporal Attention Fusion Network for Few-shot Video Classification
+Tracking People by Predicting 3D Appearance, Location & Pose
+Audio-Visual Synchronisation in the wild
+Accoustate: Auto-annotation of IMU-generated Activity Signatures under Smart Infrastructure
+Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs
+Auxiliary Learning for Self-Supervised Video Representation via Similarity-based Knowledge Distillation
+ViewCLR: Learning Self-supervised Video Representation for Unseen Viewpoints
+MS-TCT: Multi-Scale Temporal ConvTransformer for Action Detection
+Cross-domain User Preference Learning for Cold-start Recommendation
+SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal
+DCAN: Improving Temporal Action Detection via Dual Context Aggregation
+Physics guided deep learning generative models for crystal materials discovery
+Audio Deepfake Perceptions in College Going Populations
+Self-Supervised Camera Self-Calibration from Video
+Reliable Propagation-Correction Modulation for Video Object Segmentation
+PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car
+PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation
+STSM: Spatio-Temporal Shift Module for Efficient Action Recognition
+Coupling Vision and Proprioception for Navigation of Legged Robots
+BBS-KWS:The Mandarin Keyword Spotting System Won the Video Keyword Wakeup Challenge
+How to Synthesize a Large-Scale and Trainable Micro-Expression Dataset?
+Neural Head Avatars from Monocular RGB Videos
+GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras
+The Surprising Effectiveness of Representation Learning for Visual Imitation
+Dimensions of Motion: Monocular Prediction through Flow Subspaces
+ScaleVLAD: Improving Multimodal Sentiment Analysis via Multi-Scale Fusion of Locally Descriptors
+Video-Text Pre-training with Learned Regions
+Overcoming the Domain Gap in Neural Action Representations
+Attention based Occlusion Removal for Hybrid Telepresence Systems
+Who will dropout from university? Academic risk prediction based on interpretable machine learning
+Controllable Video Captioning with an Exemplar Sentence
+Syntax Customized Video Captioning by Imitating Exemplar Sentences
+Stacked Temporal Attention: Improving First-person Action Recognition by Emphasizing Discriminative Clips
+GANSeg: Learning to Segment by Unsupervised Hierarchical Image Generation
+TBN-ViT: Temporal Bilateral Network with Vision Transformer for Video Scene Parsing
+Relational Graph Learning for Grounded Video Description Generation
+FaSS-MVS -- Fast Multi-View Stereo with Surface-Aware Semi-Global Matching from UAV-borne Monocular Imagery
+Routing with Self-Attention for Multimodal Capsule Networks
+Improving GAN Equilibrium by Raising Spatial Awareness
+Weakly-Supervised Video Object Grounding via Causal Intervention
+Tool as Embodiment for Recursive Manipulation
+Camera Motion Agnostic 3D Human Pose Estimation
+Revisiting Temporal Alignment for Video Restoration
+Two-stage Temporal Modelling Framework for Video-based Depression Recognition using Graph Representation
+CLIP Meets Video Captioning: Concept-Aware Representation Learning Does Matter
+AirObject: A Temporally Evolving Graph Embedding for Object Identification
+Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning
+LEGS: Learning Efficient Grasp Sets for Exploratory Grasping
+UBoCo : Unsupervised Boundary Contrastive Learning for Generic Event Boundary Detection
+SAGCI-System: Towards Sample-Efficient, Generalizable, Compositional, and Incremental Robot Learning
+LiVLR: A Lightweight Visual-Linguistic Reasoning Framework for Video Question Answering
+Motion-from-Blur: 3D Shape and Motion Estimation of Motion-blurred Objects in Videos
+How Deep Are the Fakes? Focusing on Audio Deepfake: A Survey
+Head and Body: Unified Detector and Graph Network for Person Search in Media
+Temporal Context Mining for Learned Video Compression
+Weakly-guided Self-supervised Pretraining for Temporal Activity Detection
+SwinBERT: End-to-End Transformers with Sparse Attention for Video Captioning
+Homogeneous Low-Resolution Face Recognition Method based Correlation Features
+DeepWiVe: Deep-Learning-Aided Wireless Video Transmission
+PolyViT: Co-training Vision Transformers on Images, Videos and Audio
+Lensless multicore-fiber microendoscope for real-time tailored light field generation with phase encoder neural network (CoreNet)
+MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation
+Investigating Tradeoffs in Real-World Video Super-Resolution
+Conditional Object-Centric Learning from Video
+MorphMLP: An Efficient MLP-Like Backbone for Spatial-Temporal Representation Learning
+Hierarchical Modular Network for Video Captioning
+A note on stabilizing reinforcement learning
+Real-time smart vehicle surveillance system
+Introduction to Presentation Attack Detection in Face Biometrics and Recent Advances
+IR Motion Deblurring
+Modeling Temporal Concept Receptive Field Dynamically for Untrimmed Video Analysis
+Self-Regulated Learning for Egocentric Video Activity Anticipation
+Efficient Video Transformers with Spatial-Temporal Token Selection
+Ice hockey player identification via transformers and weakly supervised learning
+Florence: A New Foundation Model for Computer Vision
+Balancing Efficiency and Comfort in Robot-Assisted Bite Transfer
+Improving Semantic Image Segmentation via Label Fusion in Semantically Textured Meshes
+Exploring Segment-level Semantics for Online Phase Recognition from Surgical Videos
+Tracking Grow-Finish Pigs Across Large Pens Using Multiple Cameras
+Hybrid Imitative Planning with Geometric and Predictive Costs in Off-road Environments
+Geometry-Aware Multi-Task Learning for Binaural Audio Generation from Video
+3D Visual Tracking Framework with Deep Learning for Asteroid Exploration
+Deep Probability Estimation
+VideoPose: Estimating 6D object pose from videos
+Unsupervised Visual Time-Series Representation Learning and Clustering
+Panoptic Segmentation: A Review
+DVCFlow: Modeling Information Flow Towards Human-like Video Captioning
+ColDE: A Depth Estimation Framework for Colonoscopy Reconstruction
+Blind VQA on 360° Video via Progressively Learning from Pixels, Frames and Video
+Punyo-1: Soft tactile-sensing upper-body robot for large object manipulation and physical human interaction
+Induce, Edit, Retrieve: Language Grounded Multimodal Schema for Instructional Video Retrieval
+It's About Time: Analog Clock Reading in the Wild
+Self-Supervised Predictive Convolutional Attentive Block for Anomaly Detection
+Code-free development and deployment of deep segmentation models for digital pathology
+Keypoint Message Passing for Video-based Person Re-Identification
+Learnable Locality-Sensitive Hashing for Video Anomaly Detection
+Object Propagation via Inter-Frame Attentions for Temporally Stable Video Instance Segmentation
+Unsupervised Action Localization Crop in Video Retargeting for 3D ConvNets
+Co-segmentation Inspired Attention Module for Video-based Computer Vision Tasks
+Improving Experience Replay through Modeling of Similar Transitions' Sets
+Transformer-based Image Compression
+Neuromuscular Control of the Face-Head-Neck Biomechanical Complex With Learning-Based Expression Transfer From Images and Videos
+The Emergence of Objectness: Learning Zero-Shot Segmentation from Videos
+csBoundary: City-scale Road-boundary Detection in Aerial Images for High-definition Maps
+Advances in Neural Rendering
+SwAMP: Swapped Assignment of Multi-Modal Pairs for Cross-Modal Retrieval
+FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy
+Space-Time Memory Network for Sounding Object Localization in Videos
+A Differentiable Recipe for Learning Visual Non-Prehensile Planar Manipulation
+Cross Attentional Audio-Visual Fusion for Dimensional Emotion Recognition
+Exploiting Robust Unsupervised Video Person Re-identification
+An AI-based Solution for Enhancing Delivery of Digital Learning for Future Teachers
+Complementary Ensemble Learning
+SAFA: Structure Aware Face Animation
+Planar Robot Casting with Real2Sim2Real Self-Supervised Learning
+Reinforcement Learning for Mixed Autonomy Intersections
+Towards Debiasing Temporal Sentence Grounding in Video
+Can viewer proximity be a behavioural marker for Autism Spectrum Disorder?
+NarrationBot and InfoBot: A Hybrid System for Automated Video Description
+Action Recognition using Transfer Learning and Majority Voting for CSGO
+Will You Ever Become Popular? Learning to Predict Virality of Dance Clips
+Joint Learning of Visual-Audio Saliency Prediction and Sound Source Localization on Multi-face Videos
+Versatile Learned Video Compression
+KORSAL: Key-point Detection based Online Real-Time Spatio-Temporal Action Localization
+Attention on Classification for Fire Segmentation
+Generalization in Dexterous Manipulation via Geometry-Aware Multi-Task Learning
+Sequence-to-Sequence Modeling for Action Identification at High Temporal Resolution
+Roadmap on Signal Processing for Next Generation Measurement Systems
+Slapping Cats, Bopping Heads, and Oreo Shakes: Understanding Indicators of Virality in TikTok Short Videos
+A Comparison of Deep Learning Models for the Prediction of Hand Hygiene Videos
+STC speaker recognition systems for the NIST SRE 2021
+Event and Activity Recognition in Video Surveillance for Cyber-Physical Systems
+3-D PET Image Generation with tumour masks using TGAN
+Relational Self-Attention: What's Missing in Attention for Video Understanding
+PolyTrack: Tracking with Bounding Polygons
+IPC-GraspSim: Reducing the Sim2Real Gap for Parallel-Jaw Grasping with the Incremental Potential Contact Model
+SEED: Series Elastic End Effectors in 6D for Visuotactile Tool Use
+Masking Modalities for Cross-modal Video Retrieval
+With a Little Help from my Temporal Context: Multimodal Egocentric Action Recognition
+Generative Occupancy Fields for 3D Surface-Aware Image Synthesis
+Livestock Monitoring with Transformer
+Dense Prediction with Attentive Feature Aggregation
+Distantly Supervised Semantic Text Detection and Recognition for Broadcast Sports Videos Understanding
+Classifying YouTube Comments Based on Sentiment and Type of Sentence
+Saliency detection with moving camera via background model completion
+whu-nercms at trecvid2021:instance search task
+Diagnosing Data from ICTs to Provide Focused Assistance in Agricultural Adoptions
+Differentiable Tracking-Based Training of Deep Learning Sound Source Localizers
+Turning Traffic Monitoring Cameras into Intelligent Sensors for Traffic Density Estimation
+Attacking Video Recognition Models with Bullet-Screen Comments
+Exposing Deepfake with Pixel-wise AR and PPG Correlation from Faint Signals
+Accelerating Robotic Reinforcement Learning via Parameterized Action Primitives
+Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language
+GOMP-FIT: Grasp-Optimized Motion Planning for Fast Inertial Transport
+Click-Based Student Performance Prediction: A Clustering Guided Meta-Learning Approach
+Sliding Sequential CVAE with Time Variant Socially-aware Rethinking for Trajectory Prediction
+An Adaptable Approach to Learn Realistic Legged Locomotion without Examples
+Degraded Reference Image Quality Assessment
+Audio-visual Representation Learning for Anomaly Events Detection in Crowds
+Temporal-attentive Covariance Pooling Networks for Video Recognition
+MEmoBERT: Pre-training Model with Prompt-based Learning for Multimodal Emotion Recognition
+Transferring Domain-Agnostic Knowledge in Video Question Answering
+ViDA-MAN: Visual Dialog with Digital Humans
+Multi-Faceted Hierarchical Multi-Task Learning for a Large Number of Tasks with Multi-dimensional Relations
+Minimizing Energy Consumption Leads to the Emergence of Gaits in Legged Robots
+What Would Jiminy Cricket Do? Towards Agents That Behave Morally
+Logsig-RNN: a novel network for robust and efficient skeleton-based action recognition
+Learning Insertion Primitives with Discrete-Continuous Hybrid Action Space for Robotic Assembly Tasks
+Light-Field Microscopy for optical imaging of neuronal activity: when model-based methods meet data-driven approaches
+A Dynamic Keypoints Selection Network for 6DoF Pose Estimation
+Using Motion History Images with 3D Convolutional Networks in Isolated Sign Language Recognition
+AuxAdapt: Stable and Efficient Test-Time Adaptation for Temporally Consistent Video Semantic Segmentation
+Local-Global Associative Frame Assemble in Video Re-ID
+Handling Concurrency in Behavior Trees
+Deep Two-Stream Video Inference for Human Body Pose and Shape Estimation
+Occlusion-Robust Object Pose Estimation with Holistic Representation
+Digital and Physical-World Attacks on Remote Pulse Detection
+AEI: Actors-Environment Interaction with Adaptive Attention for Temporal Action Proposals Generation
+Extraction of Positional Player Data from Broadcast Soccer Videos
+Hierarchical Skills for Efficient Exploration
+One model to enhance them all: array geometry agnostic multi-channel personalized speech enhancement
+Constrained Mean Shift for Representation Learning
+Evaluating and Improving Interactions with Hazy Oracles
+Hand-Object Contact Prediction via Motion-Based Pseudo-Labeling and Guided Progressive Label Correction
+CORA: Benchmarks, Baselines, and Metrics as a Platform for Continual Reinforcement Learning Agents
+LSTC: Boosting Atomic Action Detection with Long-Short-Term Context
+Discovering and Achieving Goals via World Models
+Leveraging MoCap Data for Human Mesh Recovery
+Video Coding for Machine: Compact Visual Representation Compression for Intelligent Collaborative Analytics
+Graph Convolution Neural Network For Weakly Supervised Abnormality Localization In Long Capsule Endoscopy Videos
+Boosting the Transferability of Video Adversarial Examples via Temporal Translation
+Unsupervised Shot Boundary Detection for Temporal Segmentation of Long Capsule Endoscopy Videos
+Temporally stable video segmentation without video annotations
+Revealing Disocclusions in Temporal View Synthesis through Infilling Vector Prediction
+Visual-aware Attention Dual-stream Decoder for Video Captioning
+Neural Dubber: Dubbing for Videos According to Scripts
+Continuous Authentication Using Mouse Movements, Machine Learning, and Minecraft
+Playing for 3D Human Recovery
+RGB-D Image Inpainting Using Generative Adversarial Network with a Late Fusion Approach
+ByteTrack: Multi-Object Tracking by Associating Every Detection Box
+Safe Driving via Expert Guided Policy Optimization
+NoisyActions2M: A Multimedia Dataset for Video Understanding from Noisy Labels
+CLIP4Caption: CLIP for Video Caption
+Benchmarking the Robustness of Spatial-Temporal Models Against Corruptions
+MMIU: Dataset for Visual Intent Understanding in Multimodal Assistants
+Speech Summarization using Restricted Self-Attention
+Beyond Pick-and-Place: Tackling Robotic Stacking of Diverse Shapes
+Multi-Modal Interaction Graph Convolutional Network for Temporal Language Localization in Videos
+Reliable Shot Identification for Complex Event Detection via Visual-Semantic Embedding
+PLNet: Plane and Line Priors for Unsupervised Indoor Depth Estimation
+Learning Efficient Multi-Agent Cooperative Visual Exploration
+Hierarchical Modeling for Task Recognition and Action Segmentation in Weakly-Labeled Instructional Videos
+Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency
+Towards Streaming Egocentric Action Anticipation
+Adaptive Multi-view and Temporal Fusing Transformer for 3D Human Pose Estimation
+Self-appearance-aided Differential Evolution for Motion Transfer
+Temporally Consistent Video Colorization with Deep Feature Propagation and Self-regularization Learning
+TiKick: Towards Playing Multi-agent Football Full Games from Single-agent Demonstrations
+Predicting decision-making in the future: Human versus Machine
+Scene Editing as Teleoperation: A Case Study in 6DoF Kit Assembly
+Offline Meta-Reinforcement Learning for Industrial Insertion
+An End-to-End Trainable Video Panoptic Segmentation Method usingTransformers
+COVID-19 Monitoring System using Social Distancing and Face Mask Detection on Surveillance video datasets
+Machine Translation Verbosity Control for Automatic Dubbing
+5G Traffic Prediction with Time Series Analysis
+WenetSpeech: A 10000+ Hours Multi-domain Mandarin Corpus for Speech Recognition
+Evaluating model-based planning and planner amortization for continuous control
+MPSN: Motion-aware Pseudo Siamese Network for Indoor Video Head Detection in Buildings
+Tile Embedding: A General Representation for Procedural Level Generation via Machine Learning
+Player Tracking and Identification in Ice Hockey
+SAIC_Cambridge-HuPBA-FBK Submission to the EPIC-Kitchens-100 Action Recognition Challenge 2021
+Predicting the Popularity of Games on Steam
+Automatic Identification of the End-Diastolic and End-Systolic Cardiac Frames from Invasive Coronary Angiography Videos
+WHO-Hand Hygiene Gesture Classification System
+Semantic Prediction: Which One Should Come First, Recognition or Prediction?
+Efficient and High-quality Prehensile Rearrangement in Cluttered and Confined Spaces
+Shape-aware Multi-Person Pose Estimation from Multi-View Images
+Efficient Modelling Across Time of Human Actions and Interactions
+Sound Event Detection Transformer: An Event-based End-to-End Model for Sound Event Detection
+Adversarial Attacks on Black Box Video Classifiers: Leveraging the Power of Geometric Transformations
+Self-Supervised Learning of Perceptually Optimized Block Motion Estimates for Video Compression
+How You Move Your Head Tells What You Do: Self-supervised Video Representation Learning with Egocentric Cameras and IMU Sensors
+An Experimental Evaluation on Deepfake Detection using Deep Face Recognition
+Text-based automatic personality prediction: A bibliographic review
+Spatio-Temporal Video Representation Learning for AI Based Video Playback Style Prediction
+Meta-Reinforcement Learning via Buffering Graph Signatures for Live Video Streaming Events
+Translating Images into Maps
+Disarranged Zone Learning (DZL): An unsupervised and dynamic automatic stenosis recognition methodology based on coronary angiography
+Learning Models as Functionals of Signed-Distance Fields for Manipulation Planning
+Improving Object Permanence using Agent Actions and Reasoning
+Vision-Only Robot Navigation in a Neural Radiance World
+You Cannot Easily Catch Me: A Low-Detectable Adversarial Patch for Object Detectors
+Predicting Like A Pilot: Dataset and Method to Predict Socially-Aware Aircraft Trajectories in Non-Towered Terminal Airspace
+Deep Contextual Video Compression
+Comparative Validation of Machine Learning Algorithms for Surgical Workflow and Skill Analysis with the HeiChole Benchmark
+A Deep Learning Localization Method for Measuring Abdominal Muscle Dimensions in Ultrasound Images
+CrossCLR: Cross-modal Contrastive Learning For Multi-modal Video Representations
+IntentVizor: Towards Generic Query Guided Interactive Video Summarization
+USEV: Universal Speaker Extraction with Visual Cue
+Automatic Estimation of Ulcerative Colitis Severity from Endoscopy Videos using Ordinal Multi-Instance Learning
+Identity-Expression Ambiguity in 3D Morphable Face Models
+An Efficient Network Design for Face Video Super-resolution
+Efficient Global-Local Memory for Real-time Instrument Segmentation of Robotic Surgical Video
+Concept-Aware Denoising Graph Neural Network for Micro-Video Recommendation
+TSM: Temporal Shift Module for Efficient and Scalable Video Understanding on Edge Device
+MiniHack the Planet: A Sandbox for Open-Ended Reinforcement Learning Research
+High Frame Rate Video Quality Assessment using VMAF and Entropic Differences
+PM-FSM: Policies Modulating Finite State Machine for Robust Quadrupedal Locomotion
+Automatic Map Update Using Dashcam Videos
+Long Short View Feature Decomposition via Contrastive Video Representation Learning
+Self-supervised Learning for Semi-supervised Temporal Language Grounding
+Hierarchical Memory Matching Network for Video Object Segmentation
+T6D-Direct: Transformers for Multi-Object 6D Pose Direct Regression
+DVC-P: Deep Video Compression with Perceptual Optimizations
+Natural Language Video Localization with Learnable Moment Proposals
+A deep neural network for multi-species fish detection using multiple acoustic cameras
+Benchmarking Augmentation Methods for Learning Robust Navigation Agents: the Winning Entry of the 2021 iGibson Challenge
+Rotor Localization and Phase Mapping of Cardiac Excitation Waves using Deep Neural Networks
+Graph-based Cluttered Scene Generation and Interactive Exploration using Deep Reinforcement Learning
+Finding Facial Forgery Artifacts with Parts-Based Detectors
+Does Vision-and-Language Pretraining Improve Lexical Grounding?
+CONQUER: Contextual Query-aware Ranking for Video Corpus Moment Retrieval
+Dynamic Gesture Recognition
+Harnessing the Power of Ego Network Layers for Link Prediction in Online Social Networks
+Modern Evolution Strategies for Creativity: Fitting Concrete Images and Abstract Concepts
+Towards High-Quality Temporal Action Detection with Sparse Proposals
+ChipQA: No-Reference Video Quality Prediction via Space-Time Chips
+Carl-Lead: Lidar-based End-to-End Autonomous Driving with Contrastive Deep Reinforcement Learning
+ActionCLIP: A New Paradigm for Video Action Recognition
+Expression Snippet Transformer for Robust Video-based Facial Expression Recognition
+PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering
+Interpretable Local Tree Surrogate Policies
+A Machine Learning Framework for Automatic Prediction of Human Semen Motility
+Real Time Monocular Vehicle Velocity Estimation using Synthetic Data
+Lifting 2D Object Locations to 3D by Discounting LiDAR Outliers across Objects and Views
+Evaluating Continual Learning Algorithms by Generating 3D Virtual Environments
+Label-Attention Transformer with Geometrically Coherent Objects for Image Captioning
+METEOR:A Dense, Heterogeneous, and Unstructured Traffic Dataset With Rare Behaviors
+Contact-Aware Retargeting of Skinned Motion
+MD-CSDNetwork: Multi-Domain Cross Stitched Network for Deepfake Detection
+Space Time Recurrent Memory Network
+Adaptive Proposal Generation Network for Temporal Sentence Localization in Videos
+On Pursuit of Designing Multi-modal Transformer for Video Grounding
+UMPNet: Universal Manipulation Policy Network for Articulated Objects
+MovieCuts: A New Dataset and Benchmark for Cut Type Recognition
+Unsupervised Domain Adaptive Learning via Synthetic Data for Person Re-identification
+Illuminating Diverse Neural Cellular Automata for Level Generation
+Application of Video-to-Video Translation Networks to Computational Fluid Dynamics
+Negative Sample Matters: A Renaissance of Metric Learning for Temporal Grounding
+PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks
+Multimodal Federated Learning on IoT Data
+6MapNet: Representing soccer players from tracking data by a triplet network
+EVOQUER: Enhancing Temporal Grounding with Video-Pivoted BackQuery Generation
+IICNet: A Generic Framework for Reversible Image Conversion
+DAN: Decentralized Attention-based Neural Network for the MinMax Multiple Traveling Salesman Problem
+Comfort and Sickness while Virtually Aboard an Autonomous Telepresence Robot
+Supervised Contrastive Learning for Detecting Anomalous Driving Behaviours from Multimodal Videos
+Video2Skill: Adapting Events in Demonstration Videos to Skills in an Environment using Cyclic MDP Homomorphisms
+A Survey on Machine Learning Techniques for Auto Labeling of Video, Audio, and Text Data
+Master Face Attacks on Face Recognition Systems
+Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos
+Predicting Mood Disorder Symptoms with Remotely Collected Videos Using an Interpretable Multimodal Dynamic Attention Fusion Network
+Evaluation of an Audio-Video Multimodal Deepfake Dataset using Unimodal and Multimodal Detectors
+Sensor-Augmented Egocentric-Video Captioning with Dynamic Modal Attention
+Learning to Combine the Modalities of Language and Video for Temporal Moment Localization
+DeepFakes: Detecting Forged and Synthetic Media Content Using Machine Learning
+Bridging the Gap between Events and Frames through Unsupervised Domain Adaptation
+Class Semantics-based Attention for Action Detection
+Toward Realistic Single-View 3D Object Reconstruction with Unsupervised Learning from Multiple Images
+Exploiting Spatial-Temporal Semantic Consistency for Video Scene Parsing
+Efficient Action Recognition Using Confidence Distillation
+Multi-modal Representation Learning for Video Advertisement Content Structuring
+PR-Net: Preference Reasoning for Personalized Video Highlight Detection
+Assessing the Performance of Online Students -- New Data, New Approaches, Improved Accuracy
+Video Pose Distillation for Few-Shot, Fine-Grained Sports Action Recognition
+A Reliable, Self-Adaptive Face Identification Framework via Lyapunov Optimization
+roadscene2vec: A Tool for Extracting and Embedding Road Scene-Graphs
+Data science and Machine learning in the Clouds: A Perspective for the Future
+SlowFast Rolling-Unrolling LSTMs for Action Anticipation in Egocentric Videos
+Binaural Audio Generation via Multi-task Learning
+Common Objects in 3D: Large-Scale Learning and Evaluation of Real-life 3D Category Reconstruction
+Towards Learning a Vocabulary of Visual Concepts and Operators using Deep Neural Networks
+Planning from video game descriptions
+Memory Based Video Scene Parsing
+Spatio-Temporal Perturbations for Video Attribution
+Physiological-Physical Feature Fusion for Automatic Voice Spoofing Detection
+SimulLR: Simultaneous Lip Reading Transducer with Attention-Guided Adaptive Memory
+Equine Pain Behavior Classification via Self-Supervised Disentangled Pose Representation
+Unsupervised Monocular Depth Perception: Focusing on Moving Objects
+Efficient Visual Recognition with Deep Neural Networks: A Survey on Recent Advances and New Directions
+What You Can Learn by Staring at a Blank Wall
+A Multimodal Framework for Video Ads Understanding
+Zero-shot Natural Language Video Localization
+A Hybrid Rule-Based and Data-Driven Approach to Driver Modeling through Particle Filtering
+Goal-driven text descriptions for images
+Predicting the Factuality of Reporting of News Media Using Observations About User Attention in Their YouTube Channels
+FOVEA: Foveated Image Magnification for Autonomous Navigation
+Drop-DTW: Aligning Common Signal Between Sequences While Dropping Outliers
+Quadratic mutual information regularization in real-time deep CNN models
+Disentangled Generative Models for Robust Prediction of System Dynamics
+Identity-aware Graph Memory Network for Action Detection
+Integrated Speech and Gesture Synthesis
+INVIGORATE: Interactive Visual Grounding and Grasping in Clutter
+Spatio-Temporal Self-Attention Network for Video Saliency Prediction
+Support-Set Based Cross-Supervision for Video Grounding
+Unsupervised Depth Completion with Calibrated Backprojection Layers
+ParamCrop: Parametric Cubic Cropping for Video Contrastive Learning
+A generalized stacked reinforcement learning method for sampled systems
+Marine vessel tracking using a monocular camera
+Influence-guided Data Augmentation for Neural Tensor Completion
+Image coding for machines: an end-to-end learned approach
+TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment
+A Synthesis-Based Approach for Thermal-to-Visible Face Verification
+Beyond Tracking: Using Deep Learning to Discover Novel Interactions in Biological Swarms
+A Multiple-View Geometric Model for Specularity Prediction on General Curved Surfaces
+BlockCopy: High-Resolution Video Processing with Block-Sparse Feature Propagation and Online Policies
+Geo-Context Aware Study of Vision-Based Autonomous Driving Models and Spatial Video Data
+Zoom, Enhance! Measuring Surveillance GAN Up-sampling
+Video Ads Content Structuring by Combining Scene Confidence Prediction and Tagging
+AutoLay: Benchmarking amodal layout estimation for autonomous driving
+Out-of-boundary View Synthesis Towards Full-Frame Video Stabilization
+Video-based Person Re-identification with Spatial and Temporal Memory Networks
+Multi-Object Tracking with Hallucinated and Unlabeled Videos
+Video Relation Detection via Tracklet based Visual Transformer
+DECA: Deep viewpoint-Equivariant human pose estimation using Capsule Autoencoders
+Learned Video Compression with Residual Prediction and Loop Filter
+Self-Supervised Video Representation Learning with Meta-Contrastive Network
+Social Fabric: Tubelet Compositions for Video Relation Detection
+Towards Robust Human Trajectory Prediction in Raw Videos
+Transformers predicting the future. Applying attention in next-frame and time series forecasting
+X-modaler: A Versatile and High-performance Codebase for Cross-modal Analytics
+Generalized and Incremental Few-Shot Learning by Explicit Learning and Calibration without Forgetting
+A New Journey from SDRTV to HDRTV
+DeepFake MNIST+: A DeepFake Facial Animation Dataset
+A Simple and Efficient Reconstruction Backbone for Snapshot Compressive Imaging
+Continuous-Time Spatiotemporal Calibration of a Rolling Shutter Camera-IMU System
+3D High-Fidelity Mask Face Presentation Attack Detection Challenge
+Temporal Action Segmentation with High-level Complex Activity Labels
+Few-Shot Fine-Grained Action Recognition via Bidirectional Attention and Contrastive Meta-Learning
+Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization
+Focusing on Persons: Colorizing Old Images Learning from Modern Historical Movies
+Cross-Modal Graph with Meta Concepts for Video Captioning
+Cross-modal Spectrum Transformation Network For Acoustic Scene classification
+Co-GAIL: Learning Diverse Strategies for Human-Robot Collaboration
+Spatio-Temporal Human Action Recognition Modelwith Flexible-interval Sampling and Normalization
+Deep Motion Prior for Weakly-Supervised Temporal Action Localization
+A Better Loss for Visual-Textual Grounding
+Video Transformer for Deepfake Detection with Incremental Learning
+FakeAVCeleb: A Novel Audio-Video Multimodal Deepfake Dataset
+Multi-Source Fusion and Automatic Predictor Selection for Zero-Shot Video Object Segmentation
+Semi-Supervised Domain Generalizable Person Re-Identification
+DQ-GAT: Towards Safe and Efficient Autonomous Driving with Deep Q-Learning and Graph Attention Networks
+Multi-Camera Trajectory Forecasting with Trajectory Tensors
+Hand Pose Classification Based on Neural Networks
+CPNet: Cross-Parallel Network for Efficient Anomaly Detection
+Towards a Generic Multimodal Architecture for Batch and Streaming Big Data Integration
+Regularizing Nighttime Weirdness: Efficient Self-supervised Monocular Depth Estimation in the Dark
+Video Annotation for Visual Tracking via Selection and Refinement
+Joint Inductive and Transductive Learning for Video Object Segmentation
+Discriminative Latent Semantic Graph for Video Captioning
+Learning an Augmented RGB Representation with Cross-Modal Knowledge Distillation for Action Detection
+Learning GAN-based Foveated Reconstruction to Recover Perceptually Important Image Features
+Temporal Action Localization Using Gated Recurrent Units
+HelpViz: Automatic Generation of Contextual Visual MobileTutorials from Text-Based Instructions
+Feature-Supervised Action Modality Transfer
+Deep Learning-based Biological Anatomical Landmark Detection in Colonoscopy Videos
+Elaborative Rehearsal for Zero-shot Action Recognition
+End-to-end Neural Video Coding Using a Compound Spatiotemporal Representation
+Unifying Nonlocal Blocks for Neural Networks
+Hybrid Reasoning Network for Video-based Commonsense Captioning
+O2NA: An Object-Oriented Non-Autoregressive Approach for Controllable Video Captioning
+LEO: Learning Energy-based Models in Factor Graph Optimization
+Enhancing Self-supervised Video Representation Learning via Multi-level Feature Optimization
+Optimizing Latency for Online Video CaptioningUsing Audio-Visual Transformers
+Generalized Tensor Summation Compressive Sensing Network (GTSNET): An Easy to Learn Compressive Sensing Operation
+Video Similarity and Alignment Learning on Partial Video Copy Detection
+Approximating the Manifold Structure of Attributed Incentive Salience from Large Scale Behavioural Data. A Representation Learning Approach Based on Artificial Neural Networks
+ODIP: Towards Automatic Adaptation for Object Detection by Interactive Perception
+Design and Evaluation of a Hair Combing System Using a General-Purpose Robotic Arm
+A Multi-Hypothesis Approach to Pose Ambiguity in Object-Based SLAM
+Consistent Depth of Moving Objects in Video
+Self-Supervised Disentangled Representation Learning for Third-Person Imitation Learning
+"Robot Steganography"?: Opportunities and Challenges
+BundleTrack: 6D Pose Tracking for Novel Objects without Instance or Category-Level 3D Models
+Advances in adversarial attacks and defenses in computer vision: A survey
+Towards explainable artificial intelligence (XAI) for early anticipation of traffic accidents
+From Continuity to Editability: Inverting GANs with Consecutive Images
+Multimodal Co-learning: Challenges, Applications with Datasets, Recent Advances and Future Directions
+Convolutional Transformer based Dual Discriminator Generative Adversarial Networks for Video Anomaly Detection
+Video Based Fall Detection Using Human Poses
+A Deep Graph Reinforcement Learning Model for Improving User Experience in Live Video Streaming
+Predicting the Future from First Person (Egocentric) Vision: A Survey
+VirtualConductor: Music-driven Conducting Video Generation System
+Squeeze-Excitation Convolutional Recurrent Neural Networks for Audio-Visual Scene Classification
+Accurate Grid Keypoint Learning for Efficient Video Prediction
+Insights from Generative Modeling for Neural Video Compression
+Enriching Local and Global Contexts for Temporal Action Localization
+Vision-Guided Forecasting -- Visual Context for Multi-Horizon Time Series Forecasting
+Transferable Knowledge-Based Multi-Granularity Aggregation Network for Temporal Action Localization: Submission to ActivityNet Challenge 2021
+PiSLTRc: Position-informed Sign Language Transformer with Content-aware Convolution
+Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization
+Self-Supervised Video Object Segmentation by Motion-Aware Mask Propagation
+Generating Lode Runner Levels by Learning Player Paths with LSTMs
+Analyzing vehicle pedestrian interactions combining data cube structure and predictive collision risk estimation model
+A Comprehensive Study on Colorectal Polyp Segmentation with ResUNet++, Conditional Random Field and Test-Time Augmentation
+Towards Efficient Tensor Decomposition-Based DNN Model Compression with Optimization Framework
+Spatial-Temporal Transformer for Dynamic Scene Graph Generation
+Playtesting: What is Beyond Personas
+Temporal Alignment Prediction for Few-Shot Video Classification
+CP-loss: Connectivity-preserving Loss for Road Curb Detection in Autonomous Driving with Aerial Images
+Adaptive Recursive Circle Framework for Fine-grained Action Recognition
+Improving Variational Autoencoder based Out-of-Distribution Detection for Embedded Real-time Applications
+Hand Image Understanding via Deep Multi-Task Learning
+ASOD60K: An Audio-Induced Salient Object Detection Dataset for Panoramic Videos
+Cross-Sentence Temporal and Semantic Relations in Video Activity Localisation
+Domain Adaptive Video Segmentation via Temporal Consistency Regularization
+EAN: Event Adaptive Network for Enhanced Action Recognition
+Objective video quality metrics application to video codecs comparisons: choosing the best for subjective quality estimation
+DRIVE: Deep Reinforced Accident Anticipation with Visual Explanation
+From Single to Multiple: Leveraging Multi-level Prediction Spaces for Video Forecasting
+Multi-modal Residual Perceptron Network for Audio-Video Emotion Recognition
+Looking for the Signs: Identifying Isolated Sign Instances in Continuous Video Footage
+CogME: A Novel Evaluation Metric for Video Understanding Intelligence
+QVHighlights: Detecting Moments and Highlights in Videos via Natural Language Queries
+UNIK: A Unified Framework for Real-world Skeleton-based Action Recognition
+Action Forecasting with Feature-wise Self-Attention
+Multi-Modal Temporal Convolutional Network for Anticipating Actions in Egocentric Videos
+A Positive/Unlabeled Approach for the Segmentation of Medical Sequences using Point-Wise Supervision
+Vision-Based Autonomous Car Racing Using Deep Imitative Reinforcement Learning
+Agent-Environment Network for Temporal Action Proposal Generation
+CCVS: Context-aware Controllable Video Synthesis
+Self-supervised Representation Learning Framework for Remote Physiological Measurement Using Spatiotemporal Augmentation Loss
+What and When to Look?: Temporal Span Proposal Network for Video Relation Detection
+NeuSaver: Neural Adaptive Power Consumption Optimization for Mobile Video Streaming
+Parallel and High-Fidelity Text-to-Lip Generation
+SurgeonAssist-Net: Towards Context-Aware Head-Mounted Display-Based Augmented Reality for Surgical Guidance
+Developmental Stage Classification of Embryos Using Two-Stream Neural Network with Linear-Chain Conditional Random Field
+Object Tracking and Geo-localization from Street Images
+Hierarchical Neural Dynamic Policies
+Extending Text-to-Speech Synthesis with Articulatory Movement Prediction using Ultrasound Tongue Imaging
+Learning Expected Emphatic Traces for Deep RL
+Fine-Grained AutoAugmentation for Multi-Label Classification
+Review of Video Predictive Understanding: Early Action Recognition and Future Action Prediction
+Interpretable Deep Feature Propagation for Early Action Recognition
+Not End-to-End: Explore Multi-Stage Architecture for Online Surgical Phase Recognition
+TA2N: Two-Stage Action Alignment Network for Few-shot Action Recognition
+Scaled-Time-Attention Robust Edge Network
+Multi-level Stress Assessment from ECG in a Virtual Reality Environment using Multimodal Fusion
+Multitask Multi-database Emotion Recognition
+RMA: Rapid Motor Adaptation for Legged Robots
+Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers
+Enhancing Video Analytics Accuracy via Real-time Automated Camera Parameter Tuning
+Use of Affective Visual Information for Summarization of Human-Centric Videos
+Crowd Counting via Perspective-Guided Fractional-Dilation Convolution
+Multi-frame Collaboration for Effective Endoscopic Video Polyp Detection via Spatial-Temporal Feature Transformation
+WeClick: Weakly-Supervised Video Semantic Segmentation with Click Annotations
+VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer
+Combining EfficientNet and Vision Transformers for Video Deepfake Detection
+Depth-Aware Multi-Grid Deep Homography Estimation with Contextual Correlation
+Fast-Learning Grasping and Pre-Grasping via Clutter Quantization and Q-map Masking
+CoReD: Generalizing Fake Media Detection with Continual Representation using Distillation
+NRST: Non-rigid Surface Tracking from Monocular Video
+Graph Convolution for Re-ranking in Person Re-identification
+TransformerFusion: Monocular RGB Scene Reconstruction using Transformers
+SCOD: Active Object Detection for Embodied Agents using Sensory Commutativity of Action Sequences
+6D Object Pose Estimation using Keypoints and Part Affinity Fields
+A topological solution to object segmentation and tracking
+FFR_FD: Effective and Fast Detection of DeepFakes Based on Feature Point Defects
+FINT: Field-aware INTeraction Neural Network For CTR Prediction
+Hierarchical Policies for Cluttered-Scene Grasping with Latent Plans
+SPI-GAN: Towards Single-Pixel Imaging through Generative Adversarial Network
+Visual Relationship Forecasting in Videos
+A Survey on Deep Learning Technique for Video Segmentation
+Sub-millisecond Video Synchronization of Multiple Android Smartphones
+Ultrasound Video Transformers for Cardiac Ejection Fraction Estimation
+MSN: Multi-Style Network for Trajectory Prediction
+Passing a Non-verbal Turing Test: Evaluating Gesture Animations Generated from Speech
+MIDV-2020: A Comprehensive Benchmark Dataset for Identity Document Analysis
+Prediction of the final rank of Players in PUBG with the optimal number of features
+Weakly Supervised Temporal Adjacent Network for Language Grounding
+Extraction of Key-frames of Endoscopic Videos by using Depth Information
+Mutual-GAN: Towards Unsupervised Cross-Weather Adaptation with Mutual Information Constraint
+A Structured Analysis of the Video Degradation Effects on the Performance of a Machine Learning-enabled Pedestrian Detector
+When Video Classification Meets Incremental Classes
+RICE: Refining Instance Masks in Cluttered Environments with Graph Neural Networks
+SRF-Net: Selective Receptive Field Network for Anchor-Free Temporal Action Detection
+Do Not Deceive Your Employer with a Virtual Background: A Video Conferencing Manipulation-Detection System
+Untangling Dense Non-Planar Knots by Learning Manipulation Features and Recovery Policies
+An Uncertainty Estimation Framework for Probabilistic Object Detection
+Motion Projection Consistency Based 3D Human Pose Estimation with Virtual Bones from Monocular Videos
+Real-time Human-Robot Collaborative Manipulations of Cylindrical and Cubic Objects via Geometric Primitives and Depth Information
+Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection
+3D Reconstruction through Fusion of Cross-View Images
+Saying the Unseen: Video Descriptions via Dialog Agents
+Partially fake it till you make it: mixing real and fake thermal images for improved object detection
+Graph Pattern Loss based Diversified Attention Network for Cross-Modal Retrieval
+Hierarchical Object-oriented Spatio-Temporal Reasoning for Video Question Answering
+FOVQA: Blind Foveated Video Quality Assessment
+Generalized One-Class Learning Using Pairs of Complementary Classifiers
+DROID: Driver-centric Risk Object Identification
+Exploring Stronger Feature for Temporal Action Localization
+Detection of Deepfake Videos Using Long Distance Attention
+Video Super-Resolution with Long-Term Self-Exemplars
+IA-RED$^2$: Interpretability-Aware Redundancy Reduction for Vision Transformers
+FoldIt: Haustral Folds Detection and Segmentation in Colonoscopy Videos
+High-Throughput Precision Phenotyping of Left Ventricular Hypertrophy with Cardiovascular Deep Learning
+Team PyKale (xy9) Submission to the EPIC-Kitchens 2021 Unsupervised Domain Adaptation Challenge for Action Recognition
+Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation
+Winning the CVPR'2021 Kinetics-GEBD Challenge: Contrastive Learning Approach
+Deep3DPose: Realtime Reconstruction of Arbitrarily Posed Human Bodies from Single RGB Images
+VoxelEmbed: 3D Instance Segmentation and Tracking with Voxel Embedding based Deep Learning
+Boggart: Towards General-Purpose Acceleration of Retrospective Video Analytics
+Attention-based Neural Network for Driving Environment Complexity Perception
+Two-Stream Consensus Network: Submission to HACS Challenge 2021 Weakly-Supervised Learning Track
+Improving Ultrasound Tongue Image Reconstruction from Lip Images Using Self-supervised Learning and Attention Mechanism
+Proposal Relation Network for Temporal Action Detection
+Video Summarization through Reinforcement Learning with a 3D Spatio-Temporal U-Net
+GLIB: Towards Automated Test Oracle for Graphically-Rich Applications
+MSN: Efficient Online Mask Selection Network for Video Instance Segmentation
+Cloud based Scalable Object Recognition from Video Streams using Orientation Fusion and Convolutional Neural Networks
+Multi-Task Learning for User Engagement and Adoption in Live Video Streaming Events
+End-to-end Temporal Action Detection with Transformer
+A Dynamic Spatial-temporal Attention Network for Early Anticipation of Traffic Accidents
+Virtual Temporal Samples for Recurrent Neural Networks: applied to semantic segmentation in agriculture
+Discerning Generic Event Boundaries in Long-Form Wild Videos
+Contrastive Learning of Generalized Game Representations
+Multi-Granularity Network with Modal Attention for Dense Affective Understanding
+GEM: A General Evaluation Benchmark for Multimodal Tasks
+PyKale: Knowledge-Aware Machine Learning from Multiple Sources in Python
+No-frills Dynamic Planning using Static Planners
+MaCLR: Motion-aware Contrastive Learning of Representations for Videos
+BABEL: Bodies, Action and Behavior with English Labels
+Hi-Phy: A Benchmark for Hierarchical Physical Reasoning
+JOKR: Joint Keypoint Representation for Unsupervised Cross-Domain Motion Retargeting
+SECANT: Self-Expert Cloning for Zero-Shot Generalization of Visual Policies
+Improving On-Screen Sound Separation for Open-Domain Videos with Audio-Visual Self-Attention
+Unsupervised Training Data Generation of Handwritten Formulas using Generative Adversarial Networks with Self-Attention
+Wavelet-Packets for Deepfake Image Analysis and Detection
+How can we learn (more) from challenges? A statistical approach to driving future algorithm development
+The Fishnet Open Images Database: A Dataset for Fish Detection and Fine-Grained Categorization in Fisheries
+mPyPl: Python Monadic Pipeline Library for Complex Functional Data Processing
+Improved CNN-based Learning of Interpolation Filters for Low-Complexity Inter Prediction in Video Coding
+$C^3$: Compositional Counterfactual Constrastive Learning for Video-grounded Dialogues
+FastAno: Fast Anomaly Detection via Spatio-temporal Patch Transformation
+Temporal Convolution Networks with Positional Encoding for Evoked Expression Estimation
+Latent Representation in Human-Robot Interaction with Explicit Consideration of Periodic Dynamics
+Perceptually-inspired super-resolution of compressed videos
+Wavelength-based Attributed Deep Neural Network for Underwater Image Restoration
+Flow Guided Transformable Bottleneck Networks for Motion Retargeting
+Quality-Aware Network for Face Parsing
+Computer Vision Tool for Detection, Mapping and Fault Classification of PV Modules in Aerial IR Videos
+Automated Parking Space Detection Using Convolutional Neural Networks
+Temporal Predictive Coding For Model-Based Planning In Latent Space
+A Stronger Baseline for Ego-Centric Action Detection
+FGLP: A Federated Fine-Grained Location Prediction System for Mobile Users
+Video Super-Resolution Transformer
+Evaluating Foveated Video Quality Using Entropic Differencing
+Residual Networks based Distortion Classification and Ranking for Laparoscopic Image Quality Assessment
+1st Place Solution for YouTubeVOS Challenge 2021:Video Instance Segmentation
+Shallow Optical Flow Three-Stream CNN for Macro- and Micro-Expression Spotting from Long Videos
+Small Object Detection for Near Real-Time Egocentric Perception in a Manual Assembly Scenario
+Interpreting Expert Annotation Differences in Animal Behavior
+Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation
+Revisiting Contrastive Methods for Unsupervised Learning of Visual Representations
+FetReg: Placental Vessel Segmentation and Registration in Fetoscopy Challenge Dataset
+SVMAC: Unsupervised 3D Human Pose Estimation from a Single Image with Single-view-multi-angle Consistency
+Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time
+Salient Object Ranking with Position-Preserved Attention
+Self-supervised Feature Enhancement: Applying Internal Pretext Task to Supervised Learning
+Deep Tiny Network for Recognition-Oriented Face Image Quality Assessment
+Tracking by Joint Local and Global Search: A Target-aware Attention based Approach
+Uncovering Closed-form Governing Equations of Nonlinear Dynamics from Videos
+Hierarchical Lovász Embeddings for Proposal-free Panoptic Segmentation
+Neural Speaker Embeddings for Ultrasound-based Silent Speech Interfaces
+SynthRef: Generation of Synthetic Referring Expressions for Object Segmentation
+NWT: Towards natural audio-to-video generation with representation learning
+Time-series Imputation of Temporally-occluded Multiagent Trajectories
+Few-Shot Action Localization without Knowing Boundaries
+XIRL: Cross-embodiment Inverse Reinforcement Learning
+CDN-MEDAL: Two-stage Density and Difference Approximation Framework for Motion Analysis
+Learning Dynamics via Graph Neural Networks for Human Pose Estimation and Tracking
+Deep Neural Network-based Enhancement for Image and Video Streaming Systems: A Survey and Future Directions
+Contextual Guided Segmentation Framework for Semi-supervised Video Instance Segmentation
+Transferring Knowledge from Text to Video: Zero-Shot Anticipation for Procedural Actions
+Real-Time Cognitive Evaluation of Online Learners through Automatically Generated Questions
+Dual Attentive Sequential Learning for Cross-Domain Click-Through Rate Prediction
+An Intelligent Resource Reservation for Crowdsourced Live Video Streaming Applications in Geo-Distributed Cloud Environment
+Less is More: Sparse Sampling for Dense Reaction Predictions
+Feeling of Presence Maximization: mmWave-Enabled Virtual Reality Meets Deep Reinforcement Learning
+Deconfounded Video Moment Retrieval with Causal Intervention
+Long Term Object Detection and Tracking in Collaborative Learning Environments
+Deep Learning based Full-reference and No-reference Quality Assessment Models for Compressed UGC Videos
+RAI-Net: Range-Adaptive LiDAR Point Cloud Frame Interpolation Network
+Continual 3D Convolutional Neural Networks for Real-time Processing of Videos
+CVaR-based Flight Energy Risk Assessment for Multirotor UAVs using a Deep Energy Model
+Large-Scale Spatio-Temporal Person Re-identification: Algorithms and Benchmark
+Urban Traffic Surveillance (UTS): A fully probabilistic 3D tracking approach based on 2D detections
+A Compression-Compilation Framework for On-mobile Real-time BERT Applications
+Towards Diverse Paragraph Captioning for Untrimmed Videos
+Rethinking the constraints of multimodal fusion: case study in Weakly-Supervised Audio-Visual Video Parsing
+SSCAP: Self-supervised Co-occurrence Action Parsing for Unsupervised Temporal Action Segmentation
+A proxemics game between festival visitors and an industrial robot
+FReTAL: Generalizing Deepfake Detection using Knowledge Distillation and Representation Learning
+Tracking Without Re-recognition in Humans and Machines
+Multi-Modal Semantic Inconsistency Detection in Social Media News Posts
+ViPTT-Net: Video pretraining of spatio-temporal model for tuberculosis type classification from chest CT scans
+DFPN: Deformable Frame Prediction Network
+Spatio-Contextual Deep Network Based Multimodal Pedestrian Detection For Autonomous Driving
+Towards Transparent Application of Machine Learning in Video Processing
+Low Resolution Information Also Matters: Learning Multi-Resolution Representations for Person Re-Identification
+Detecting Biological Locomotion in Video: A Computational Approach
+Recent Standard Development Activities on Video Coding for Machines
+Unsupervised Video Summarization via Multi-source Features
+Gamers Private Network Performance Forecasting. From Raw Data to the Data Warehouse with Machine Learning and Neural Nets
+DiSECt: A Differentiable Simulation Engine for Autonomous Robotic Cutting
+DSANet: Dynamic Segment Aggregation Network for Video-Level Representation Learning
+Empirical Investigation of Factors that Influence Human Presence and Agency in Telepresence Robot
+Unsupervised Scale-consistent Depth Learning from Video
+Attention-guided Temporally Coherent Video Object Matting
+Classifying Math KCs via Task-Adaptive Pre-Trained BERT
+CFA-Net: Controllable Face Anonymization Network with Identity Representation Manipulation
+Video-based Person Re-identification without Bells and Whistles
+Learning Visible Connectivity Dynamics for Cloth Smoothing
+A Novel 3D-UNet Deep Learning Framework Based on High-Dimensional Bilateral Grid for Edge Consistent Single Image Depth Estimation
+An interpretable object detection based model for the diagnosis of neonatal lung diseases using Ultrasound images
+VLM: Task-agnostic Video-Language Model Pre-training for Video Understanding
+Weakly-Supervised Physically Unconstrained Gaze Estimation
+Speaker disentanglement in video-to-speech conversion
+See, Hear, Read: Leveraging Multimodality with Guided Attention for Abstractive Text Summarization
+FVC: A New Framework towards Deep Video Compression in Feature Space
+Classifying concepts via visual properties
+VOILA: Visual-Observation-Only Imitation Learning for Autonomous Navigation
+Non-contact Pain Recognition from Video Sequences with Remote Physiological Measurements Prediction
+Parallel Attention Network with Sequence Matching for Video Grounding
+Robust Physics-Based Manipulation by Interleaving Open and Closed-Loop Execution
+NExT-QA:Next Phase of Question-Answering to Explaining Temporal Actions
+EchoCP: An Echocardiography Dataset in Contrast Transthoracic Echocardiography for Patent Foramen Ovale Diagnosis
+Finding a Needle in a Haystack: Tiny Flying Object Detection in 4K Videos using a Joint Detection-and-Tracking Approach
+Weakly Supervised Dense Video Captioning via Jointly Usage of Knowledge Distillation and Cross-modal Matching
+A Light Stage on Every Desk
+AudioVisual Video Summarization
+A Fine-Grained Visual Attention Approach for Fingerspelling Recognition in the Wild
+Leveraging Semantic Scene Characteristics and Multi-Stream Convolutional Architectures in a Contextual Approach for Video-Based Visual Emotion Recognition in the Wild
+Measuring the User Satisfaction in a Recommendation Interface with Multiple Carousels
+Collaborative Spatial-Temporal Modeling for Language-Queried Video Actor Segmentation
+Confidence-guided Adaptive Gate and Dual Differential Enhancement for Video Salient Object Detection
+TriPose: A Weakly-Supervised 3D Human Pose Estimation via Triangulation from Video
+Deepfake Detection by Human Crowds, Machines, and Machine-informed Crowds
+Contrastive Learning of Image Representations with Cross-Video Cycle-Consistency
+Forensic Analysis of Video Files Using Metadata
+Video Corpus Moment Retrieval with Contrastive Learning
+Relation-aware Hierarchical Attention Framework for Video Question Answering
+TAR: Generalized Forensic Framework to Detect Deepfakes using Weakly Supervised Learning
+Multi-target DoA Estimation with an Audio-visual Fusion Mechanism
+Machine-learning-based investigation on classifying binary and multiclass behavior outcomes of children with PIMD/SMID
+What's wrong with this video? Comparing Explainers for Deepfake Detection
+Playing Codenames with Language Graphs and Word Embeddings
+A Fast Deep Learning Network for Automatic Image Auto-Straightening
+FDAN: Flow-guided Deformable Alignment Network for Video Super-Resolution
+Deep Graphics Encoder for Real-Time Video Makeup Synthesis from Example
+DeepLight: Robust & Unobtrusive Real-time Screen-Camera Communication for Real-World Displays
+Let There be Light: Improved Traffic Surveillance via Detail Preserving Night-to-Day Transfer
+Learning Implicit Temporal Alignment for Few-shot Video Classification
+HuMoR: 3D Human Motion Model for Robust Pose Estimation
+SUPR-GAN: SUrgical PRediction GAN for Event Anticipation in Laparoscopic and Robotic Surgery
+Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions
+Video Anomaly Detection By The Duality Of Normality-Granted Optical Flow
+Action Shuffling for Weakly Supervised Temporal Localization
+Unsupervised Human Pose Estimation through Transforming Shape Templates
+Interaction Detection Between Vehicles and Vulnerable Road Users: A Deep Generative Approach with Attention
+Good Practices and A Strong Baseline for Traffic Anomaly Detection
+PIM-DRAM: Accelerating Machine Learning Workloads using Processing in Commodity DRAM
+Generative Actor-Critic: An Off-policy Algorithm Using the Push-forward Model
+Estimating Parkinsonism Severity in Natural Gait Videos of Older Adults with Dementia
+MOTR: End-to-End Multiple-Object Tracking with Transformer
+Adaptive Focus for Efficient Video Recognition
+LASR: Learning Articulated Shape Reconstruction from a Monocular Video
+Aligning Subtitles in Sign Language Videos
+Animatable Neural Radiance Fields for Modeling Dynamic Human Bodies
+Visual Foresight Trees for Object Retrieval from Clutter with Nonprehensile Rearrangement
+Real-Time Video Super-Resolution by Joint Local Inference and Global Parameter Estimation
+A novel method of predictive collision risk area estimation for proactive pedestrian accident prevention system in urban surveillance infrastructure
+A Simple and Strong Baseline for Universal Targeted Attacks on Siamese Visual Tracking
+Weakly Supervised Action Selection Learning in Video
+Explainable Artificial Intelligence for Human Decision-Support System in Medical Domain
+Does the Goal Matter? Emotion Recognition Tasks Can Change the Social Value of Facial Mimicry towards Artificial Agents
+Benchmarking Structured Policies and Policy Optimization for Real-World Dexterous Object Manipulation
+FLEX: Extrinsic Parameters-free Multi-view 3D Human Motion Reconstruction
+A Fast Partial Video Copy Detection Using KNN and Global Feature Database
+Motion-Augmented Self-Training for Video Recognition at Smaller Scale
+Combining Supervised and Un-supervised Learning for Automatic Citrus Segmentation
+Where and When: Space-Time Attention for Audio-Visual Explanations
+Multi-Target Multi-Camera Tracking of Vehicles using Metadata-Aided Re-ID and Trajectory-Based Camera Link Model
+Curious Exploration and Return-based Memory Restoration for Deep Reinforcement Learning
+DeepMultiCap: Performance Capture of Multiple Characters Using Sparse Multiview Cameras
+A Deep Learning Framework for Lifelong Machine Learning
+Deep learning with self-supervision and uncertainty regularization to count fish in underwater images
+Action in Mind: A Neural Network Approach to Action Recognition and Segmentation
+Few-Shot Video Object Detection
+The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth
+ELF-VC: Efficient Learned Flexible-Rate Video Coding
+Towards a practical lip-to-speech conversion system using deep neural networks and mobile application frontend
+Discriminative-Generative Dual Memory Video Anomaly Detection
+Learning Multi-Attention Context Graph for Group-Based Re-Identification
+Actor-centered Representations for Action Localization in Streaming Videos
+Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering
+The Algonauts Project 2021 Challenge: How the Human Brain Makes Sense of a World in Motion
+STORM: An Integrated Framework for Fast Joint-Space Model-Predictive Control for Reactive Manipulation
+FrameExit: Conditional Early Exiting for Efficient Video Recognition
+BasicVSR++: Improving Video Super-Resolution with Enhanced Propagation and Alignment
+Detecting Personality and Emotion Traits in Crowds from Video Sequences
+Multimodal Self-Supervised Learning of General Audio Representations
+Dominant motion identification of multi-particle system using deep learning from video
+Joint Representation Learning and Novel Category Discovery on Single- and Multi-modal Data
+ANT: Learning Accurate Network Throughput for Better Adaptive Video Streaming
+GPT2MVS: Generative Pre-trained Transformer-2 for Multi-modal Video Summarization
+Learning to Better Segment Objects from Unseen Classes with Unlabeled Videos
+The 5th AI City Challenge
+Swimmer Stroke Rate Estimation From Overhead Race Video
+Adaptive Appearance Rendering
+VidTr: Video Transformer Without Convolutions
+Skeletor: Skeletal Transformers for Robust Body-Pose Estimation
+MULTICAST: MULTI Confirmation-level Alarm SysTem based on CNN and LSTM to mitigate false alarms for handgun detection in video-surveillance
+Detecting and Matching Related Objects with One Proposal Multiple Predictions
+The Influence of Audio on Video Memorability with an Audio Gestalt Regulated Video Memorability System
+Supervised Video Summarization via Multiple Feature Sets with Parallel Attention
+Skip-Convolutions for Efficient Video Processing
+SportsCap: Monocular 3D Human Motion Capture and Fine-grained Understanding in Challenging Sports Videos
+Optimal Cost Design for Model Predictive Control
+Deep Lucas-Kanade Homography for Multimodal Image Alignment
+Low-Light Image and Video Enhancement Using Deep Learning: A Survey
+Real-time dense 3D Reconstruction from monocular video data captured by low-cost UAVs
+Skimming and Scanning for Untrimmed Video Action Recognition
+Automating Visual Blockage Classification of Culverts with Deep Learning
+Bias-Aware Loss for Training Image and Speech Quality Prediction Models from Multiple Datasets
+MGSampler: An Explainable Sampling Strategy for Video Action Recognition
+Table Tennis Stroke Recognition Using Two-Dimensional Human Pose Estimation
+M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection
+HCMS: Hierarchical and Conditional Modality Selection for Efficient Video Recognition
+Comparing Correspondences: Video Prediction with Correspondence-wise Losses
+Understanding Chinese Video and Language via Contrastive Multimodal Pre-Training
+Temporal Consistency Loss for High Resolution Textured and Clothed 3DHuman Reconstruction from Monocular Video
+Self-Paced Uncertainty Estimation for One-shot Person Re-Identification
+RingCNN: Exploiting Algebraically-Sparse Ring Tensors for Energy-Efficient CNN-Based Computational Imaging
+Higher Order Recurrent Space-Time Transformer for Video Action Prediction
+Automated Mathematical Equation Structure Discovery for Visual Analysis
+Robust Object Detection via Instance-Level Temporal Cycle Confusion
+Constructing Robust Emotional State-based Feature with a Novel Voting Scheme for Multi-modal Deception Detection in Videos
+StylePeople: A Generative Model of Fullbody Human Avatars
+Text2App: A Framework for Creating Android Apps from Text Descriptions
+TEACHTEXT: CrossModal Generalized Distillation for Text-Video Retrieval
+Point-Based Modeling of Human Clothing
+MT-Opt: Continuous Multi-Task Robotic Reinforcement Learning at Scale
+Noise-Aware Video Saliency Prediction
+Temporally smooth online action detection using cycle-consistent future anticipation
+T-LEAP: Occlusion-robust pose estimation of walking cows using temporal information
+EarthNet2021: A large-scale dataset and challenge for Earth surface forecasting as a guided video prediction task
+Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos
+Actionable Models: Unsupervised Offline Reinforcement Learning of Robotic Skills
+Auto-Tuned Sim-to-Real Transfer
+Adaptive Intermediate Representations for Video Understanding
+Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes
+Towards Automatic Model Specialization for Edge Video Analytics
+Towards a Better Understanding of VR Sickness: Physical Symptom Prediction for VR Contents
+HoughNet: Integrating near and long-range evidence for visual detection
+ADNet: Temporal Anomaly Detection in Surveillance Videos
+Holistic Guidance for Occluded Person Re-Identification
+Incremental Multi-Target Domain Adaptation for Object Detection with Efficient Domain Transfer
+BARF: Bundle-Adjusting Neural Radiance Fields
+Shape and Material Capture at Home
+Level Generation for Angry Birds with Sequential VAE and Latent Variable Evolution
+Spatiotemporal Entropy Model is All You Need for Learned Video Compression
+Rapid Exploration for Open-World Navigation with Latent Goal Models
+Raindrops on Windshield: Dataset and Lightweight Gradient-Based Detection Algorithm
+One Ring to Rule Them All: a simple solution to multi-view 3D-Reconstruction of shapes with unknown BRDF via a small Recurrent ResNet
+Robust Egocentric Photo-realistic Facial Expression Transfer for Virtual Reality
+Target-Aware Object Discovery and Association for Unsupervised Video Multi-Object Segmentation
+A Novel Unified Model for Multi-exposure Stereo Coding Based on Low Rank Tucker-ALS and 3D-HEVC
+Towards Automated and Marker-less Parkinson Disease Assessment: Predicting UPDRS Scores using Sit-stand videos
+SVDistNet: Self-Supervised Near-Field Distance Estimation on Surround View Fisheye Cameras
+GATSBI: Generative Agent-centric Spatio-temporal Object Interaction
+Counter-Strike Deathmatch with Large-Scale Behavioural Cloning
+FIBER: Fill-in-the-Blanks as a Challenging Video Understanding Evaluation Framework
+Learning optical flow from still images
+CoCoNets: Continuous Contrastive 3D Scene Representations
+Affine-modeled video extraction from a single motion blurred image
+Video Question Answering with Phrases via Semantic Roles
+Dynamic Object Aware LiDAR SLAM based on Automatic Generation of Training Data
+CineMPC: Controlling Camera Intrinsics and Extrinsics for Autonomous Cinematography
+Multi-Density Attention Network for Loop Filtering in Video Compression
+Riggable 3D Face Reconstruction via In-Network Optimization
+Track, Check, Repeat: An EM Approach to Unsupervised Tracking
+Automatic Generation of Descriptive Titles for Video Clips Using Deep Learning
+Self-Supervised Learning for Semi-Supervised Temporal Action Proposal
+The Use of Video Captioning for Fostering Physical Activity
+Everything's Talkin': Pareidolia Face Reenactment
+MPN: Multimodal Parallel Network for Audio-Visual Event Localization
+Contrastive Learning of Global-Local Video Representations
+Unsupervised Visual Attention and Invariance for Reinforcement Learning
+Learning Triadic Belief Dynamics in Nonverbal Communication from Videos
+Towards Measuring Fairness in AI: the Casual Conversations Dataset
+Heuristics2Annotate: Efficient Annotation of Large-Scale Marathon Dataset For Bounding Box Regression
+Visual Vibration Tomography: Estimating Interior Material Properties from Monocular Video
+The Multi-Agent Behavior Dataset: Mouse Dyadic Social Interactions
+Vote from the Center: 6 DoF Pose Estimation in RGB-D Images by Radial Keypoint Voting
+Few-Shot Transformation of Common Actions into Time and Space
+Weakly Supervised Video Salient Object Detection
+Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation
+Adaptive Mutual Supervision for Weakly-Supervised Temporal Action Localization
+Non-contact PPG Signal and Heart Rate Estimation with Multi-hierarchical Convolutional Network
+Tuned Compositional Feature Replays for Efficient Stream Learning
+Action Shuffle Alternating Learning for Unsupervised Action Segmentation
+Anchor-Constrained Viterbi for Set-Supervised Action Segmentation
+A Dual-Critic Reinforcement Learning Framework for Frame-level Bit Allocation in HEVC/H.265
+MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection
+"Forget" the Forget Gate: Estimating Anomalies in Videos using Self-contained Long Short-Term Memory Networks
+Deepfake Detection Scheme Based on Vision Transformer and Distillation
+Visual Servoing Approach for Autonomous UAV Landing on a Moving Vehicle
+Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories
+On the Pitfalls of Learning with Limited Data: A Facial Expression Recognition Case Study
+Hybrid Policy Learning for Energy-Latency Tradeoff in MEC-Assisted VR Video Service
+Self-supervised Video Representation Learning by Context and Motion Decoupling
+Memorability: An image-computable measure of information utility
+SimPoE: Simulated Character Control for 3D Human Pose Estimation
+Motion Guided Attention Fusion to Recognize Interactions from Videos
+A Front-End for Dense Monocular SLAM using a Learned Outlier Mask Prior
+Unsupervised Learning of Monocular Depth and Ego-Motion Using Multiple Masks
+Optimization Algorithm for Feedback and Feedforward Policies towards Robot Control Robust to Sensing Failures
+Unsupervised Sound Localization via Iterative Contrastive Learning
+CUPID: Adaptive Curation of Pre-training Data for Video-and-Language Representation Learning
+Detecting over/under-translation errors for determining adequacy in human translations
+Self-supervised Motion Learning from Static Images
+A Survey on Natural Language Video Localization
+Facial expression and attributes recognition based on multi-task learning of lightweight neural networks
+SRA-LSTM: Social Relationship Attention LSTM for Human Trajectory Prediction
+Unpaired Single-Image Depth Synthesis with cycle-consistent Wasserstein GANs
+Embracing Uncertainty: Decoupling and De-bias for Robust Temporal Grounding
+Learning Generalizable Robotic Reward Functions from "In-The-Wild" Human Videos
+Geometric Unsupervised Domain Adaptation for Semantic Segmentation
+Learning Representational Invariances for Data-Efficient Action Recognition
+Grounding Physical Concepts of Objects and Events Through Dynamic Visual Reasoning
+Broaden Your Views for Self-Supervised Video Learning
+Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers
+Endo-Depth-and-Motion: Reconstruction and Tracking in Endoscopic Videos using Depth Networks and Photometric Constraints
+PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop
+Read and Attend: Temporal Localisation in Sign Language Videos
+Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction
+CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning
+Weakly Supervised Temporal Action Localization Through Learning Explicit Subspaces for Action and Context
+Face Forensics in the Wild
+Augmented Transformer with Adaptive Graph for Temporal Action Proposal Generation
+AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning
+Does it work outside this benchmark? Introducing the Rigid Depth Constructor tool, depth validation dataset construction in rigid scenes for the masses
+PixelTransformer: Sample Conditioned Signal Generation
+Physical model simulator-trained neural network for computational 3D phase imaging of multiple-scattering samples
+Omniscient Video Super-Resolution
+Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model
+Ground Encoding: Learned Factor Graph-based Models for Localizing Ground Penetrating Radar
+HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval
+Realistic face animation generation from videos
+OLED: One-Class Learned Encoder-Decoder Network with Adversarial Context Masking for Novelty Detection
+A Comprehensive Review of the Video-to-Text Problem
+Fully Automated 2D and 3D Convolutional Neural Networks Pipeline for Video Segmentation and Myocardial Infarction Detection in Echocardiography
+Exploiting Temporal Contexts with Strided Transformer for 3D Human Pose Estimation
+OmniHang: Learning to Hang Arbitrary Objects using Contact Point Correspondences and Neural Collision Estimation
+Active multi-fidelity Bayesian online changepoint detection
+Image2Reverb: Cross-Modal Reverb Impulse Response Synthesis
+Self-Attentive 3D Human Pose and Shape Estimation from Videos
+Learning Camera Performance Models for Active Multi-Camera Visual Teach and Repeat
+PlenOctrees for Real-time Rendering of Neural Radiance Fields
+Video Instance Segmentation with a Propose-Reduce Paradigm
+Weakly-supervised Audio-visual Sound Source Detection and Separation
+JDSR-GAN: Constructing An Efficient Joint Learning Network for Masked Face Super-Resolution
+Frame-rate Up-conversion Detection Based on Convolutional Neural Network for Learning Spatiotemporal Features
+Test-Time Training for Deformable Multi-Scale Image Registration
+TagMe: GPS-Assisted Automatic Object Annotation in Videos
+AcinoSet: A 3D Pose Estimation Dataset and Baseline Models for Cheetahs in the Wild
+Temporal Context Aggregation Network for Temporal Action Proposal Refinement
+MIcro-Surgical Anastomose Workflow recognition challenge report
+Convex Online Video Frame Subset Selection using Multiple Criteria for Data Efficient Autonomous Driving
+From Shadow Generation to Shadow Removal
+One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Video
+Efficient Regional Memory Network for Video Object Segmentation
+Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency
+Revisiting Self-Supervised Monocular Depth Estimation
+Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos
+Learning Comprehensive Motion Representation for Action Recognition
+Efficient sign language recognition system and dataset creation method based on deep learning and image processing
+Autonomous Flight through Cluttered Outdoor Environments Using a Memoryless Planner
+Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking
+Multimodal Motion Prediction with Stacked Transformers
+PriorityCut: Occlusion-guided Regularization for Warp-based Image Animation
+MoViNets: Mobile Video Networks for Efficient Video Recognition
+Reference-Aided Part-Aligned Feature Disentangling for Video Person Re-Identification
+PGT: A Progressive Method for Training Models on Long Videos
+Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild
+Joint Parameter Discovery and Generative Modeling of Dynamic Systems
+Fusion-FlowNet: Energy-Efficient Optical Flow Estimation using Sensor Fusion and Deep Fused Spiking-Analog Network Architectures
+Hopper: Multi-hop Transformer for Spatiotemporal Reasoning
+CLTA: Contents and Length-based Temporal Attention for Few-shot Action Recognition
+Ano-Graph: Learning Normal Scene Contextual Graphs to Detect Video Anomalies
+Computer Vision Aided URLL Communications: Proactive Service Identification and Coexistence
+The Case for High-Accuracy Classification: Think Small, Think Many!
+SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation
+Decoupled Spatial Temporal Graphs for Generic Visual Grounding
+KoDF: A Large-scale Korean DeepFake Detection Dataset
+Enhancing Transformer for Video Understanding Using Gated Multi-Level Attention and Temporal Adversarial Training
+The U-Net based GLOW for Optical-Flow-free Video Interframe Generation
+Multi-channel Deep Supervision for Crowd Counting
+Prediction-assistant Frame Super-Resolution for Video Streaming
+Co-Generation and Segmentation for Generalized Surgical Instrument Segmentation on Unlabelled Data
+PC-HMR: Pose Calibration for 3D Human Mesh Recovery from 2D Images/Videos
+Fast and Accurate: Video Enhancement using Sparse Depth
+Distance Metric-Based Learning with Interpolated Latent Features for Location Classification in Endoscopy Image and Video
+Detecting Human-Object Interaction via Fabricated Compositional Learning
+Boundary Proposal Network for Two-Stage Natural Language Video Localization
+Semi-Supervised Video Deraining with Dynamical Rain Generator
+Learning needle insertion from sample task executions
+VMAF And Variants: Towards A Unified VQA
+An Efficient Multitask Neural Network for Face Alignment, Head Pose Estimation and Face Tracking
+Solving Compositional Reinforcement Learning Problems via Task Reduction
+VDSM: Unsupervised Video Disentanglement with State-Space Modeling and Deep Mixtures of Experts
+Learning Long-Term Style-Preserving Blind Video Temporal Consistency
+CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement
+ACTION-Net: Multipath Excitation for Action Recognition
+Temporal Action Segmentation from Timestamp Supervision
+Self-Supervised Motion Retargeting with Safety Guarantee
+Hard Attention Control By Mutual Information Maximization
+Model-free Vehicle Tracking and State Estimation in Point Cloud Sequences
+Deep Sensing of Urban Waterlogging
+Improving Sequential Recommendation with Attribute-augmented Graph Neural Networks
+Tuna Nutriment Tracking using Trajectory Mapping in Application to Aquaculture Fish Tank
+Open-book Video Captioning with Retrieve-Copy-Generate Network
+PcmNet: Position-Sensitive Context Modeling Network for Temporal Action Localization
+Learning to Generate Music With Sentiment
+A Survey of Embodied AI: From Simulators to Research Tasks
+Domain Adaptive Egocentric Person Re-identification
+Adversarial Reinforcement Learning for Procedural Content Generation
+HANDS: A Multimodal Dataset for Modeling Towards Human Grasp Intent Inference in Prosthetic Hands
+Discovering Diverse Multi-Agent Strategic Behavior via Reward Randomization
+Learning Environment Constraints in Collaborative Robotics: A Decentralized Leader-Follower Approach
+Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification
+DMotion: Robotic Visuomotor Control with Unsupervised Forward Model Learned from Videos
+Deepfake Videos in the Wild: Analysis and Detection
+ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring
+Indoor Future Person Localization from an Egocentric Wearable Camera
+OperA: Attention-Regularized Transformers for Surgical Phase Recognition
+Analyzing the Influence of Dataset Composition for Emotion Recognition
+Unsupervised Motion Representation Enhanced Network for Action Recognition
+Self-supervised 3D Representation Learning of Dressed Humans from Social Media Videos
+Enhanced 3D Human Pose Estimation from Videos by using Attention-Based Neural Network with Dilated Convolutions
+Visual Question Answering: which investigated applications?
+A Cross Channel Context Model for Latents in Deep Image Compression
+Multi-Stage Raw Video Denoising with Adversarial Loss and Gradient Mask
+Efficient data-driven encoding of scene motion using Eccentricity
+Simulating time to event prediction with spatiotemporal echocardiography deep learning
+CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds
+Simulation-to-Real domain adaptation with teacher-student learning for endoscopic instrument segmentation
+DF-VO: What Should Be Learnt for Visual Odometry?
+FineNet: Frame Interpolation and Enhancement for Face Video Deblurring
+Learning Reasoning Paths over Semantic Graphs for Video-grounded Dialogues
+Predicting post-operative right ventricular failure using video-based deep learning
+PRISM: A Rich Class of Parameterized Submodular Information Measures for Guided Subset Selection
+NEUROSPF: A tool for the Symbolic Analysis of Neural Networks
+Learning Transferable Visual Models From Natural Language Supervision
+Surgical Visual Domain Adaptation: Results from the MICCAI 2020 SurgVisDom Challenge
+Natural Language Video Localization: A Revisit in Span-based Question Answering Framework
+Texture-aware Video Frame Interpolation
+DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck
+Efficient and Interpretable Robot Manipulation with Graph Neural Networks
+Task-Agnostic Morphology Evolution
+Deepfakes Generation and Detection: State-of-the-art, open challenges, countermeasures, and way forward
+Gaze Regularized Imitation Learning: Learning Continuous Control from Human Gaze
+A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents
+Multi-Task Temporal Convolutional Networks for Joint Recognition of Surgical Phases and Steps in Gastric Bypass Procedures
+Deep Video Prediction for Time Series Forecasting
+Data Fusion for Audiovisual Speaker Localization: Extending Dynamic Stream Weights to the Spatial Domain
+Deepfake Video Detection Using Convolutional Vision Transformer
+SALT: A Semi-automatic Labeling Tool for RGB-D Video Sequences
+Accelerated Sim-to-Real Deep Reinforcement Learning: Learning Collision Avoidance from Human Player
+Improving Action Quality Assessment using Weighted Aggregation
+CheckSoft : A Scalable Event-Driven Software Architecture for Keeping Track of People and Things in People-Centric Spaces
+Intrapapillary Capillary Loop Classification in Magnification Endoscopy: Open Dataset and Baseline Methodology
+VisuoSpatial Foresight for Physical Sequential Fabric Manipulation
+Towards Solving the DeepFake Problem : An Analysis on Improving DeepFake Detection using Dynamic Face Augmentation
+DINO: A Conditional Energy-Based GAN for Domain Translation
+An Enhanced Adversarial Network with Combined Latent Features for Spatio-Temporal Facial Affect Estimation in the Wild
+Learning Occupancy Priors of Human Motion from Semantic Maps of Urban Environments
+Temporal Memory Attention for Video Semantic Segmentation
+On the Post-hoc Explainability of Deep Echo State Networks for Time Series Forecasting, Image and Video Classification
+Just Noticeable Difference for Deep Machine Vision
+Learning to Recognize Actions on Objects in Egocentric Video with Attention Dictionaries
+A Gated Fusion Network for Dynamic Saliency Prediction
+RMS-Net: Regression and Masking for Soccer Event Spotting
+Win-Fail Action Recognition
+Learning Variable Impedance Control via Inverse Reinforcement Learning for Force-Related Tasks
+The MSR-Video to Text Dataset with Clean Annotations
+A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose
+Less is More: ClipBERT for Video-and-Language Learning via Sparse Sampling
+Testing Framework for Black-box AI Models
+Adversarially robust deepfake media detection using fused convolutional neural network predictions
+A Similarity-preserving Neural Network Trained on Transformed Images Recapitulates Salient Features of the Fly Motion Detection Circuit
+Deep Reinforcement Learning with Symmetric Prior for Predictive Power Allocation to Mobile Users
+A Generic Object Re-identification System for Short Videos
+Negative Data Augmentation
+The Role of the Input in Natural Language Video Description
+Attention-Based Neural Networks for Chroma Intra Prediction in Video Coding
+Convolutional Neural Network-based Intrusion Detection System for AVTP Streams in Automotive Ethernet-based Networks
+Video-based Hierarchical Species Classification for Longline Fishing Monitoring
+Alchemy: A benchmark and analysis toolkit for meta-reinforcement learning agents
+Semi-Supervised Action Recognition with Temporal Contrastive Learning
+Active Boundary Loss for Semantic Segmentation
+Learning Monocular Depth in Dynamic Scenes via Instance-Aware Projection Consistency
+Environment Predictive Coding for Embodied Agents
+Relaxed Transformer Decoders for Direct Action Proposal Generation
+Autodidactic Neurosurgeon: Collaborative Deep Inference for Mobile Edge Intelligence via Online Learning
+U-LanD: Uncertainty-Driven Video Landmark Detection
+Generalized Facial Manipulation Detection with Edge Region Feature Extraction
+GCF-Net: Gated Clip Fusion Network for Video Action Recognition
+Progressive Localization Networks for Language-based Moment Localization
+Deep Online Fused Video Stabilization
+Multi-modal Ensemble Models for Predicting Video Memorability
+Fail-Safe Execution of Deep Learning based Systems through Uncertainty Monitoring
+Semantic Grouping Network for Video Captioning
+Video Transformer Network
+Aurora Guard: Reliable Face Anti-Spoofing via Mobile Lighting System
+ConvNets for Counting: Object Detection of Transient Phenomena in Steelpan Drums
+CyclingNet: Detecting cycling near misses from video streams in complex urban scenes with deep learning
+A Supervised Learning Approach for Robust Health Monitoring using Face Videos
+Regression or Classification? New Methods to Evaluate No-Reference Picture and Video Quality Models
+CAMBI: Contrast-aware Multiscale Banding Index
+VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs
+Controlling by Showing: i-Mimic: A Video-based Method to Control Robotic Arms
+Automatic Comic Generation with Stylistic Multi-page Layouts and Emotion-driven Text Balloon Generation
+RAPIQUE: Rapid and Accurate Video Quality Prediction of User Generated Content
+Developing emotion recognition for video conference software to support people with autism
+Dense Semantic Forecasting in Video by Joint Regression of Features and Feature Motion
+Ordinal Monte Carlo Tree Search
+SkeletonVis: Interactive Visualization for Understanding Adversarial Attacks on Human Action Recognition Models
+Investigating the significance of adversarial attacks and their relation to interpretability for radar-based human activity recognition systems
+How Good is a Video Summary? A New Benchmarking Dataset and Evaluation Framework Towards Realistic Video Summarization
+Generic Event Boundary Detection: A Benchmark for Event Segmentation
+Latent Factor Modeling of Users Subjective Perception for Stereoscopic 3D Video Recommendation
+AQuA: Analytical Quality Assessment for Optimizing Video Analytics Systems
+BSUV-Net 2.0: Spatio-Temporal Data Augmentations for Video-Agnostic Supervised Background Subtraction
+A Closer Look at Temporal Sentence Grounding in Videos: Dataset and Metric
+Bridging the gap between Human Action Recognition and Online Action Detection
+Overfitting for Fun and Profit: Instance-Adaptive Data Compression
+Activity Graph Transformer for Temporal Action Localization
+COLLIDE-PRED: Prediction of On-Road Collision From Surveillance Videos
+Fire Threat Detection From Videos with Q-Rough Sets
+Video Relation Detection with Trajectory-aware Multi-modal Features
+DyLoc: Dynamic Localization for Massive MIMO Using Predictive Recurrent Neural Networks
+Deep Feedback Inverse Problem Solver
+Human Action Recognition Based on Multi-scale Feature Maps from Depth Video Sequences
+Real-Time Limited-View CT Inpainting and Reconstruction with Dual Domain Based on Spatial Information
+Intelligent Frame Selection as a Privacy-Friendlier Alternative to Face Recognition
+GO-Finder: A Registration-Free Wearable System for Assisting Users in Finding Lost Objects via Hand-Held Object Discovery
+Knowledge Distillation Methods for Efficient Unsupervised Adaptation Across Multiple Domains
+Temporal Spatial-Adaptive Interpolation with Deformable Refinement for Electron Microscopic Images
+HySTER: A Hybrid Spatio-Temporal Event Reasoner
+Coarse Temporal Attention Network (CTA-Net) for Driver's Activity Recognition
+In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning
+Attention Based Video Summaries of Live Online Zoom Classes
+Video Summarization Using Deep Neural Networks: A Survey
+Cocktail Edge Caching: Ride Dynamic Trends of Content Popularity with Ensemble Learning
+Generating coherent spontaneous speech and gesture from text
+Video action recognition for lane-change classification and prediction of surrounding vehicles
+Learning to Anticipate Egocentric Actions by Imagination
+Asymmetric self-play for automatic goal discovery in robotic manipulation
+Convolutional Neural Nets in Chemical Engineering: Foundations, Computations, and Applications
+Reproducing Activation Function for Deep Learning
+Plug-and-Play Algorithms for Video Snapshot Compressive Imaging
+Personalized Federated Deep Learning for Pain Estimation From Face Images
+Quantum Cognitively Motivated Decision Fusion for Video Sentiment Analysis
+Temporally Guided Articulated Hand Pose Tracking in Surgical Videos
+Lesion2Vec: Deep Metric Learning for Few-Shot Multiple Lesions Recognition in Wireless Capsule Endoscopy Video
+Horizontal-to-Vertical Video Conversion
+Learning from Weakly-labeled Web Videos via Exploring Sub-Concepts
+Automatic Face Understanding: Recognizing Families in Photos
+Heatmap-based Object Detection and Tracking with a Fully Convolutional Neural Network
+Activity Recognition with Moving Cameras and Few Training Examples: Applications for Detection of Autism-Related Headbanging
+FakeBuster: A DeepFakes Detection Tool for Video Conferencing Scenarios
+A Reinforcement Learning Based Encoder-Decoder Framework for Learning Stock Trading Rules
+Predicting Semen Motility using three-dimensional Convolutional Neural Networks
+TrackFormer: Multi-Object Tracking with Transformers
+Audiovisual Saliency Prediction in Uncategorized Video Sequences based on Audio-Video Correlation
+Learning Temporal Dynamics from Cycles in Narrated Video
+Teach me to play, gamer! Imitative learning in computer games via linguistic description of complex phenomena and decision tree
+Controlling Synthetic Characters in Simulations: A Case for Cognitive Architectures and Sigma
+A Survey of Deep RL and IL for Autonomous Driving Policy Learning
+HAVANA: Hierarchical and Variation-Normalized Autoencoder for Person Re-identification
+3D Convolutional Selective Autoencoder For Instability Detection in Combustion Systems
+TGCN: Time Domain Graph Convolutional Network for Multiple Objects Tracking
+CNN-based Ego-Motion Estimation for Fast MAV Maneuvers
+Local Memory Attention for Fast Video Semantic Segmentation
+End-to-End Video Question-Answer Generation with Generator-Pretester Network
+Transformers in Vision: A Survey
+Where Do Deep Fakes Look? Synthetic Face Detection via Gaze Tracking
+Anomaly Recognition from surveillance videos using 3D Convolutional Neural Networks
+Temporal Contrastive Graph Learning for Video Action Recognition and Retrieval
+Privacy-sensitive Objects Pixelation for Live Video Streaming
+A Hybrid Attention Mechanism for Weakly-Supervised Temporal Action Localization
+Uncertainty-sensitive Activity Recognition: a Reliability Benchmark and the CARING Models
+An Elo-like System for Massive Multiplayer Competitions
+Video Captioning in Compressed Video
+Identity-aware Facial Expression Recognition in Compressed Video
+Learning the Predictability of the Future
+Multi-Grid Back-Projection Networks

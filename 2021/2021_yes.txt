@@ -1,0 +1,238 @@
+StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2
+Responsive Listening Head Generation: A Benchmark Dataset and Baseline
+BANMo: Building Animatable 3D Neural Models from Many Casual Videos
+Continuous-Time Video Generation via Learning Motion Dynamics with Neural ODE
+Image Animation with Keypoint Mask
+SAGA: Stochastic Whole-Body Grasping with Contact
+Adversarial Memory Networks for Action Prediction
+End-to-End Rate-Distortion Optimized Learned Hierarchical Bi-Directional Video Compression
+Enhanced Frame and Event-Based Simulator and Event-Based Video Interpolation Network
+Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation
+Discrete neural representations for explainable anomaly detection
+TCGL: Temporal Contrastive Graph for Self-supervised Video Representation Learning
+Controllable Animation of Fluid Elements in Still Images
+Make It Move: Controllable Image-to-Video Generation with Text Descriptions
+HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs
+One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning
+BEVT: BERT Pretraining of Video Transformers
+Efficient Neural Radiance Fields for Interactive Free-viewpoint Video
+Neural Point Light Fields
+Video Frame Interpolation without Temporal Priors
+ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation
+Fast and Real-time End to End Control in Autonomous Racing Cars Through Representation Learning
+End-to-End Referring Video Object Segmentation with Multimodal Transformers
+Learning-Based Video Coding with Joint Deep Compression and Enhancement
+Video Frame Interpolation Transformer
+V2C: Visual Voice Cloning
+Improving the Perceptual Quality of 2D Animation Interpolation
+Layered Controllable Video Generation
+Human Pose Manipulation and Novel View Synthesis using Differentiable Rendering
+NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion
+Two-stage Rule-induction Visual Reasoning on RPMs with an Application to Video Prediction
+Video Content Swapping Using GAN
+Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning
+Xp-GAN: Unsupervised Multi-object Controllable Video Generation
+More than Words: In-the-Wild Visually-Driven Prosody for Text-to-Speech
+Video Background Music Generation with Controllable Music Transformer
+FakeTransformer: Exposing Face Forgery From Spatial-Temporal Representation Modeled By Facial Pixel Variations
+Action2video: Generating Videos of Human 3D Actions
+Dance In the Wild: Monocular Human Animation with Neural Dynamic Appearance Synthesis
+LUMINOUS: Indoor Scene Generation for Embodied AI Challenges
+FREGAN : an application of generative adversarial networks in enhancing the frame rate of videos
+Render In-between: Motion Guided Video Synthesis for Action Interpolation
+Imitating Arbitrary Talking Style for Realistic Audio-DrivenTalking Face Synthesis
+TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction
+Image Comes Dancing with Collaborative Parsing-Flow Video Synthesis
+NeRV: Neural Representations for Videos
+H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion
+HDRVideo-GAN: Deep Generative HDR Video Reconstruction
+Creating and Reenacting Controllable 3D Humans with Differentiable Rendering
+Wide and Narrow: Video Prediction from Context and Motion
+MUGL: Large Scale Multi Person Conditional Action Generation with Locomotion
+Variational Predictive Routing with Nested Subjective Timescales
+LARNet: Latent Action Representation for Human Action Synthesis
+Talking Head Generation with Audio and Speech Related Facial Action Units
+NeuralDiff: Segmenting 3D objects that move in egocentric videos
+CIPS-3D: A 3D-Aware Generator of GANs Based on Conditionally-Independent Pixel Synthesis
+Synthetic Temporal Anomaly Guided End-to-End Video Anomaly Detection
+Learning Not to Reconstruct Anomalies
+Taming Visually Guided Sound Generation
+Learning Cloth Folding Tasks with Refined Flow Based Spatio-Temporal Graphs
+Intelligent Video Editing: Incorporating Modern Talking Face Generation Algorithms in a Video Editor
+Pose-guided Generative Adversarial Net for Novel View Action Synthesis
+Towards Using Clothes Style Transfer for Scenario-aware Person Video Generation
+Unsupervised Object Learning via Common Fate
+Fourier-based Video Prediction through Relational Object Motion
+Synthetic Data for Multi-Parameter Camera-Based Physiological Sensing
+Sketch Me A Video
+Video Autoencoder: self-supervised disentanglement of static 3D structure and motion
+A Hierarchical Variational Neural Uncertainty Model for Stochastic Video Prediction
+Self-Supervised Decomposition, Disentanglement and Prediction of Video Sequences while Interpreting Dynamics: A Koopman Perspective
+A review of Generative Adversarial Networks (GANs) and its applications in a wide variety of disciplines -- From Medical to Remote Sensing
+Motion-aware Contrastive Video Representation Learning via Foreground-background Merging
+Deep Homography Estimation in Dynamic Surgical Scenes for Laparoscopic Camera Motion Extraction
+MetaDrive: Composing Diverse Driving Scenarios for Generalizable Reinforcement Learning
+A Stacking Ensemble Approach for Supervised Video Summarization
+Physics-based Human Motion Estimation and Synthesis from Videos
+HYouTube: Video Harmonization Dataset
+Diverse Generation from a Single Video Made Possible
+Overview of Tencent Multi-modal Ads Video Understanding Challenge
+Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering
+Conditional MoCoGAN for Zero-Shot Video Generation
+PAT: Pseudo-Adversarial Training For Detecting Adversarial Videos
+Challenges and Solutions in DeepFakes
+Detection of GAN-synthesized street videos
+Temporally Coherent Person Matting Trained on Fake-Motion Dataset
+Simple Video Generation using Neural ODEs
+Perceptual Learned Video Compression with Recurrent Conditional GAN
+ERA: Entity Relationship Aware Video Summarization with Wasserstein GAN
+Learning Fine-Grained Motion Embedding for Landscape Animation
+Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis
+Sparse to Dense Motion Transfer for Face Image Animation
+View Synthesis of Dynamic Scenes based on Deep 3D Mask Volume
+Flow-Guided Video Inpainting with Scene Templates
+Memory-Augmented Non-Local Attention for Video Super-Resolution
+MOTSynth: How Can Synthetic Data Help Pedestrian Detection and Tracking?
+Click to Move: Controlling Video Generation with Sparse Motion
+Target Adaptive Context Aggregation for Video Scene Graph Generation
+FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning
+End-to-End Dense Video Captioning with Parallel Decoding
+MV-TON: Memory-based Video Virtual Try-on network
+A Hybrid Video Anomaly Detection Framework via Memory-Augmented Flow Reconstruction and Flow-Guided Frame Prediction
+Asymmetric Bilateral Motion Estimation for Video Frame Interpolation
+Occlusion-Aware Video Object Inpainting
+Conditional Temporal Variational AutoEncoder for Action Video Prediction
+UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing
+iButter: Neural Interactive Bullet Time Generator for Human Free-viewpoint Rendering
+FLAME-in-NeRF : Neural control of Radiance Fields for Free View Face Animation
+Learning to Cut by Watching Movies
+SLAMP: Stochastic Latent Appearance and Motion Prediction
+RockGPT: Reconstructing three-dimensional digital rocks from single two-dimensional slice from the perspective of video generation
+I2V-GAN: Unpaired Infrared-to-Visible Video Translation
+Video Generation from Text Employing Latent Path Construction for Temporal Modeling
+Learning to solve complex tasks by growing knowledge culturally across generations
+Human-Level Reinforcement Learning through Theory-Based Modeling, Exploration, and Planning
+Neural Video Compression using GANs for Detail Synthesis and Propagation
+Can Action be Imitated? Learn to Reconstruct and Transfer Human Dynamics from Videos
+AnonySIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation
+Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion
+FoleyGAN: Visually Guided Generative Adversarial Network-Based Synchronous Sound Generation in Silent Videos
+Generative Video Transformer: Can Objects be the Words?
+Level generation and style enhancement -- deep learning for game development overview
+StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN
+Real-Time Super-Resolution System of 4K-Video Based on Deep Learning
+LiveView: Dynamic Target-Centered MPI for View Synthesis
+Partial Video Domain Adaptation with Partial Adversarial Temporal Attentive Network
+Speech2Video: Cross-Modal Distillation for Speech to Video Generation
+Diverse Video Generation using a Gaussian Process Trigger
+White-Box Cartoonization Using An Extended GAN Framework
+Cross-View Exocentric to Egocentric Video Synthesis
+Egocentric Videoconferencing
+iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis
+Real-world Video Deblurring: A Benchmark Dataset and An Efficient Recurrent Neural Network
+Robust Pose Transfer with Dynamic Details using Neural Video Rendering
+HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields
+FitVid: Overfitting in Pixel-Level Video Prediction
+Towards Automatic Speech to Sign Language Generation
+Understanding Object Dynamics for Interactive Image-to-Video Synthesis
+Self-supervised Video Representation Learning with Cross-Stream Prototypical Contrasting
+Long-Short Temporal Contrastive Learning of Video Transformers
+Unsupervised Video Prediction from a Single Frame by Estimating 3D Dynamic Scene Structure
+Gradient Forward-Propagation for Large-Scale Temporal Video Modelling
+Conditional COT-GAN for Video Prediction with Kernel Smoothing
+Towards Training Stronger Video Vision Transformers for EPIC-KITCHENS-100 Action Recognition
+LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization
+Task-Generic Hierarchical Human Motion Prior using VAEs
+Novel View Video Prediction Using a Dual Representation
+Efficient training for future video generation based on hierarchical disentangled representation of latent variables
+Hierarchical Video Generation for Complex Data
+Temporally coherent video anonymization through GAN inpainting
+Anticipative Video Transformer
+Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control
+Towards Unified Surgical Skill Assessment
+TransVOS: Video Object Segmentation with Transformers
+Learning Football Body-Orientation as a Matter of Classification
+Image-to-Video Generation via 3D Facial Dynamics
+Stylizing 3D Scene via Implicit Representation and HyperNetwork
+Unsupervised Video Summarization with a Convolutional Attentive Adversarial Network
+Taylor saves for later: disentanglement for video prediction using Taylor representation
+Improving Generation and Evaluation of Visual Stories via Semantic Consistency
+EA-Net: Edge-Aware Network for Flow-based Video Frame Interpolation
+Dynamic View Synthesis from Dynamic Monocular Video
+Learning to Generate Novel Scene Compositions from Single Images and Videos
+Local Frequency Domain Transformer Networks for Video Prediction
+Stochastic Image-to-Video Synthesis using cINNs
+Reconstructive Sequence-Graph Network for Video Summarization
+Object-centric Video Prediction without Annotation
+Pose-Guided Sign Language Video GAN with Dynamic Lambda
+Moving SLAM: Fully Unsupervised Deep Learning in Non-Rigid Scenes
+Real-time Deep Dynamic Characters
+One Detector to Rule Them All: Towards a General Deepfake Attack Detection Framework
+A Good Image Generator Is What You Need for High-Resolution Video Synthesis
+Anomaly Detection with Prototype-Guided Discriminative Latent Embeddings
+GODIVA: Generating Open-DomaIn Videos from nAtural Descriptions
+Editable Free-viewpoint Video Using a Layered Neural Representation
+Text2Video: Text-driven Talking-head Video Synthesis with Personalized Phoneme-Pose Dictionary
+A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning
+Motion-guided Non-local Spatial-Temporal Network for Video Crowd Counting
+End-to-End Video-To-Speech Synthesis using Generative Adversarial Networks
+VCGAN: Video Colorization with Hybrid Generative Adversarial Network
+3D-TalkEmo: Learning to Synthesize 3D Emotional Talking Head
+Hierarchical Motion Understanding via Motion Programs
+Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation
+VideoGPT: Video Generation using VQ-VAE and Transformers
+Learning Semantic-Aware Dynamics for Video Prediction
+Restoration of Video Frames from a Single Blurred Image with Motion Understanding
+MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement
+Write-a-speaker: Text-based Emotional and Rhythmic Talking-head Generation
+OmniFlow: Human Omnidirectional Optical Flow
+Zooming SlowMo: An Efficient One-Stage Framework for Space-Time Video Super-Resolution
+Audio-Driven Emotional Video Portraits
+Revisiting Hierarchical Approach for Persistent Long-Term Video Prediction
+Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling
+Generative Landmarks
+Strumming to the Beat: Audio-Conditioned Contrastive Video Textures
+Deep Animation Video Interpolation in the Wild
+PDWN: Pyramid Deformable Warping Network for Video Interpolation
+M3L: Language-based Video Editing via Multi-Modal Multi-Level Transformers
+Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning
+Collaborative Learning to Generate Audio-Video Jointly
+Long-Term Temporally Consistent Unpaired Video Translation from Simulated Surgical 3D Data
+Extending Neural P-frame Codecs for B-frame Coding
+Head2HeadFS: Video-based Head Reenactment with Few-shot Learning
+A Shape-Aware Retargeting Approach to Transfer Human Motion and Appearance in Monocular Videos
+Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling
+Generating Novel Scene Compositions from Single Images and Videos
+Large Motion Video Super-Resolution with Dual Subnet and Multi-Stage Communicated Upsampling
+AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis
+Future Frame Prediction for Robot-assisted Surgery
+VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples
+Learning to compose 6-DoF omnidirectional videos using multi-sphere images
+ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis
+Behavior-Driven Synthesis of Human Dynamics
+Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction
+Motion-blurred Video Interpolation and Extrapolation
+Neural 3D Video Synthesis from Multi-view Video
+MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions
+Predicting Video with VQVAE
+Dual-MTGAN: Stochastic and Deterministic Motion Transfer for Image-to-Video Synthesis
+Learning for Unconstrained Space-Time Video Super-Resolution
+One Shot Audio to Animated Video Generation
+Clockwork Variational Autoencoders
+Learning Self-Similarity in Space and Time as Generalized Motion for Video Action Recognition
+Hybrid Neural Fusion for Full-frame Video Stabilization
+Frame Difference-Based Temporal Loss for Video Stylization
+TräumerAI: Dreaming Music with StyleGAN
+Self-Supervised Equivariant Scene Synthesis from Video
+Playable Video Generation
+VAE^2: Preventing Posterior Collapse of Variational Video Predictions in the Wild
+AI Choreographer: Music Conditioned 3D Dance Generation with AIST++
+Disentangled Recurrent Wasserstein Autoencoder
+Self-Supervised Representation Learning from Flow Equivariance
+GeoSim: Realistic Video Simulation via Geometry-Aware Composition for Self-Driving
+ArrowGAN : Learning to Generate Videos by Learning Arrow of Time
+VisualVoice: Audio-Visual Speech Separation with Cross-Modal Consistency
+InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation
+VHS to HDTV Video Translation using Multi-task Adversarial Learning
+Generating Masks from Boxes by Mining Spatio-Temporal Consistencies in Videos
+Personal Privacy Protection via Irrelevant Faces Tracking and Pixelation in Video Live Streaming

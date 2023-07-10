@@ -1,0 +1,50 @@
+Discovering State Variables Hidden in Experimental Data
+Suppressing Static Visual Cues via Normalizing Flows for Self-Supervised Video Representation Learning
+Graph Convolutional Module for Temporal Action Localization in Videos
+Online Adaptation for Implicit Object Tracking and Shape Reconstruction in the Wild
+Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions
+Attention Mechanisms in Computer Vision: A Survey
+Perceptual Consistency in Video Segmentation
+Self-Supervised 3D Face Reconstruction via Conditional Estimation
+Toward a Human-Level Video Understanding Intelligence
+Self-Supervised Video Representation Learning by Video Incoherence Detection
+PIP: Physical Interaction Prediction via Mental Simulation with Span Selection
+LIGAR: Lightweight General-purpose Action Recognition
+Exploring Temporal Coherence for More General Video Face Forgery Detection
+SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments
+AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Person
+Generative adversarial networks in time series: A survey and taxonomy
+Towards an Interpretable Latent Space in Structured Models for Video Prediction
+Dance2Music: Automatic Dance-driven Music Generation
+CLIP-It! Language-Guided Video Summarization
+Attention Bottlenecks for Multimodal Fusion
+Modeling Clothing as a Separate Layer for an Animatable Human Avatar
+Alias-Free Generative Adversarial Networks
+A Latent Transformer for Disentangled Face Editing in Images and Videos
+Applying VertexShuffle Toward 360-Degree Video Super-Resolution on Focused-Icosahedral-Mesh
+VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning
+Augmented 2D-TAN: A Two-stage Approach for Human-centric Spatio-Temporal Video Grounding
+Cross-Modal Attention Consistency for Video-Audio Unsupervised Learning
+GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)
+Predicting Next Local Appearance for Video Anomaly Detection
+Overcoming Difficulty in Obtaining Dark-skinned Subjects for Remote-PPG by Synthetic Augmentation
+Adversarial Motion Modelling helps Semi-supervised Hand Pose Estimation
+SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition
+Issues in Object Detection in Videos using Common Single-Image CNNs
+ST-HOI: A Spatial-Temporal Baseline for Human-Object Interaction Detection in Videos
+Omnimatte: Associating Objects and Their Effects in Video
+H2O: A Benchmark for Visual Human-human Object Handover Analysis
+Multitask Learning for VVC Quality Enhancement and Super-Resolution
+Dynamic Texture Synthesis by Incorporating Long-range Spatial and Temporal Correlations
+Modulated Periodic Activations for Generalizable Local Functional Representations
+gradSim: Differentiable simulation for system identification and visuomotor control
+Deepfake Forensics via An Adversarial Game
+Lossless compression with state space models using bits back coding
+Deep Dual Consecutive Network for Human Pose Estimation
+Self-Supervision by Prediction for Object Discovery in Videos
+Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food
+SLPC: a VRNN-based approach for stochastic lidar prediction and completion in autonomous driving
+Deep Latent Competition: Learning to Race Using Visual Control Policies in Latent Space
+Learning Speech-driven 3D Conversational Gestures from Video
+Sampling Based Scene-Space Video Processing
+Deep Video Inpainting Detection
