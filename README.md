@@ -75,8 +75,7 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 ## 2023
 
-> 93 papers in total
-<br>
+> 94 papers in total
 
 + [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01872)
