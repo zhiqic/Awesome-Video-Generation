@@ -75,8 +75,6 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 ## 2023
 
-> 94 papers in total
-
 + [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01872)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://video-adapter.github.io/video-adapter/)
@@ -466,6 +464,167 @@ A comprehensive collection of works on video generation/synthesis/prediction.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12346)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://msra-nuwa.azurewebsites.net/#/)
 
+<br>
+
+__Needs verification & further processing:__
+
++ Synthesizing Artistic Cinemagraphs from Text
++ VINECS: Video-based Neural Character Skinning
++ Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation
++ DisCo: Disentangled Control for Referring Human Dance Generation in Real World
++ PVP: Personalized Video Prior for Editable Dynamic Portraits using StyleGAN
++ BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion
++ Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering
++ Reprogramming Audio-driven Talking Face Synthesis into Text-driven
++ Action-conditioned Deep Visual Prediction with RoAM, a new Indoor Human Motion Dataset for Autonomous Robots
++ Self-supervised Learning of Event-guided Video Frame Interpolation for Rolling Shutter Frames
++ Boost Video Frame Interpolation via Motion Adaptation
++ Facial Expression Re-targeting from a Single Character
++ VidEdit: Zero-Shot and Spatially Aware Text-Driven Video Editing
++ DORSal: Diffusion for Object-centric Representations of Scenes
++ Rerender A Video: Zero-Shot Text-Guided Video-to-Video Translation
++ A Weakly Supervised Approach to Emotion-change Prediction and Improved Mood Inference
++ Unmasking Deepfakes: Masked Autoencoding Spatiotemporal Transformers for Enhanced Video Forgery Detection
++ Generative Semantic Communication: Diffusion Models Beyond Bit Recovery
++ Color-aware Deep Temporal Backdrop Duplex Matting System
++ Instruct-Video2Avatar: Video-to-Avatar Generation with Instructions
++ MoviePuzzle: Visual Narrative Reasoning through Multimodal Order Learning
++ Video Colorization with Pre-trained Text-to-Image Diffusion Models
++ Temporal-controlled Frame Swap for Generating High-Fidelity Stereo Driving Data for Autonomy Analysis
++ Quantifying Sample Anonymity in Score-Based Generative Models with Adversarial Fingerprinting
++ Adjustable Visual Appearance for Generalizable Novel View Synthesis
++ 4DSR-GCN: 4D Video Point Cloud Upsampling using Graph Convolutional Networks
++ Intelligent Grimm -- Open-ended Visual Storytelling via Latent Diffusion Models
++ MammalNet: A Large-scale Video Benchmark for Mammal Recognition and Behavior Understanding
++ Exploring Phonetic Context in Lip Movement for Authentic Talking Face Generation
++ Video ControlNet: Towards Temporally Consistent Synthetic-to-Real Video Translation Using Conditional Image Diffusion Models
++ Context-Preserving Two-Stage Video Domain Translation for Portrait Stylization
++ OD-NeRF: Efficient Training of On-the-Fly Dynamic Neural Radiance Fields
++ EgoVSR: Towards High-Quality Egocentric Video Super-Resolution
++ NegVSR: Augmenting Negatives for Generalized Noise Modeling in Real-World Video Super-Resolution
++ Video Prediction Models as Rewards for Reinforcement Learning
++ Reparo: Loss-Resilient Generative Codec for Video Conferencing
++ CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation
++ Synthesizing Diverse Human Motions in 3D Indoor Scenes
++ InstructVid2Vid: Controllable Video Editing with Natural Language Instructions
++ SurgMAE: Masked Autoencoders for Long Surgical Video Analysis
++ SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models
++ Learning Pose Image Manifolds Using Geometry-Preserving GANs and Elasticae
++ IDO-VFI: Identifying Dynamics via Optical Flow Guidance for Video Frame Interpolation with Events
++ Light-VQA: A Multi-Dimensional Quality Assessment Model for Low-Light Video Enhancement
++ Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models
++ Identity-Preserving Talking Face Generation with Landmark and Appearance Priors
++ HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion
++ Style-A-Video: Agile Diffusion for Arbitrary Text-based Video Style Transfer
++ NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds
++ DSEC-MOS: Segment Any Moving Object with Moving Ego Vehicle
++ Can deepfakes be created by novice users?
++ Video Frame Interpolation with Densely Queried Bilateral Correlation
++ Dynamic Video Frame Interpolation with integrated Difficulty Pre-Assessment
++ Recurrent Transformer Encoders for Vision-based Estimation of Fatigue and Engagement in Cognitive Training Sessions
++ AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation
++ Latent-Shift: Latent Diffusion with Temporal Shift for Efficient Text-to-Video Generation
++ CAT-NeRF: Constancy-Aware Tx$^2$Former for Dynamic Body Modeling
++ Soundini: Sound-Guided Diffusion for Natural Video Editing
++ Boosting Video Object Segmentation via Space-time Correspondence Learning
++ VidStyleODE: Disentangled Video Editing via StyleGAN and NeuralODEs
++ MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation
++ Neural Image-based Avatars: Generalizable Radiance Fields for Human Avatar Modeling
++ Generative AI for learning: Investigating the potential of synthetic learning videos
++ That's What I Said: Fully-Controllable Talking Face Generation
++ Boundary-Denoising for Video Activity Localization
++ HNeRV: A Hybrid Neural Representation for Videos
++ BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation
++ NPC: Neural Point Characters from Video
++ TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles
++ Long-Short Temporal Co-Teaching for Weakly Supervised Video Anomaly Detection
++ FONT: Flow-guided One-shot Talking Head Generation with Natural Head Motions
++ Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models
++ Consistent View Synthesis with Pose-Guided Diffusion Models
++ DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder
++ The secret of immersion: actor driven camera movement generation for auto-cinematography
++ Novel View Synthesis of Humans using Differentiable Rendering
++ CelebV-Text: A Large-Scale Facial Text-Video Dataset
++ GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents
++ SUDS: Scalable Urban Dynamic Scenes
++ NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects
++ Perceptual Quality Assessment of NeRF and Neural View Synthesis Methods for Front-Facing Views
++ HandNeRF: Neural Radiance Fields for Animatable Interacting Hands
++ Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators
++ SHERF: Generalizable Human NeRF from a Single Image
++ Pix2Video: Video Editing using Image Diffusion
++ Music-Driven Group Choreography
++ Pre-NeRF 360: Enriching Unbounded Appearances for Neural Radiance Fields
++ Efficient Decision-based Black-box Patch Attacks on Video Recognition
++ Emotionally Enhanced Talking Face Generation
++ Tubelet-Contrastive Self-Supervision for Video-Efficient Generalization
++ Confidence Attention and Generalization Enhanced Distillation for Continuous Video Domain Adaptation
++ MoRF: Mobile Realistic Fullbody Avatars from a Monocular Video
++ Unified Mask Embedding and Correspondence Learning for Self-Supervised Video Segmentation
++ Leaping Into Memories: Space-Time Deep Feature Synthesis
++ Learning Data-Driven Vector-Quantized Degradation Model for Animation Video Super-Resolution
++ FateZero: Fusing Attentions for Zero-shot Text-based Video Editing
++ LDMVFI: Video Frame Interpolation with Latent Diffusion Models
++ Learning Physical-Spatio-Temporal Features for Video Shadow Removal
++ NLUT: Neural-based 3D Lookup Tables for Video Photorealistic Style Transfer
++ Automatic Geo-alignment of Artwork in Children's Story Books
++ Blowing in the Wind: CycleNet for Human Cinemagraphs from Still Images
++ Blind Video Deflickering by Neural Filtering with a Flawed Atlas
++ GRADE: Generating Realistic Animated Dynamic Environments for Robotics Research
++ Butterfly: Multiple Reference Frames Feature Propagation Mechanism for Neural Video Compression
++ Towards Generalisable Video Moment Retrieval: Visual-Dynamic Injection to Image-Text Pre-Training
++ One-Shot Video Inpainting
++ Continuous Space-Time Video Super-Resolution Utilizing Long-Range Temporal Information
++ Learning Neural Volumetric Representations of Dynamic Humans in Minutes
++ STB-VMM: Swin Transformer Based Video Motion Magnification
++ OPT: One-shot Pose-Controllable Talking Head Generation
++ One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2
++ Video Waterdrop Removal via Spatio-Temporal Fusion in Driving Scenes
++ Structure and Content-Guided Video Synthesis with Diffusion Models
++ AV-NeRF: Learning Neural Fields for Real-World Audio-Visual Scene Synthesis
++ Dreamix: Video Diffusion Models are General Video Editors
++ SceneScape: Text-Driven Consistent Scene Generation
++ Dynamic Storyboard Generation in an Engine-based Virtual Environment for Video Production
++ Maximal Cliques on Multi-Frame Proposal Graph for Unsupervised Video Object Segmentation
++ Optical Flow Estimation in 360$^\circ$ Videos: Dataset, Model and Application
++ Parkinson gait modelling from an anomaly deep representation
++ Unsupervised Volumetric Animation
++ Text-To-4D Dynamic Scene Generation
++ Regeneration Learning: A Learning Paradigm for Data Generation
++ Building Scalable Video Understanding Benchmarks through Sports
++ Event-Based Frame Interpolation with Ad-hoc Deblurring
++ DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation
++ Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation
++ HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
++ StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles
++ Detachable Novel Views Synthesis of Dynamic Scenes Using Distribution-Driven Neural Radiance Fields
++ SPAE: Semantic Pyramid AutoEncoder for Multimodal Generation with Frozen LLMs
++ SkyGPT: Probabilistic Short-term Solar Forecasting Using Synthetic Sky Videos from Physics-constrained VideoGPT
++ MovieFactory: Automatic Movie Creation from Text using Large Generative Models for Language and Images
++ Emotional Talking Head Generation based on Memory-Sharing and Attention-Augmented Networks
++ Ada-TTA: Towards Adaptive High-Quality Text-to-Talking Avatar Synthesis
++ Neural Foundations of Mental Simulation: Future Prediction of Latent Representations on Dynamic Scenes
++ Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos
++ DynamicStereo: Consistent Dynamic Depth from Stereo Videos
++ ActorsNeRF: Animatable Few-shot Human Rendering with Generalizable NeRFs
++ Total-Recon: Deformable Scene Reconstruction for Embodied View Synthesis
++ 3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes
++ Learning Temporal Distribution and Spatial Correlation for Universal Moving Object Segmentation
++ Leveraging triplet loss for unsupervised action segmentation
++ MonoHuman: Animatable Human Neural Field from Monocular Video
++ Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion
++ Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert
++ VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs
++ RobustSwap: A Simple yet Robust Face Swapping Model against Attribute Leakage
++ CAMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis
++ Prediction of the morphological evolution of a splashing drop using an encoder-decoder
++ TriPlaneNet: An Encoder for EG3D Inversion
++ Dual-path Adaptation from Image to Video Transformers
++ Predictive Experience Replay for Continual Visual Control and Forecasting
++ Video-P2P: Video Editing with Cross-attention Control
++ IntrinsicNGP: Intrinsic Coordinate based Hash Encoding for Human NeRF
++ Robust Dynamic Radiance Fields
+
 
 
 ## 2022
@@ -643,10 +802,299 @@ A comprehensive collection of works on video generation/synthesis/prediction.
   [![Star](https://img.shields.io/github/stars/youncy-hu/mage.svg?style=social&label=Star)](https://github.com/youncy-hu/mage)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.02815)
 
+<br>
 
-__temporary__:
+__Needs verification & further processing:__
 
-SimVP: Simpler yet Better Video Prediction (CVPR 2022)
++ NIRVANA: Neural Implicit Representations of Videos with Adaptive Networks and Autoregressive Patch-wise Modeling
++ How Do Deepfakes Move? Motion Magnification for Deepfake Source Detection
++ NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action
++ Latent Discretization for Continuous-time Sequence Compression
++ Cross-Resolution Flow Propagation for Foveated Video Super-Resolution
++ MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos
++ DDH-QA: A Dynamic Digital Humans Quality Assessment Database
++ Scalable Adaptive Computation for Iterative Generation
++ Predictive Coding Based Multiscale Network with Encoder-Decoder LSTM for Video Prediction
++ InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds
++ MM-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation
++ PointAvatar: Deformable Point-based Head Avatars from Videos
++ EVAL: Explainable Video Anomaly Localization
++ PV3D: A 3D Generative Model for Portrait Video Generation
++ Video Prediction by Efficient Transformers
++ Fighting Malicious Media Data: A Survey on Tampering Detection and Deepfake Detection
++ MAGVIT: Masked Generative Video Transformer
++ Physically Plausible Animation of Human Upper Body from a Single Image
++ Reinforcement Learning for Predicting Traffic Accidents
++ MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction
++ Neural Cell Video Synthesis via Optical-Flow Diffusion
++ Video Object of Interest Segmentation
++ Muscles in Action
++ Audio-Driven Co-Speech Gesture Video Generation
++ FakeOut: Leveraging Out-of-domain Self-supervision for Multi-modal Video Deepfake Detection
++ VIDM: Video Implicit Diffusion Models
++ Mixed Neural Voxels for Fast Multi-view Video Synthesis
++ Spatio-Temporal Crop Aggregation for Video Representation Learning
++ VideoReTalking: Audio-based Lip Synchronization for Talking Head Video Editing In the Wild
++ Randomized Conditional Flow Matching for Video Prediction
++ Progressive Disentangled Representation Learning for Fine-Grained Controllable Talking Head Synthesis
++ WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction
++ Efficient Feature Extraction for High-resolution Video Frame Interpolation
++ Dynamic Neural Portraits
++ TPA-Net: Generate A Dataset for Text to Physics-based Animation
++ Make-A-Story: Visual Memory Conditioned Consistent Story Generation
++ Tell Me What Happened: Unifying Text-guided Video Completion via Multimodal Masked Video Generation
++ Hand Avatar: Free-Pose Hand Animation and Rendering from Monocular Video
++ SuperTran: Reference Based Video Transformer for Enhancing Low Bitrate Streams in Real Time
++ Touch and Go: Learning from Human-Collected Vision and Touch
++ Depth-Supervised NeRF for Multi-View RGB-D Operating Room Images
++ Real-time Neural Radiance Talking Portrait Synthesis via Audio-spatial Decomposition
++ SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
++ FLEX: Full-Body Grasping Without Full-Body Grasps
++ Blur Interpolation Transformer for Real-World Motion from Blur
++ DyNCA: Real-time Dynamic Texture Synthesis Using Neural Cellular Automata
++ H-VFI: Hierarchical Frame Interpolation for Videos with Large Motions
++ AdaFNIO: Adaptive Fourier Neural Interpolation Operator for video frame interpolation
++ VarietySound: Timbre-Controllable Video to Sound Generation via Unsupervised Information Disentanglement
++ Pedestrian Spatio-Temporal Information Fusion For Video Anomaly Detection
++ SPACE: Speech-driven Portrait Animation with Controllable Expression
++ UniFormerV2: Spatiotemporal Learning by Arming Image ViTs with Video UniFormer
++ Creative divergent synthesis with generative models
++ CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming
++ Advancing Learned Video Compression with In-loop Frame Prediction
++ SSGVS: Semantic Scene Graph-to-Video Synthesis
++ Common Pets in 3D: Dynamic New-View Synthesis of Real-Life Deformable Categories
++ Temporal Consistency Learning of inter-frames for Video Super-Resolution
++ SyncTalkFace: Talking Face Generation with Precise Lip-Syncing via Audio-Lip Memory
++ CPG-RL: Learning Central Pattern Generators for Quadruped Locomotion
++ Learning Variational Motion Prior for Video-based Motion Capture
++ Streaming Radiance Fields for 3D Video Synthesis
++ Learning to forecast vegetation greenness at fine resolution over Africa with ConvLSTMs
++ EpipolarNVS: leveraging on Epipolar geometry for single-image Novel View Synthesis
++ Towards Real-Time Text2Video via CLIP-Guided, Pixel-Level Optimization
++ Facial Expression Video Generation Based-On Spatio-temporal Convolutional GAN: FEV-GAN
++ Transfer-learning for video classification: Video Swin Transformer on multiple domains
++ Temporal and Contextual Transformer for Multi-Camera Editing of TV Shows
++ Stochastic Occupancy Grid Map Prediction in Dynamic Scenes
++ MonoNeRF: Learning Generalizable NeRFs from Monocular Videos without Camera Pose
++ Pre-Avatar: An Automatic Presentation Generation Framework Leveraging Talking Avatar
++ AniFaceGAN: Animatable 3D-Aware Face Image Generation for Video Avatars
++ A Generalist Framework for Panoptic Segmentation of Images and Videos
++ Masked Motion Encoding for Self-Supervised Video Representation Learning
++ SlotFormer: Unsupervised Visual Dynamics Simulation with Object-Centric Models
++ Controllable Radiance Fields for Dynamic Face Synthesis
++ A unified model for continuous conditional video prediction
++ Contrastive Video-Language Learning with Fine-grained Frame Sampling
++ DeepHS-HDRVideo: Deep High Speed High Dynamic Range Video Reconstruction
++ Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders
++ Compressing Video Calls using Synthetic Talking Heads
++ Text-driven Video Prediction
++ Audio-Visual Face Reenactment
++ Geometry Driven Progressive Warping for One-Shot Face Animation
++ BVI-VFI: A Video Quality Database for Video Frame Interpolation
++ Cross-identity Video Motion Retargeting with Joint Transformation and Synthesis
++ Spatio-Temporal Relation Learning for Video Anomaly Detection
++ Multi-modal Video Chapter Generation
++ Real-RawVSR: Real-World Raw Video Super-Resolution with a Benchmark Dataset
++ Anomaly Detection in Aerial Videos with Transformers
++ VToonify: Controllable High-Resolution Portrait Video Style Transfer
++ T3VIP: Transformation-based 3D Video Prediction
++ NeuralMarker: A Framework for Learning General Marker Correspondence
++ AutoLV: Automatic Lecture Video Generator
++ Continuously Controllable Facial Expression Editing in Talking Face Videos
++ A Deep Moving-camera Background Model
++ HARP: Autoregressive Latent Video Prediction with High-Fidelity Image Generator
++ Talking Head from Speech Audio using a Pre-trained Image Generator
++ Treating Motion as Option to Reduce Motion Dependency in Unsupervised Video Object Segmentation
++ Neural Sign Reenactor: Deep Photorealistic Sign Language Retargeting
++ Diffusion Models: A Comprehensive Survey of Methods and Applications
++ REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer
++ SketchBetween: Video-to-Video Synthesis for Sprite Animation via Sketches
++ StableFace: Analyzing and Improving Motion Stability for Talking Face Generation
++ VMFormer: End-to-End Video Matting with Transformer
++ Neural Novel Actor: Learning a Generalized Animatable Neural Representation for Human Actors
++ StyleTalker: One-shot Style-based Audio-driven Talking Head Video Generation
++ Towards MOOCs for Lipreading: Using Synthetic Talking Heads to Train Humans in Lipreading at Scale
++ Temporal View Synthesis of Dynamic Scenes through 3D Object Motion Estimation with Multi-Plane Images
++ Wildfire Forecasting with Satellite Images and Deep Generative Model
++ Video Interpolation by Event-driven Anisotropic Adjustment of Optical Flow
++ Extreme-scale Talking-Face Video Upsampling with Audio-Visual Priors
++ Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective
++ Semi-Supervised Video Inpainting with Cycle Consistency Constraints
++ UAV-CROWD: Violent and non-violent crowd activity simulator from the perspective of UAV
++ Motion Sensitive Contrastive Learning for Self-supervised Video Representation
++ Cine-AI: Generating Video Game Cutscenes in the Style of Human Directors
++ Language-Guided Face Animation by Recurrent StyleGAN-based Generator
++ Leveraging Endo- and Exo-Temporal Regularization for Black-box Video Domain Adaptation
++ Boosting neural video codecs by exploiting hierarchical redundancy
++ PS-NeRV: Patch-wise Stylized Neural Representations for Videos
++ Real-time Gesture Animation Generation from Speech for Virtual Human Interaction
++ Multimodal Generation of Novel Action Appearances for Synthetic-to-Real Recognition of Activities of Daily Living
++ Motion-aware Memory Network for Fast Video Salient Object Detection
++ Meta-Interpolation: Time-Arbitrary Frame Interpolation via Dual Meta-Learning
++ Efficient Video Deblurring Guided by Motion Magnitude
++ Error-Aware Spatial Ensembles for Video Frame Interpolation
++ Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis
++ InfiniteNature-Zero: Learning Perpetual View Generation of Natural Scenes from Single Images
++ RealFlow: EM-based Realistic Optical Flow Dataset Generation from Videos
++ Towards Interpretable Video Super-Resolution via Alternating Optimization
++ Error Compensation Framework for Flow-Guided Video Inpainting
++ Animation from Blur: Multi-modal Blur Decomposition with Motion Guidance
++ TTVFI: Learning Trajectory-Aware Transformer for Video Frame Interpolation
++ Audio Input Generates Continuous Frames to Synthesize Facial Video Using Generative Adiversarial Networks
++ Multimodal Open-Vocabulary Video Classification via Pre-Trained Vision and Language Models
++ Neighbor Correspondence Matching for Flow-based Video Frame Synthesis
++ Deepfake Video Detection with Spatiotemporal Dropout Transformer
++ You Only Align Once: Bidirectional Interaction for Spatial-Temporal Video Super-Resolution
++ Long-term Leap Attention, Short-term Periodic Shift for Video Classification
++ CANF-VC: Conditional Augmented Normalizing Flows for Video Compression
++ A Probabilistic Model Of Interaction Dynamics for Dyadic Face-to-Face Settings
++ Cross-Attention Transformer for Video Interpolation
++ Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation
++ Video Dialog as Conversation about Objects Living in Space-Time
++ Segmenting Moving Objects via an Object-Centric Layered Representation
++ Exploring Temporally Dynamic Data Augmentation for Video Recognition
++ Programmatic Concept Learning for Human Motion Description and Synthesis
++ Optimizing Video Prediction via Video Frame Interpolation
++ Video Anomaly Detection via Prediction Network with Enhanced Spatio-Temporal Memory Exchange
++ Perceptual Conversational Head Generation with Regularized Driver and Enhanced Renderer
++ MaskViT: Masked Visual Pre-Training for Video Prediction
++ REVECA -- Rich Encoder-decoder framework for Video Event CAptioner
++ Enhanced Bi-directional Motion Estimation for Video Frame Interpolation
++ Multimodal Dialogue State Tracking
++ E2V-SDE: From Asynchronous Events to Fast and Continuous Video Reconstruction via Neural Stochastic Differential Equations
++ Stand-Alone Inter-Frame Attention in Video Models
++ Face-Dubbing++: Lip-Synchronous, Voice Preserving Translation of Videos
++ STIP: A SpatioTemporal Information-Preserving and Perception-Augmented Model for High-Resolution Video Prediction
++ JNMR: Joint Non-linear Motion Regression for Video Frame Interpolation
++ SimVP: Simpler yet Better Video Prediction
++ Learning Task Agnostic Temporal Consistency Correction
++ Recurrent Video Restoration Transformer with Guided Deformable Attention
++ Cascaded Video Generation for Videos In-the-Wild
++ D$^2$NeRF: Self-Supervised Decoupling of Dynamic and Static Objects from a Monocular Video
++ A Survey of Deep Fake Detection for Trial Courts
++ TubeFormer-DeepLab: Video Mask Transformer
++ IFRNet: Intermediate Feature Refine Network for Efficient Frame Interpolation
++ Feature-Aligned Video Raindrop Removal with Temporal Constraints
++ Future Transformer for Long-term Action Anticipation
++ Video2StyleGAN: Disentangling Local and Global Variations in a Video
++ Merkel Podcast Corpus: A Multimodal Dataset Compiled from 16 Years of Angela Merkel's Weekly Video Podcasts
++ Automatic Generation of Synthetic Colonoscopy Videos for Domain Randomization
++ Latent-space disentanglement with untrained generator networks for the isolation of different motion types in video data
++ Video Frame Interpolation with Transformer
++ Multi-encoder Network for Parameter Reduction of a Kernel-based Interpolation Architecture
++ The Effectiveness of Temporal Dependency in Deepfake Video Detection
++ Diverse Video Generation from a Single Video
++ Video-ReTime: Learning Temporally Varying Speediness for Time Remapping
++ Spatial-Temporal Space Hand-in-Hand: Spatial-Temporal Video Super-Resolution via Cycle-Projected Mutual Learning
++ Image2Gif: Generating Continuous Realistic Animations with Warping NODEs
++ GAN-Based Multi-View Video Coding with Spatio-Temporal EPI Reconstruction
++ Dual-Level Decoupled Transformer for Video Captioning
++ Parametric Reshaping of Portraits in Videos
++ Video Extrapolation in Space and Time
++ Zero-Episode Few-Shot Contrastive Predictive Coding: Solving intelligence tests without prior training
++ Copy Motion From One to Another: Fake Motion Video Generation
++ Neural Implicit Representations for Physical Parameter Inference from a Single Video
++ Talking Head Generation Driven by Speech-Related Facial Action Units and Audio- Based on Multimodal Representation Fusion
++ Restricted Black-box Adversarial Attack Against DeepFake Face Swapping
++ ClothFormer:Taming Video Virtual Try-on in All Module
++ Learning Dynamic View Synthesis With Few RGBD Cameras
++ Future Object Detection with Spatiotemporal Transformers
++ STAU: A SpatioTemporal-Aware Unit for Video Prediction and Beyond
++ Sound-Guided Semantic Video Generation
++ Less than Few: Self-Shot Video Instance Segmentation
++ Learning to Listen: Modeling Non-Deterministic Dyadic Facial Motion
++ End-to-end Dense Video Captioning as Sequence Generation
++ MUGEN: A Playground for Video-Audio-Text Multimodal Understanding and GENeration
++ Controllable Video Generation through Global and Local Motion Dynamics
++ Dynamic Neural Textures: Generating Talking-Face Videos with Continuously Controllable Expressions
++ Self-Supervised Traffic Advisors: Distributed, Multi-view Traffic Prediction for Smart Cities
++ Structure-Aware Motion Transfer with Deformable Anchor Model
++ Self-Supervised Video Representation Learning with Motion-Contrastive Perception
++ HSTR-Net: High Spatio-Temporal Resolution Video Generation For Wide Area Surveillance
++ SunStage: Portrait Reconstruction and Relighting using the Sun as a Light Stage
++ Many-to-many Splatting for Efficient Video Frame Interpolation
++ Video Demoireing with Relation-Based Temporal Consistency
++ Learning Video Salient Object Detection Progressively from Unlabeled Videos
++ Neural Rendering of Humans in Novel View and Pose from Monocular Video
++ MPS-NeRF: Generalizable 3D Human Rendering from Multiview Images
++ Foveation-based Deep Video Compression without Motion Search
++ STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction
++ High-resolution Face Swapping via Latent Semantics Disentanglement
++ VPTR: Efficient Transformers for Video Prediction
++ Long-term Video Frame Interpolation via Feature Propagation
++ Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production
++ Dressing in the Wild by Watching Dance Videos
++ Structured Local Radiance Fields for Human Avatar Modeling
++ V3GAN: Decomposing Background, Foreground and Motion for Video Generation
++ Reinforcement Learning with Action-Free Pre-Training from Videos
++ Keypoints Tracking via Transformer Networks
++ VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training
++ Unifying Motion Deblurring and Frame Interpolation with Events
++ QS-Craft: Learning to Quantize, Scrabble and Craft for Conditional Human Motion Animation
++ Sem2NeRF: Converting Single-View Semantic Masks to Neural Radiance Fields
++ Stochastic Video Prediction with Structure and Motion
++ Exploring Motion Ambiguity and Alignment for High-Quality Video Frame Interpolation
++ Beyond a Video Frame Interpolator: A Space Decoupled Learning Approach to Continuous Image Transition
++ Transframer: Arbitrary Frame Prediction with Generative Models
++ Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image
++ MSPred: Video Prediction at Multiple Spatio-Temporal Scales with Hierarchical Recurrent Networks
++ Latent Image Animator: Learning to Animate Images via Latent Space Navigation
++ DialogueNeRF: Towards Realistic Avatar Face-to-face Conversation Video Generation
++ Implicit Motion Handling for Video Camouflaged Object Detection
++ One-stage Video Instance Segmentation: From Frame-in Frame-out to Clip-in Clip-out
++ NeRFocus: Neural Radiance Field for 3D Synthetic Defocus
++ Source-free Video Domain Adaptation by Learning Temporal Consistency for Action Recognition
++ Generative Cooperative Learning for Unsupervised Video Anomaly Detection
++ Visually Supervised Speaker Detection and Localization via Microphone Array
++ A Novel Dual Dense Connection Network for Video Super-resolution
++ Region-of-Interest Based Neural Video Compression
++ PanoFlow: Learning 360° Optical Flow for Surrounding Temporal Understanding
++ Model Attribution of Face-swap Deepfake Videos
++ Instantaneous Physiological Estimation using Video Transformers
++ Thinking the Fusion Strategy of Multi-reference Face Reenactment
++ Cut and Continuous Paste towards Real-time Deep Fall Detection
++ Neural Marionette: Unsupervised Learning of Motion Skeleton and Latent Dynamics from Volumetric Video
++ Enhancing Deformable Convolution based Video Frame Interpolation with Coarse-to-fine 3D CNN
++ Exploring Discontinuity for Video Frame Interpolation
++ Robust Deepfake On Unrestricted Media: Generation And Detection
++ A new face swap method for image and video domains: a technical report
++ Feature-Style Encoder for Style-Based GAN Inversion
++ Third Time's the Charm? Image and Video Editing with StyleGAN3
++ Deep Video Prior for Video Consistency and Propagation
++ Non-linear Motion Estimation for Video Frame Interpolation using Space-time Convolutions
++ Semantically Video Coding: Instill Static-Dynamic Clues into Structured Bitstream for AI Tasks
++ Splatting-based Synthesis for Video Frame Interpolation
++ Stitch it in Time: GAN-Based Facial Editing of Real Videos
++ End-to-end Generative Pretraining for Multimodal Video Captioning
++ Self-Supervised Deep Blind Video Super-Resolution
++ Autoencoding Video Latents for Adversarial Video Generation
++ AugLy: Data Augmentations for Robustness
++ Towards Realistic Visual Dubbing with Heterogeneous Sources
++ Audio-Driven Talking Face Video Generation with Dynamic Convolution Kernels
++ Learning Temporally and Semantically Consistent Unpaired Video-to-video Translation Through Pseudo-Supervision From Synthetic Optical Flow
++ MetaDance: Few-shot Dancing Video Retargeting via Temporal-aware Meta-learning
++ Music2Video: Automatic Generation of Music Video with fusion of audio and text
++ MobileFaceSwap: A Lightweight Framework for Video Face Swapping
++ Structured 3D Features for Reconstructing Controllable Avatars
++ MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis
++ High-fidelity Facial Avatar Reconstruction from Monocular Video with Generative Priors
++ 3DDesigner: Towards Photorealistic 3D Object Generation and Editing with Text-guided Diffusion Models
++ Audio-visual video face hallucination with frequency supervision and cross modality support by speech based lip reading loss
++ It Takes Two: Masked Appearance-Motion Modeling for Self-supervised Video Transformer Pre-training
++ See, Plan, Predict: Language-guided Cognitive Planning with Video Prediction
++ Motion Transformer for Unsupervised Image Animation
++ Low-Light Video Enhancement with Synthetic Event Guidance
++ Neural Capture of Animatable 3D Human from Monocular Video
++ NDF: Neural Deformable Fields for Dynamic Human Modelling
++ Diverse Dance Synthesis via Keyframes with Transformer Controllers
++ CTrGAN: Cycle Transformers GAN for Gait Transfer
++ Enhanced Deep Animation Video Interpolation
++ An Identity-Preserved Framework for Human Motion Transfer
++ Unsupervised Coherent Video Cartoonization with Perceptual Motion Consistency
++ Learning Multi-Object Dynamics with Compositional Neural Radiance Fields
++ Transporters with Visual Foresight for Solving Unseen Rearrangement Tasks
++ VRT: A Video Restoration Transformer
+
 
 ## 2021
 
