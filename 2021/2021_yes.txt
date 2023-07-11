@@ -1,3 +1,9 @@
+CLIP-It! Language-Guided Video Summarization
+Towards an Interpretable Latent Space in Structured Models for Video Prediction
+AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Person
+SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments
+PIP: Physical Interaction Prediction via Mental Simulation with Span Selection
+Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions
 StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2
 Responsive Listening Head Generation: A Benchmark Dataset and Baseline
 BANMo: Building Animatable 3D Neural Models from Many Casual Videos
