@@ -1,3 +1,11 @@
+Learning Speech-driven 3D Conversational Gestures from Video
+SLPC: a VRNN-based approach for stochastic lidar prediction and completion in autonomous driving
+Self-Supervision by Prediction for Object Discovery in Videos
+Modulated Periodic Activations for Generalizable Local Functional Representations
+Dynamic Texture Synthesis by Incorporating Long-range Spatial and Temporal Correlations
+GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)
+Alias-Free Generative Adversarial Networks
+Modeling Clothing as a Separate Layer for an Animatable Human Avatar
 CLIP-It! Language-Guided Video Summarization
 Towards an Interpretable Latent Space in Structured Models for Video Prediction
 AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Person
