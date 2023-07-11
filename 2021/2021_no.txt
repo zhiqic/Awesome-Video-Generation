@@ -1,3 +1,17 @@
+Attention Bottlenecks for Multimodal Fusion
+Dance2Music: Automatic Dance-driven Music Generation
+Generative adversarial networks in time series: A survey and taxonomy
+Exploring Temporal Coherence for More General Video Face Forgery Detection
+LIGAR: Lightweight General-purpose Action Recognition
+Self-Supervised Video Representation Learning by Video Incoherence Detection
+Toward a Human-Level Video Understanding Intelligence
+Self-Supervised 3D Face Reconstruction via Conditional Estimation
+Perceptual Consistency in Video Segmentation
+Attention Mechanisms in Computer Vision: A Survey
+Online Adaptation for Implicit Object Tracking and Shape Reconstruction in the Wild
+Graph Convolutional Module for Temporal Action Localization in Videos
+Suppressing Static Visual Cues via Normalizing Flows for Self-Supervised Video Representation Learning
+Discovering State Variables Hidden in Experimental Data
 Feature Extraction, Classification and Prediction for Hand Hygiene Gestures with KNN Algorithm
 Spatial Distribution Patterns of Clownfish in Recirculating Aquaculture Systems
 Skin feature point tracking using deep feature encodings
