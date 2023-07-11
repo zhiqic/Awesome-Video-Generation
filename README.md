@@ -73,6 +73,22 @@ A comprehensive collection of works on video generation/synthesis/prediction.
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1705.06950)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://www.deepmind.com/open-source/kinetics)
 
++ [Recognizing human actions: a local SVM approach](https://ieeexplore.ieee.org/document/1334462)  
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.csc.kth.se/cvap/actions/)
+
++ [A Short Note about Kinetics-600](https://arxiv.org/pdf/1808.01340)  
+  [![Star](https://img.shields.io/github/stars/rocksyne/kinetics-dataset-downloader.svg?style=social&label=Star)](https://github.com/rocksyne/kinetics-dataset-downloader)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1808.01340)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.deepmind.com/open-source/kinetics)
+
++ [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://arxiv.org/pdf/2111.02114)  
+  [![Star](https://img.shields.io/github/stars/compvis/latent-diffusion.svg?style=social&label=Star)](https://github.com/compvis/latent-diffusion)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.02114)
+
++ [Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval](https://arxiv.org/pdf/2104.00650) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/m-bain/frozen-in-time.svg?style=social&label=Star)](https://github.com/m-bain/frozen-in-time)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.00650)
+
 ## 2023
 
 + [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)  
@@ -1271,11 +1287,46 @@ __Needs verification & further processing:__
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/par/publication/sg2vid.html)
 
 + [Temporal Shift GAN for Large Scale Video Generation](https://arxiv.org/pdf/2004.01823) (WACV 2021)
-
   [![Star](https://img.shields.io/github/stars/amunozgarza/tsb-gan.svg?style=social&label=Star)](https://github.com/amunozgarza/tsb-gan)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.01823)
 
++ [Learning Speech-driven 3D Conversational Gestures from Video](https://arxiv.org/pdf/2102.06837)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.06837)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vcai.mpi-inf.mpg.de/projects/3d_speech_driven_gesture/)
 
++ [SLPC: a VRNN-based approach for stochastic lidar prediction and completion in autonomous driving](https://arxiv.org/pdf/2102.09883)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.09883)
+
++ [Self-Supervision by Prediction for Object Discovery in Videos](https://arxiv.org/pdf/2103.05669)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.05669)
+
++ [Modulated Periodic Activations for Generalizable Local Functional Representations](https://arxiv.org/pdf/2104.03960) (ICCV 2021)
+  [![Star](https://img.shields.io/github/stars/lucidrains/siren-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/siren-pytorch)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.03960)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://ishit.github.io/modsine/)
+
++ [Dynamic Texture Synthesis by Incorporating Long-range Spatial and Temporal Correlations](https://arxiv.org/pdf/2104.05940)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.05940)
+
++ [GANs N' Roses: Stable, Controllable, Diverse Image to Image Translation (works for videos too!)](https://arxiv.org/pdf/2106.06561)  
+  [![Star](https://img.shields.io/github/stars/mchong6/GANsNRoses.svg?style=social&label=Star)](https://github.com/mchong6/GANsNRoses)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.06561)
+
++ [Alias-Free Generative Adversarial Networks](https://arxiv.org/pdf/2106.12423) (NeurIPS 2021)
+  [![Star](https://img.shields.io/github/stars/NVlabs/stylegan3.svg?style=social&label=Star)](https://github.com/NVlabs/stylegan3)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.12423)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/stylegan3/)
+
++ [Modeling Clothing as a Separate Layer for an Animatable Human Avatar](https://arxiv.org/pdf/2106.14879)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.14879)
+
++ [CLIP-It! Language-Guided Video Summarization](https://arxiv.org/pdf/2107.00650) (NeurIPS 2021)
+  [![Star](https://img.shields.io/github/stars/medhini/clip_it.svg?style=social&label=Star)](https://github.com/medhini/clip_it)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.00650)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://medhini.github.io/clip_it/)
+
++ [Towards an Interpretable Latent Space in Structured Models for Video Prediction](https://arxiv.org/pdf/2107.07713)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.07713)
 
 __temporary__:
 
