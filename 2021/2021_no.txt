@@ -1,3 +1,25 @@
+Deep Video Inpainting Detection
+Sampling Based Scene-Space Video Processing
+Deep Latent Competition: Learning to Race Using Visual Control Policies in Latent Space
+Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food
+Deep Dual Consecutive Network for Human Pose Estimation
+Lossless compression with state space models using bits back coding
+Deepfake Forensics via An Adversarial Game
+gradSim: Differentiable simulation for system identification and visuomotor control
+Multitask Learning for VVC Quality Enhancement and Super-Resolution
+H2O: A Benchmark for Visual Human-human Object Handover Analysis
+Omnimatte: Associating Objects and Their Effects in Video
+ST-HOI: A Spatial-Temporal Baseline for Human-Object Interaction Detection in Videos
+Issues in Object Detection in Videos using Common Single-Image CNNs
+SIMONe: View-Invariant, Temporally-Abstracted Object Representations via Unsupervised Video Decomposition
+Adversarial Motion Modelling helps Semi-supervised Hand Pose Estimation
+Overcoming Difficulty in Obtaining Dark-skinned Subjects for Remote-PPG by Synthetic Augmentation
+Predicting Next Local Appearance for Video Anomaly Detection
+Cross-Modal Attention Consistency for Video-Audio Unsupervised Learning
+Augmented 2D-TAN: A Two-stage Approach for Human-centric Spatio-Temporal Video Grounding
+VIMPAC: Video Pre-Training via Masked Token Prediction and Contrastive Learning
+Applying VertexShuffle Toward 360-Degree Video Super-Resolution on Focused-Icosahedral-Mesh
+A Latent Transformer for Disentangled Face Editing in Images and Videos
 Attention Bottlenecks for Multimodal Fusion
 Dance2Music: Automatic Dance-driven Music Generation
 Generative adversarial networks in time series: A survey and taxonomy
