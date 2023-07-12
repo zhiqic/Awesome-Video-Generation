@@ -89,6 +89,31 @@ A comprehensive collection of works on video generation/synthesis/prediction.
   [![Star](https://img.shields.io/github/stars/m-bain/frozen-in-time.svg?style=social&label=Star)](https://github.com/m-bain/frozen-in-time)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2104.00650)
 
++ [Self-Supervised Visual Planning with Temporal Skip Connections](https://arxiv.org/pdf/1710.05268)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1710.05268)
+
++ [How2Sign: A Large-scale Multimodal Dataset for Continuous American Sign Language](https://arxiv.org/pdf/2008.08143) (CVPR 2021)  
+  [![Star](https://img.shields.io/github/stars/how2sign/how2sign.github.io.svg?style=social&label=Star)](https://github.com/how2sign/how2sign.github.io)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2008.08143)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://how2sign.github.io/)
+
++ [Learning to Drive by Watching YouTube Videos: Action-Conditioned Contrastive Policy Pretraining](https://arxiv.org/pdf/2204.02393) (ECCV 2022)  
+  [![Star](https://img.shields.io/github/stars/metadriverse/aco.svg?style=social&label=Star)](https://github.com/metadriverse/aco)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2204.02393)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://metadriverse.github.io/ACO/)
+
++ [FakeCatcher: Detection of Synthetic Portrait Videos using Biological Signals](https://arxiv.org/pdf/1901.02212)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1901.02212)
+
++ [DTVNet: Dynamic Time-lapse Video Generation via Single Still Image](https://arxiv.org/pdf/2008.04776) (ECCV 2020)  
+  [![Star](https://img.shields.io/github/stars/zhangzjn/DTVNet.svg?style=social&label=Star)](https://github.com/zhangzjn/DTVNet)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2008.04776)
+
++ [Multi-StyleGAN: Towards Image-Based Simulation of Time-Lapse Live-Cell Microscopy](https://arxiv.org/pdf/2106.08285)  
+  [![Star](https://img.shields.io/github/stars/ChristophReich1996/Multi-StyleGAN.svg?style=social&label=Star)](https://github.com/ChristophReich1996/Multi-StyleGAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.08285)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://christophreich1996.github.io/multi_stylegan/)
+
 ## 2023
 
 + [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)  
@@ -1350,10 +1375,6 @@ Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 202
 + [LIFI: Towards Linguistically Informed Frame Interpolation](https://arxiv.org/pdf/2010.16078)  
   [![Star](https://img.shields.io/github/stars/midas-research/linguistically-informed-frame-interpolation.svg?style=social&label=Star)](https://github.com/midas-research/linguistically-informed-frame-interpolation)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.16078)
-
-+ [DTVNet: Dynamic Time-lapse Video Generation via Single Still Image](https://arxiv.org/pdf/2008.04776) (ECCV 2020)  
-  [![Star](https://img.shields.io/github/stars/zhangzjn/DTVNet.svg?style=social&label=Star)](https://github.com/zhangzjn/DTVNet)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2008.04776)
 
 + [Unsupervised object-centric video generation and decomposition in 3D](https://arxiv.org/pdf/2007.06705) (NeurIPS 2020)  
   [![Star](https://img.shields.io/github/stars/pmh47/o3v.svg?style=social&label=Star)](https://github.com/pmh47/o3v)
