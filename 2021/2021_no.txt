@@ -1,3 +1,8 @@
+BEVT: BERT Pretraining of Video Transformers
+HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs
+TCGL: Temporal Contrastive Graph for Self-supervised Video Representation Learning
+Discrete neural representations for explainable anomaly detection
+Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation
 Deep Video Inpainting Detection
 Sampling Based Scene-Space Video Processing
 Deep Latent Competition: Learning to Race Using Visual Control Policies in Latent Space
