@@ -1353,6 +1353,76 @@ __Needs verification & further processing:__
 + [Towards an Interpretable Latent Space in Structured Models for Video Prediction](https://arxiv.org/pdf/2107.07713)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.07713)
 
++ [AnyoneNet: Synchronized Speech and Talking Head Generation for Arbitrary Person](https://arxiv.org/pdf/2108.04325)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.04325)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xinshengwang.github.io/project/talking_head/)
+
++ [SPACE: A Simulator for Physical Interactions and Causal Learning in 3D Environments](https://arxiv.org/pdf/2108.06180)
+  [![Star](https://img.shields.io/github/stars/jiafei1224/space.svg?style=social&label=Star)](https://github.com/jiafei1224/space)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.06180)
+
++ [PIP: Physical Interaction Prediction via Mental Simulation with Span Selection](https://arxiv.org/pdf/2109.04683)
+  [![Star](https://img.shields.io/github/stars/SamsonYuBaiJian/pip.svg?style=social&label=Star)](https://github.com/SamsonYuBaiJian/pip)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.04683)
+
++ [Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions](https://arxiv.org/pdf/2111.10337) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/microsoft/xpretrain.svg?style=social&label=Star)](https://github.com/microsoft/xpretrain)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.10337)
+
++ [Responsive Listening Head Generation: A Benchmark Dataset and Baseline](https://arxiv.org/pdf/2112.13548) (ECCV 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.13548)
+
++ [BANMo: Building Animatable 3D Neural Models from Many Casual Videos](https://arxiv.org/pdf/2112.12761) (CVPR 2022)  
+  [![Star](https://img.shields.io/github/stars/facebookresearch/banmo.svg?style=social&label=Star)](https://github.com/facebookresearch/banmo)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.12761)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://banmo-www.github.io/)
+
++ [Continuous-Time Video Generation via Learning Motion Dynamics with Neural ODE](https://arxiv.org/pdf/2112.10960) (BMVC 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10960)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://psh01087.github.io/MODE-GAN/)
+
++ [Image Animation with Keypoint Mask](https://arxiv.org/pdf/2112.10457)  
+  [![Star](https://img.shields.io/github/stars/or-toledano/animation-with-keypoint-mask.svg?style=social&label=Star)](https://github.com/or-toledano/animation-with-keypoint-mask)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10457)
+
++ [SAGA: Stochastic Whole-Body Grasping with Contact](https://arxiv.org/pdf/2112.10103) (ECCV 2022)  
+  [![Star](https://img.shields.io/github/stars/JiahaoPlus/SAGA.svg?style=social&label=Star)](https://github.com/JiahaoPlus/SAGA)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.10103)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jiahaoplus.github.io/SAGA/saga.html)
+
++ [Adversarial Memory Networks for Action Prediction](https://arxiv.org/pdf/2112.09875)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.09875)
+
++ [End-to-End Rate-Distortion Optimized Learned Hierarchical Bi-Directional Video Compression](https://arxiv.org/pdf/2112.09529v1)
+  [![Star](https://img.shields.io/github/stars/KUIS-AI-Tekalp-Research-Group/video-compression.svg?style=social&label=Star)](https://github.com/KUIS-AI-Tekalp-Research-Group/video-compression)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.09529)
+
++ [Enhanced Frame and Event-Based Simulator and Event-Based Video Interpolation Network](https://arxiv.org/pdf/2112.09379)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.09379)
+
++ [Discrete neural representations for explainable anomaly detection](https://arxiv.org/pdf/2112.08913) (AAAI 2022)
+  [![Star](https://img.shields.io/github/stars/KT27-A/CSTP.svg?style=social&label=Star)](https://github.com/KT27-A/CSTP)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.08913)
+
++ [Controllable Animation of Fluid Elements in Still Images](https://arxiv.org/pdf/2112.03051) (CVPR 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.03051)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://controllable-cinemagraphs.github.io/)
+
++ [One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning](https://arxiv.org/pdf/2112.02749) (AAAI 2022)
+  [![Star](https://img.shields.io/github/stars/FuxiVirtualHuman/AAAI22-one-shot-talking-face.svg?style=social&label=Star)](https://github.com/FuxiVirtualHuman/AAAI22-one-shot-talking-face)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.02749)
+
++ [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://arxiv.org/pdf/2112.01517) (SIGGRAPH Asia 2022)  
+  [![Star](https://img.shields.io/github/stars/zju3dv/enerf/.svg?style=social&label=Star)](https://github.com/zju3dv/enerf/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01517)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/enerf/)
+
++ [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://arxiv.org/pdf/2112.01517) (SIGGRAPH Asia 2022)  
+  [![Star](https://img.shields.io/github/stars/zju3dv/enerf/.svg?style=social&label=Star)](https://github.com/zju3dv/enerf/)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01517)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/enerf/)
+
+
 __temporary__:
 
 Dynamic View Synthesis from Dynamic Monocular Video (ICCV 2021)
