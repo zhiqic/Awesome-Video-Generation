@@ -1413,14 +1413,10 @@ __Needs verification & further processing:__
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.02749)
 
 + [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://arxiv.org/pdf/2112.01517) (SIGGRAPH Asia 2022)  
-  [![Star](https://img.shields.io/github/stars/zju3dv/enerf/.svg?style=social&label=Star)](https://github.com/zju3dv/enerf/)
+  [![Star](https://img.shields.io/github/stars/zju3dv/enerf.svg?style=social&label=Star)](https://github.com/zju3dv/enerf)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01517)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/enerf/)
 
-+ [Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://arxiv.org/pdf/2112.01517) (SIGGRAPH Asia 2022)  
-  [![Star](https://img.shields.io/github/stars/zju3dv/enerf/.svg?style=social&label=Star)](https://github.com/zju3dv/enerf/)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01517)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/enerf/)
 
 
 __temporary__:
