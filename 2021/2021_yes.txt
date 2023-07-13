@@ -21,14 +21,9 @@ SAGA: Stochastic Whole-Body Grasping with Contact
 Adversarial Memory Networks for Action Prediction
 End-to-End Rate-Distortion Optimized Learned Hierarchical Bi-Directional Video Compression
 Enhanced Frame and Event-Based Simulator and Event-Based Video Interpolation Network
-Contrastive Spatio-Temporal Pretext Learning for Self-supervised Video Representation
-Discrete neural representations for explainable anomaly detection
-TCGL: Temporal Contrastive Graph for Self-supervised Video Representation Learning
 Controllable Animation of Fluid Elements in Still Images
 Make It Move: Controllable Image-to-Video Generation with Text Descriptions
-HumanNeRF: Efficiently Generated Human Radiance Field from Sparse Inputs
 One-shot Talking Face Generation from Single-speaker Audio-Visual Correlation Learning
-BEVT: BERT Pretraining of Video Transformers
 Efficient Neural Radiance Fields for Interactive Free-viewpoint Video
 Neural Point Light Fields
 Video Frame Interpolation without Temporal Priors
