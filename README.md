@@ -2017,8 +2017,277 @@ __Needs verification & further processing:__
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01517)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/enerf/)
 
++ [Neural Point Light Fields](https://arxiv.org/abs/2112.01473) (CVPR 2022)
+  [![Star](https://img.shields.io/github/stars/princeton-computational-imaging/neural-point-light-fields.svg?style=social&label=Star)](https://github.com/princeton-computational-imaging/neural-point-light-fields)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01473)
 
++ [Video Frame Interpolation without Temporal Priors](https://arxiv.org/abs/2112.01161) (NeurIPS 2020)
+  [![Star](https://img.shields.io/github/stars/yjzhang96/UTI-VFI.svg?style=social&label=Star)](https://github.com/yjzhang96/UTI-VFI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.01161)
 
++ [ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation](https://arxiv.org/abs/2111.15483) (CVPR 2022)
+  [![Star](https://img.shields.io/github/stars/danier97/ST-MFNet.svg?style=social&label=Star)](https://github.com/danier97/ST-MFNet)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.15483)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://danielism97.github.io/ST-MFNet)
+
++ [Video Frame Interpolation Transformer](https://arxiv.org/abs/2111.13817) (CVPR 2022)
+  [![Star](https://img.shields.io/github/stars/dvlab-research/vfiformer.svg?style=social&label=Star)](https://github.com/dvlab-research/vfiformer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.13817)
+
++ [Improving the Perceptual Quality of 2D Animation Interpolation](https://arxiv.org/abs/2111.12792) (ECCV 2022)
+  [![Star](https://img.shields.io/github/stars/shuhongchen/eisai-anime-interpolator.svg?style=social&label=Star)](https://github.com/shuhongchen/eisai-anime-interpolator)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.12792)
+
++ [Layered Controllable Video Generation](https://arxiv.org/abs/2111.12747) (ECCV 2022)
+  [![Star](https://img.shields.io/github/stars/Gabriel-Huang/Layered-Controllable-Video-Generation.svg?style=social&label=Star)](https://github.com/Gabriel-Huang/Layered-Controllable-Video-Generation)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.12792)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://gabriel-huang.github.io/layered_controllable_video_generation/)
+
++ [Human Pose Manipulation and Novel View Synthesis using Differentiable Rendering](https://arxiv.org/abs/2111.12731)
+  [![Star](https://img.shields.io/github/stars/guillaumerochette/humanviewsynthesis.svg?style=social&label=Star)](https://github.com/guillaumerochette/humanviewsynthesis)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.12792)
+
++ [Two-stage Rule-induction Visual Reasoning on RPMs with an Application to Video Prediction](https://arxiv.org/abs/2111.12301)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.12301)
+
++ [Video Content Swapping Using GAN](http://export.arxiv.org/abs/2111.10916)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://export.arxiv.org/abs/2111.10916)
+
++ [Temporal-MPI: Enabling Multi-Plane Images for Dynamic Scene Modelling via Temporal Basis Learning](https://arxiv.org/abs/2111.10533) (ECCV 2022)  
+  [![Star](https://img.shields.io/github/stars/HKBU-VSComputing/2022_ECCV_Temporal-MPI.svg?style=social&label=Star)](https://github.com/HKBU-VSComputing/2022_ECCV_Temporal-MPI)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.10533)
+
++ [Xp-GAN: Unsupervised Multi-object Controllable Video Generation](https://arxiv.org/abs/2111.10233)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.10233)
+
++ [Action2video: Generating Videos of Human 3D Actions](https://arxiv.org/abs/2111.06925) (IJCV 2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.06925)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vision-and-learning-lab-ualberta.github.io/post/chuan_ijcv_2022/)
+
++ [Dance In the Wild: Monocular Human Animation with Neural Dynamic Appearance Synthesis](https://arxiv.org/abs/2111.05916)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.05916)
+
++ [LUMINOUS: Indoor Scene Generation for Embodied AI Challenges](https://arxiv.org/abs/2111.05916)  
+  [![Star](https://img.shields.io/github/stars/amazon-science/indoor-scene-generation-eai.svg?style=social&label=Star)](https://github.com/amazon-science/indoor-scene-generation-eai)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.05916)
+
++ [FREGAN : an application of generative adversarial networks in enhancing the frame rate of videos](https://arxiv.org/abs/2111.01105)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.01105)
+
++ [Render In-between: Motion Guided Video Synthesis for Action Interpolation](https://arxiv.org/abs/2111.01029)  
+  [![Star](https://img.shields.io/github/stars/azuxmioy/Render-In-Between.svg?style=social&label=Star)](https://github.com/azuxmioy/Render-In-Between)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.01029)
+
++ [Imitating Arbitrary Talking Style for Realistic Audio-DrivenTalking Face Synthesis](https://arxiv.org/abs/2111.00203) (MM 2021)  
+  [![Star](https://img.shields.io/github/stars/wuhaozhe/style_avatar.svg?style=social&label=Star)](https://github.com/wuhaozhe/style_avatar)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.00203)
+
++ [TaylorSwiftNet: Taylor Driven Temporal Modeling for Swift Future Frame Prediction](https://arxiv.org/abs/2111.00203)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.00203)
+
++ [Image Comes Dancing with Collaborative Parsing-Flow Video Synthesis](https://arxiv.org/abs/2110.14147) (TIP 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.14147)
+
++ [H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion](https://arxiv.org/abs/2110.13746)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.13746)
+
++ [HDRVideo-GAN: Deep Generative HDR Video Reconstruction](https://arxiv.org/abs/2110.11795) (ICVGIP 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.11795)
+
++ [Creating and Reenacting Controllable 3D Humans with Differentiable Rendering](https://arxiv.org/abs/2110.11746) (WACV 2022)  
+  [![Star](https://img.shields.io/github/stars/wuhaozhe/style_avatar.svg?style=social&label=Star)](https://github.com/verlab/CreatingAndReenacting_WACV_2022)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.11746)
+
++ [Wide and Narrow: Video Prediction from Context and Motion](https://arxiv.org/abs/2110.11586)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.11586)
+
++ [MUGL: Large Scale Multi Person Conditional Action Generation with Locomotion](https://arxiv.org/abs/2111.12792) (WACV 2022)  
+  [![Star](https://img.shields.io/github/stars/skelemoa/mugl.svg?style=social&label=Star)](https://github.com/skelemoa/mugl)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2111.12792)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://skeleton.iiit.ac.in/mugl)
+
++ [LARNet: Latent Action Representation for Human Action Synthesis](https://arxiv.org/abs/2110.11236) (ICLR 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.11236)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vpr-model.github.io/)
+
++ [Talking Head Generation with Audio and Speech Related Facial Action Units](https://arxiv.org/abs/2110.09951) (BMVC 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.09951)
+
++ [NeuralDiff: Segmenting 3D objects that move in egocentric videos](https://arxiv.org/abs/2110.09936) (3DV 2021)  
+  [![Star](https://img.shields.io/github/stars/dichotomies/NeuralDiff.svg?style=social&label=Star)](https://github.com/dichotomies/NeuralDiff)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.09936)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.robots.ox.ac.uk/~vadim/neuraldiff/)
+
++ [Intelligent Video Editing: Incorporating Modern Talking Face Generation Algorithms in a Video Editor](https://arxiv.org/abs/2110.08580) (ICVGIP 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.08580)
+
++ [Pose-guided Generative Adversarial Net for Novel View Action Synthesis](https://arxiv.org/abs/2110.07993) (WACV 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.07993)
+
++ [Fourier-based Video Prediction through Relational Object Motion](https://arxiv.org/abs/2110.05881)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.05881)
+
++ [Synthetic Data for Multi-Parameter Camera-Based Physiological Sensing](https://arxiv.org/abs/2110.04902)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04902)
+
++ [Sketch Me A Video](https://arxiv.org/abs/2110.04710)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.04710)
+
++ [Video Autoencoder: self-supervised disentanglement of static 3D structure and motion](https://arxiv.org/abs/2110.02951) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/zlai0/VideoAutoencoder.svg?style=social&label=Star)](https://github.com/zlai0/VideoAutoencoder)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.02951)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://zlai0.github.io/VideoAutoencoder/)
+
++ [A Hierarchical Variational Neural Uncertainty Model for Stochastic Video Prediction](https://arxiv.org/abs/2110.03446)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.03446)
+
++ [Self-Supervised Decomposition, Disentanglement and Prediction of Video Sequences while Interpreting Dynamics: A Koopman Perspective](https://arxiv.org/abs/2110.00547)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2110.00547)
+
++ [A Stacking Ensemble Approach for Supervised Video Summarization](https://arxiv.org/abs/2109.12581)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.12581)
+
++ [Physics-based Human Motion Estimation and Synthesis from Videos](https://arxiv.org/abs/2109.09913) (ICCV 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.09913)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nv-tlabs.github.io/physics-pose-estimation-project-page/)
+
++ [HYouTube: Video Harmonization Dataset](https://arxiv.org/abs/2109.08809) (Datasets)  
+  [![Star](https://img.shields.io/github/stars/bcmi/video-harmonization-dataset-hyoutube.svg?style=social&label=Star)](https://github.com/bcmi/video-harmonization-dataset-hyoutube)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.08809)
+
++ [Diverse Generation from a Single Video Made Possible](https://arxiv.org/abs/2109.08591)  
+  [![Star](https://img.shields.io/github/stars/nivha/single_video_generation.svg?style=social&label=Star)](https://github.com/nivha/single_video_generation)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.08591)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://nivha.github.io/vgpnn/)
+
++ [Neural Human Performer: Learning Generalizable Radiance Fields for Human Performance Rendering](https://arxiv.org/abs/2109.07448)  
+  [![Star](https://img.shields.io/github/stars/YoungJoongUNC/Neural_Human_Performer.svg?style=social&label=Star)](https://github.com/YoungJoongUNC/Neural_Human_Performer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.08591)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://youngjoongunc.github.io/nhp/)
+
++ [Conditional MoCoGAN for Zero-Shot Video Generation](https://arxiv.org/abs/2109.05864)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.05864)
+
++ [Temporally Coherent Person Matting Trained on Fake-Motion Dataset](https://arxiv.org/abs/2109.04843)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.04843)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videoprocessing.github.io/person-matting)
+
++ [Simple Video Generation using Neural ODEs](https://arxiv.org/abs/2109.03292)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.03292)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://voletiv.github.io/docs/presentations/20191213_Vancouver_NeurIPSW_EncODEDec.pdf)
+
++ [ERA: Entity Relationship Aware Video Summarization with Wasserstein GAN](https://arxiv.org/abs/2109.02625)
+  [![Star](https://img.shields.io/github/stars/bcmi/video-harmonization-dataset-hyoutube.svg?style=social&label=Star)](https://github.com/jnzs1836/era-vsum)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.02625)
+
++ [Learning Fine-Grained Motion Embedding for Landscape Animation](https://arxiv.org/abs/2109.02216) (ACM Multimedia 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.02216)
+
++ [Deep Person Generation: A Survey from the Perspective of Face, Pose and Cloth Synthesis](https://arxiv.org/abs/2109.02081)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.02081)
+
++ [Sparse to Dense Motion Transfer for Face Image Animation](https://arxiv.org/abs/2109.00471) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/fangchangma/sparse-to-dense.svg?style=social&label=Star)](https://github.com/fangchangma/sparse-to-dense)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2109.00471)
+
++ [View Synthesis of Dynamic Scenes based on Deep 3D Mask Volume](https://arxiv.org/abs/2108.13408) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/ken2576/deep-3dmask.svg?style=social&label=Star)](https://github.com/ken2576/deep-3dmask)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.13408)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://cseweb.ucsd.edu//~viscomp/projects/ICCV21Deep/)
+
++ [Flow-Guided Video Inpainting with Scene Templates](https://arxiv.org/abs/2108.12845) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/donglao/videoinpainting.svg?style=social&label=Star)](https://github.com/donglao/videoinpainting)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.12845)
+
++ [Target Adaptive Context Aggregation for Video Scene Graph Generation](https://arxiv.org/abs/2108.08121) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/mcg-nju/trace.svg?style=social&label=Star)](https://github.com/mcg-nju/trace)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.08121)
+
++ [FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning](https://arxiv.org/abs/2108.07938) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/zhangchenxu528/FACIAL.svg?style=social&label=Star)](https://github.com/zhangchenxu528/FACIAL)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.07938)
+
++ [Asymmetric Bilateral Motion Estimation for Video Frame Interpolation](https://arxiv.org/abs/2108.06815) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/junheum/abme.svg?style=social&label=Star)](https://github.com/junheum/abme)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.06815)
+
++ [Occlusion-Aware Video Object Inpainting](https://arxiv.org/abs/2108.06765) (ICCV 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.06765)
+
++ [Conditional Temporal Variational AutoEncoder for Action Video Prediction](https://arxiv.org/abs/2108.05658) (ECCV 2018)  
+  [![Star](https://img.shields.io/github/stars/yccyenchicheng/pytorch-VideoVAE.svg?style=social&label=Star)](https://github.com/yccyenchicheng/pytorch-VideoVAE)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.06815)
+
++ [UniFaceGAN: A Unified Framework for Temporally Consistent Facial Video Editing](https://arxiv.org/abs/2108.05650) (IEEE TIP 2021IEEE TIP 2021)  
+
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.05650)
+
++ [iButter: Neural Interactive Bullet Time Generator for Human Free-viewpoint Rendering](https://arxiv.org/abs/2108.05577) (ACM MM 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.05577)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://aoliao12138.github.io/iButter/)
+
++ [FLAME-in-NeRF : Neural control of Radiance Fields for Free View Face Animation](https://arxiv.org/abs/2108.04913)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.04913)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://shahrukhathar.github.io/2021/08/12/FLAMEinNeRF.html)
+
++ [Learning to Cut by Watching Movies](https://arxiv.org/abs/2108.04294) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/PardoAlejo/LearningToCut.svg?style=social&label=Star)](https://github.com/PardoAlejo/LearningToCut)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.04294)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://www.alejandropardo.net/publication/learning-to-cut/)
+
++ [RockGPT: Reconstructing three-dimensional digital rocks from single two-dimensional slice from the perspective of video generation](https://arxiv.org/abs/2108.03132)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.03132)
+
++ [I2V-GAN: Unpaired Infrared-to-Visible Video Translation](https://arxiv.org/abs/2108.00913) (ACM MM 2021)  
+  [![Star](https://img.shields.io/github/stars/BIT-DA/I2V-GAN.svg?style=social&label=Star)](https://github.com/BIT-DA/I2V-GAN)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2108.00913)
+
++ [Video Generation from Text Employing Latent Path Construction for Temporal Modeling](https://arxiv.org/abs/2107.13766)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.13766)
+
++ [Audio2Head: Audio-driven One-shot Talking-head Generation with Natural Head Motion](https://arxiv.org/abs/2107.09293)  
+  [![Star](https://img.shields.io/github/stars/BIT-DA/I2V-GAN.svg?style=social&label=Star)](https://github.com/wangsuzhen/Audio2Head)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.09293)
+
++ [Generative Video Transformer: Can Objects be the Words?](https://arxiv.org/abs/2107.09240)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.09240)
+
++ [StyleVideoGAN: A Temporal Generative Model using a Pretrained StyleGAN](https://arxiv.org/abs/2107.07224)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.07224)
+
++ [LiveView: Dynamic Target-Centered MPI for View Synthesis](https://arxiv.org/abs/2107.05113)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.05113)
+
++ [Speech2Video: Cross-Modal Distillation for Speech to Video Generation](https://arxiv.org/abs/2107.04806) (ACCV 2020)  
+  [![Star](https://img.shields.io/github/stars/sibozhang/Speech2Video.svg?style=social&label=Star)](https://github.com/sibozhang/Speech2Video)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.04806)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/sibozhang/speech2video)
+
++ [Cross-View Exocentric to Egocentric Video Synthesis](https://arxiv.org/abs/2107.03120) (ACM MM 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.03120)
+
++ [Egocentric Videoconferencing](https://arxiv.org/abs/2107.03109)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.03109)
+  [![Website](https://img.shields.io/badge/Website-9cf)](http://gvv.mpi-inf.mpg.de/projects/EgoChat/)
+
++ [iPOKE: Poking a Still Image for Controlled Stochastic Video Synthesis](https://arxiv.org/abs/2107.02790) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/sibozhang/Speech2Video.svg?style=social&label=Star)](https://github.com/CompVis/ipoke)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.02790)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://compvis.github.io/ipoke/)
+
++ [Robust Pose Transfer with Dynamic Details using Neural Video Rendering](https://arxiv.org/abs/2106.14132) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/SunYangtian/Neural-Human-Video-Rendering.svg?style=social&label=Star)](https://github.com/SunYangtian/Neural-Human-Video-Rendering)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.14132)
+
++ [Unsupervised Video Prediction from a Single Frame by Estimating 3D Dynamic Scene Structure](https://arxiv.org/abs/2106.09051)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.09051)
+
++ [Gradient Forward-Propagation for Large-Scale Temporal Video Modelling](https://arxiv.org/abs/2106.08318) (CVPR 2021)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.08318)
+
++ [Conditional COT-GAN for Video Prediction with Kernel Smoothing](https://arxiv.org/abs/2106.05658)  
+  [![Star](https://img.shields.io/github/stars/neuripss2020/kccotgan.svg?style=social&label=Star)](https://github.com/neuripss2020/kccotgan)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2106.05658)
 __temporary__:
 
 Dynamic View Synthesis from Dynamic Monocular Video (ICCV 2021)
