@@ -149,6 +149,11 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 ## 2023
 
++ [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940)
+  [![Star](https://img.shields.io/github/stars/videocrafter/animate-a-story.svg?style=social&label=Star)](https://github.com/videocrafter/animate-a-story)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videocrafter.github.io/Animate-A-Story/)
+
 + [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01872)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://video-adapter.github.io/video-adapter/)
