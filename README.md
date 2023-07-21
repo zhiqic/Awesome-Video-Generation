@@ -2447,18 +2447,22 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 + [InMoDeGAN: Interpretable Motion Decomposition Generative Adversarial Network for Video Generation](https://arxiv.org/abs/2101.03049)  
   [![Star](https://img.shields.io/github/stars/c1a1o1/InMoDeGAN-project.svg?style=social&label=Star)](https://github.com/c1a1o1/InMoDeGAN-project)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2101.03049)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2101.03049)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://wyhsirius.github.io/InMoDeGAN/)
 
 + [Personal Privacy Protection via Irrelevant Faces Tracking and Pixelation in Video Live Streaming](https://arxiv.org/abs/1903.10836)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1903.10836)
-__temporary__:
 
-Dynamic View Synthesis from Dynamic Monocular Video (ICCV 2021)
-https://free-view-video.github.io/
++ [Dynamic View Synthesis from Dynamic Monocular Video](https://arxiv.org/abs/2105.06468) (ICCV 2021)  
+  [![Star](https://img.shields.io/github/stars/gaochen315/DynamicNeRF.svg?style=social&label=Star)](https://github.com/gaochen315/DynamicNeRF)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2105.06468)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://free-view-video.github.io/)
 
++ [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](https://arxiv.org/abs/2012.12247) (CVPR 2021)  
+  [![Star](https://img.shields.io/github/stars/facebookresearch/nonrigid_nerf.svg?style=social&label=Star)](https://github.com/facebookresearch/nonrigid_nerf)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2012.12247)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://vcai.mpi-inf.mpg.de/projects/nonrigid_nerf/)
 
-Spatio-temporal Predictive Network For Videos With Physical Properties (CVPR 2021)
 
 
 ## 2020
