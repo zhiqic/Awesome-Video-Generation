@@ -37,7 +37,7 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 * [2017](#2017)
 * [2016](#2016)
 
-## ✨Survey Papers
+## ✨Survey_Papers
 
 
 
@@ -157,7 +157,7 @@ A comprehensive collection of works on video generation/synthesis/prediction.
   [![Star](https://img.shields.io/github/stars/deeplsd/Merkel-Podcast-Corpus.svg?style=social&label=Star)](https://github.com/deeplsd/Merkel-Podcast-Corpus)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.12194)
 
-## 🚀Video-generation subtopics
+## 🚀Video-generation_subtopics
 
 + [Controllable Video generation](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/controllable_video_generation.md)  
   Text-to-video, image-to-video  
