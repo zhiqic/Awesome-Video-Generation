@@ -146,6 +146,26 @@ A comprehensive collection of works on video generation/synthesis/prediction.
   [![Star](https://img.shields.io/github/stars/deeplsd/Merkel-Podcast-Corpus.svg?style=social&label=Star)](https://github.com/deeplsd/Merkel-Podcast-Corpus)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.12194)
 
+## Video-generation subtopics
+
++ [Controllable Video generation]()  
+  Text-to-video, image-to-video  
+  The “classic” task: create a video scratch, i.e. starting from random noise. The generation process is sometimes given simple conditions, such as Text or image. Common goals include visual fidelity, temporal coherence, and logical plausibility.
++ [Video prediction]()  
+  Video generation with (visual) constraints  
+Predict the next N frames following a sequence of input video frames, or predict N frames between the given start and final frames.
++ [Frame interpolation]()  
+  Could be viewed as a special case of video completion  
+  Aimed at improving the motion smoothness of low frame rate videos, by inserting additional frames between existing video frames. Some works can “insert” frames after the input frames, so they technically can perform video prediction to some extent.
++ [Novel view synthesis]()
+  These usually involve reconstructing a 3D scene from some observations (e.g. monocular video input, or static images), and then generating renderings of the scene from new perspectives.
++ [Human motion generation]()
+  These are video generation tasks specifically geared to human (or humanoid) activities
++ [Talking head or face generation]()
+  Talking head generation refers to the generation of animated video content that simulates a person's face and head movements while they are speaking
++ [Video-to-video]()
+  These include enhancing the (textural) quality of videos, style transfer, motion transfer, Summarization, and various common video editing tasks (e.g. removal of a subject).
+  
 
 ## 2023
 
