@@ -25,9 +25,9 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 </p>
 
 ## Contents
-* [Survey Papers](#survey papers)
+* [Survey Papers](#survey_papers)
 * [Datasets](#datasets)
-* [Subtopics](#video-generation subtopics)
+* [Subtopics](#video-generation_subtopics)
 * [2023](#2023)
 * [2022](#2022)
 * [2021](#2021)
@@ -159,22 +159,21 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 ## 🚀Video-generation subtopics
 
-+ [Controllable Video generation]()  
++ [Controllable Video generation](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/controllable_video_generation.md)  
   Text-to-video, image-to-video  
   The “classic” task: create a video scratch, i.e. starting from random noise. The generation process is sometimes given simple conditions, such as Text or image. Common goals include visual fidelity, temporal coherence, and logical plausibility.
-+ [Video prediction]()  
++ [[Video prediction and Frame interpolation](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/video_prediction.md](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/video_prediction_interpolation.md))  
   Video generation with (visual) constraints  
 Predict the next N frames following a sequence of input video frames, or predict N frames between the given start and final frames.
-+ [Frame interpolation]()  
   Could be viewed as a special case of video completion  
   Aimed at improving the motion smoothness of low frame rate videos, by inserting additional frames between existing video frames. Some works can “insert” frames after the input frames, so they technically can perform video prediction to some extent.
-+ [Novel view synthesis]()  
++ [Novel view synthesis](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/novel_view_synthesis.md)  
   These usually involve reconstructing a 3D scene from some observations (e.g. monocular video input, or static images), and then generating renderings of the scene from new perspectives.
-+ [Human motion generation]()  
++ [Human motion generation](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/human_motion_generation.md)  
   These are video generation tasks specifically geared to human (or humanoid) activities
-+ [Talking head or face generation]()  
++ [Talking head or face generation](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/talking_head_or_face_generation.md)  
   Talking head generation refers to the generation of animated video content that simulates a person's face and head movements while they are speaking
-+ [Video-to-video]()  
++ [Video-to-video](https://github.com/zhiqic/Awesome-Video-Generation/blob/main/video-to-video.md)  
   These include enhancing the (textural) quality of videos, style transfer, motion transfer, Summarization, and various common video editing tasks (e.g. removal of a subject).
   
 
