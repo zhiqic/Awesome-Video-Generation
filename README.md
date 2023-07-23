@@ -1,6 +1,6 @@
 
 # Awesome Video Generation [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
+## 📝 Introduction
 A comprehensive collection of works on video generation/synthesis/prediction.
 
 <br>
@@ -24,9 +24,13 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 (Source: <a href="https://mask-cond-video-diffusion.github.io">MCVD</a>, <a href="https://modelscope.cn/models/damo/text-to-video-synthesis/summary">VideoFusion</a>, and <a href="https://kfmei.page/vidm/">VIDM</a>)
 </p>
 
+## Contents
+* [Survey Papers](#✨survey papers)
+* [Datasets](#datasets)
+* [Papers](#papers)
+* [Leaderboard](#leaderboard)
 
-
-## Survey Papers
+## ✨Survey Papers
 
 
 
@@ -53,7 +57,7 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 
 
-## Datasets
+## 🌟Datasets
 
 
 
@@ -146,7 +150,7 @@ A comprehensive collection of works on video generation/synthesis/prediction.
   [![Star](https://img.shields.io/github/stars/deeplsd/Merkel-Podcast-Corpus.svg?style=social&label=Star)](https://github.com/deeplsd/Merkel-Podcast-Corpus)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.12194)
 
-## Video-generation subtopics
+## 🚀Video-generation subtopics
 
 + [Controllable Video generation]()  
   Text-to-video, image-to-video  
@@ -157,13 +161,13 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [Frame interpolation]()  
   Could be viewed as a special case of video completion  
   Aimed at improving the motion smoothness of low frame rate videos, by inserting additional frames between existing video frames. Some works can “insert” frames after the input frames, so they technically can perform video prediction to some extent.
-+ [Novel view synthesis]()
++ [Novel view synthesis]()  
   These usually involve reconstructing a 3D scene from some observations (e.g. monocular video input, or static images), and then generating renderings of the scene from new perspectives.
-+ [Human motion generation]()
++ [Human motion generation]()  
   These are video generation tasks specifically geared to human (or humanoid) activities
-+ [Talking head or face generation]()
++ [Talking head or face generation]()  
   Talking head generation refers to the generation of animated video content that simulates a person's face and head movements while they are speaking
-+ [Video-to-video]()
++ [Video-to-video]()  
   These include enhancing the (textural) quality of videos, style transfer, motion transfer, Summarization, and various common video editing tasks (e.g. removal of a subject).
   
 
