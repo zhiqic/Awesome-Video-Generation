@@ -66,7 +66,9 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 
 ## 🌟Datasets
 
-
++ [InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation](https://arxiv.org/abs/2307.06942)  
+  [![Star](https://img.shields.io/github/stars/opengvlab/internvideo.svg?style=social&label=Star)](https://github.com/opengvlab/internvideo)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06942)
 
 + [CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://arxiv.org/abs/2303.14717)  
   [![Star](https://img.shields.io/github/stars/CelebV-Text/CelebV-Text.svg?style=social&label=Star)](https://github.com/CelebV-Text/CelebV-Text)
@@ -179,10 +181,40 @@ Predict the next N frames following a sequence of input video frames, or predict
 
 ## 2023
 
-+ [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940)
++ [Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation](https://arxiv.org/abs/2307.09906) (ICCV 2023)  
+  [![Star](https://img.shields.io/github/stars/harlanhong/iccv2023-mcnet.svg?style=social&label=Star)](https://github.com/harlanhong/iccv2023-mcnet)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09906)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://harlanhong.github.io/publications/mcnet.html)
+
++ [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2205.14135)  
+  [![Star](https://img.shields.io/github/stars/dao-ailab/flash-attention.svg?style=social&label=Star)](https://github.com/dao-ailab/flash-attention)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14135)
+
++ [Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer](https://arxiv.org/abs/2307.07754)  
+  [![Star](https://img.shields.io/github/stars/rocketappslab/bdmm.svg?style=social&label=Star)](https://github.com/rocketappslab/bdmm)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07754)
+
++ [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940)  
   [![Star](https://img.shields.io/github/stars/videocrafter/animate-a-story.svg?style=social&label=Star)](https://github.com/videocrafter/animate-a-story)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://videocrafter.github.io/Animate-A-Story/)
+
++ [GD-VDM: Generated Depth for better Diffusion-based Video Generation](https://arxiv.org/abs/2306.11173)  
+  [![Star](https://img.shields.io/github/stars/lapid92/gd-vdm.svg?style=social&label=Star)](https://github.com/lapid92/gd-vdm)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.11173)
+
++ [DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles](https://arxiv.org/abs/2306.05957)  
+  [![Star](https://img.shields.io/github/stars/taldatech/ddlp.svg?style=social&label=Star)](https://github.com/taldatech/ddlp)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05957)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://taldatech.github.io/ddlp-web/)
+
++ [Video Diffusion Models with Local-Global Context Guidance](https://arxiv.org/abs/2306.02562) (IJCAI 2023)  
+  [![Star](https://img.shields.io/github/stars/exisas/lgc-vd.svg?style=social&label=Star)](https://github.com/exisas/lgc-vd)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02562)
+
++ [Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation](https://arxiv.org/abs/2305.14330)  
+  [![Star](https://img.shields.io/github/stars/ku-cvlab/direct2v.svg?style=social&label=Star)](https://github.com/ku-cvlab/direct2v)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14330)
 
 + [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01872)
