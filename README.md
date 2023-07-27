@@ -743,6 +743,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/video-diffusion-prediction)
 
 + [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://openreview.net/forum?id=nJfylDvgzlq) (ICLR 2023)  
+  [![Star](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Star)](https://github.com/lucidrains/make-a-video-pytorch)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=nJfylDvgzlq)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://makeavideo.studio)
 
