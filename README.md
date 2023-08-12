@@ -181,60 +181,7 @@ Predict the next N frames following a sequence of input video frames, or predict
 
 ## 2023
 
-+ [Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation](https://arxiv.org/abs/2307.09906) (ICCV 2023)  
-  [![Star](https://img.shields.io/github/stars/harlanhong/iccv2023-mcnet.svg?style=social&label=Star)](https://github.com/harlanhong/iccv2023-mcnet)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09906)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://harlanhong.github.io/publications/mcnet.html)
-
-+ [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2205.14135)  
-  [![Star](https://img.shields.io/github/stars/dao-ailab/flash-attention.svg?style=social&label=Star)](https://github.com/dao-ailab/flash-attention)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14135)
-
-+ [Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer](https://arxiv.org/abs/2307.07754)  
-  [![Star](https://img.shields.io/github/stars/rocketappslab/bdmm.svg?style=social&label=Star)](https://github.com/rocketappslab/bdmm)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07754)
-
-+ [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940)  
-  [![Star](https://img.shields.io/github/stars/videocrafter/animate-a-story.svg?style=social&label=Star)](https://github.com/videocrafter/animate-a-story)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://videocrafter.github.io/Animate-A-Story/)
-
-+ [GD-VDM: Generated Depth for better Diffusion-based Video Generation](https://arxiv.org/abs/2306.11173)  
-  [![Star](https://img.shields.io/github/stars/lapid92/gd-vdm.svg?style=social&label=Star)](https://github.com/lapid92/gd-vdm)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.11173)
-
-+ [DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles](https://arxiv.org/abs/2306.05957)  
-  [![Star](https://img.shields.io/github/stars/taldatech/ddlp.svg?style=social&label=Star)](https://github.com/taldatech/ddlp)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05957)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://taldatech.github.io/ddlp-web/)
-
-+ [Video Diffusion Models with Local-Global Context Guidance](https://arxiv.org/abs/2306.02562) (IJCAI 2023)  
-  [![Star](https://img.shields.io/github/stars/exisas/lgc-vd.svg?style=social&label=Star)](https://github.com/exisas/lgc-vd)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02562)
-
-+ [Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising](https://arxiv.org/abs/2305.18264)  
-  [![Star](https://img.shields.io/github/stars/g-u-n/gen-l-video.svg?style=social&label=Star)](https://github.com/g-u-n/gen-l-video)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18264)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://g-u-n.github.io/projects/gen-long-video/index.html)
-
-+ [Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation](https://arxiv.org/abs/2305.14330)  
-  [![Star](https://img.shields.io/github/stars/ku-cvlab/direct2v.svg?style=social&label=Star)](https://github.com/ku-cvlab/direct2v)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14330)
-
-+ [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01872)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-adapter.github.io/video-adapter/)
-
-+ [VIDM: Video Implicit Diffusion Models](https://arxiv.org/abs/2212.00235) (AAAI 2023)  
-  [![Star](https://img.shields.io/github/stars/MKFMIKU/VIDM.svg?style=social&label=Star)](https://github.com/MKFMIKU/VIDM)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.00235)
-  [![Website](https://img.shields.io/badge/Website-9cf)](https://kfmei.page/vidm/)
-
-+ [Mm-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://arxiv.org/abs/2212.09478) (CVPR 2023)  
-  [![Star](https://img.shields.io/github/stars/researchmm/MM-Diffusion.svg?style=social&label=Star)](https://github.com/researchmm/MM-Diffusion)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09478)
-
-+ [Video Probabilistic Diffusion Models in Projected Latent Space](https://arxiv.org/abs/2302.07685) (CVPR 2023)\
++ [Video Probabilistic Diffusion Models in Projected Latent Space](https://arxiv.org/abs/2302.07685) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.07685)
   [![Star](https://img.shields.io/github/stars/sihyun-yu/PVDM.svg?style=social&label=Star)](https://github.com/sihyun-yu/PVDM)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sihyun.me/PVDM/)
@@ -257,12 +204,12 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![Star](https://img.shields.io/github/stars/ken2576/pvp.svg?style=social&label=Star)](https://github.com/ken2576/pvp)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cseweb.ucsd.edu//~viscomp/projects/EGSR23PVP/)
 
-+ [BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion](https://arxiv.org/abs/2306.16940) (CVPR 2023)\
++ [BEDLAM: A Synthetic Dataset of Bodies Exhibiting Detailed Lifelike Animated Motion](https://arxiv.org/abs/2306.16940) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.16940)
   [![Star](https://img.shields.io/github/stars/pixelite1201/BEDLAM.svg?style=social&label=Star)](https://github.com/pixelite1201/BEDLAM)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://bedlam.is.tue.mpg.de/)
 
-+ [Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering](https://arxiv.org/abs/2306.16541) (CVPR 2023)\
++ [Envisioning a Next Generation Extended Reality Conferencing System with Efficient Photorealistic Human Rendering](https://arxiv.org/abs/2306.16541) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.16541)
 
 + [Reprogramming Audio-driven Talking Face Synthesis into Text-driven](https://arxiv.org/abs/2306.16003)\
@@ -342,7 +289,7 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [Reparo: Loss-Resilient Generative Codec for Video Conferencing](https://arxiv.org/abs/2305.14135)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14135)
 
-+ [CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation](https://arxiv.org/abs/2305.13962) (ICME 2023)\
++ [CPNet: Exploiting CLIP-based Attention Condenser and Probability Map Guidance for High-fidelity Talking Face Generation](https://arxiv.org/abs/2305.13962) (ICME)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13962)
 
 + [Synthesizing Diverse Human Motions in 3D Indoor Scenes](https://arxiv.org/abs/2305.12411)\
@@ -352,7 +299,7 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [InstructVid2Vid: Controllable Video Editing with Natural Language Instructions](https://arxiv.org/abs/2305.12328)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.12328)
 
-+ [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) (ICLR Workshop 2023)\
++ [SlotDiffusion: Object-Centric Generative Modeling with Diffusion Models](https://arxiv.org/abs/2305.11281) (ICLR Workshop)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11281)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://slotdiffusion.github.io/)
 
@@ -365,7 +312,7 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [Laughing Matters: Introducing Laughing-Face Generation using Diffusion Models](https://arxiv.org/abs/2305.08854)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08854)
 
-+ [Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293) (CVPR 2023)\
++ [Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](https://arxiv.org/abs/2305.08293) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08293)
   [![Star](https://img.shields.io/github/stars/Weizhi-Zhong/IP_LAP.svg?style=social&label=Star)](https://github.com/Weizhi-Zhong/IP_LAP)
 
@@ -378,7 +325,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05464)
   [![Star](https://img.shields.io/github/stars/haha-lisa/Style-A-Video.svg?style=social&label=Star)](https://github.com/haha-lisa/Style-A-Video)
 
-+ [NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds](https://arxiv.org/abs/2305.03049) (CVPR 2023)\
++ [NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds](https://arxiv.org/abs/2305.03049) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03049)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://immortalco.github.io/NeuralEditor/)
 
@@ -386,14 +333,14 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.00126)
   [![Star](https://img.shields.io/github/stars/ZZY-Zhou/DSEC-MOS.svg?style=social&label=Star)](https://github.com/ZZY-Zhou/DSEC-MOS)
 
-+ [Video Frame Interpolation with Densely Queried Bilateral Correlation](https://arxiv.org/abs/2304.13596) (IJCAI 2023)\
++ [Video Frame Interpolation with Densely Queried Bilateral Correlation](https://arxiv.org/abs/2304.13596) (IJCAI)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.13596)
   [![Star](https://img.shields.io/github/stars/kinoud/DQBC.svg?style=social&label=Star)](https://github.com/kinoud/DQBC)
 
 + [Dynamic Video Frame Interpolation with integrated Difficulty Pre-Assessment](https://arxiv.org/abs/2304.12664)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12664)
 
-+ [AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation](https://arxiv.org/abs/2304.09790) (CVPR 2023)\
++ [AMT: All-Pairs Multi-Field Transforms for Efficient Frame Interpolation](https://arxiv.org/abs/2304.09790) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.09790)
   [![Star](https://img.shields.io/github/stars/MCG-NKU/AMT.svg?style=social&label=Star)](https://github.com/MCG-NKU/AMT)
 
@@ -401,14 +348,14 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08477)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://latent-shift.github.io/)
 
-+ [CAT-NeRF: Constancy-Aware Tx$^2$Former for Dynamic Body Modeling](https://arxiv.org/abs/2304.07915) (CVPR Workshop 2023)\
++ [CAT-NeRF: Constancy-Aware Tx$^2$Former for Dynamic Body Modeling](https://arxiv.org/abs/2304.07915) (CVPR Workshop)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.07915)
 
 + [Soundini: Sound-Guided Diffusion for Natural Video Editing](https://arxiv.org/abs/2304.06818)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06818)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://kuai-lab.github.io/soundini-gallery/)
 
-+ [Boosting Video Object Segmentation via Space-time Correspondence Learning](https://arxiv.org/abs/2304.06211) (CVPR 2023)\
++ [Boosting Video Object Segmentation via Space-time Correspondence Learning](https://arxiv.org/abs/2304.06211) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06211)
   [![Star](https://img.shields.io/github/stars/wenguanwang/VOS_Correspondence.svg?style=social&label=Star)](https://github.com/wenguanwang/VOS_Correspondence)
 
@@ -416,7 +363,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06020)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cyberiada.github.io/VidStyleODE/)
 
-+ [MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation](https://arxiv.org/abs/2304.05930) (CVPR 2023)\
++ [MED-VT: Multiscale Encoder-Decoder Video Transformer with Application to Object Segmentation](https://arxiv.org/abs/2304.05930) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05930)
   [![Star](https://img.shields.io/github/stars/rkyuca/medvt.svg?style=social&label=Star)](https://github.com/rkyuca/medvt)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://rkyuca.github.io/medvt/)
@@ -429,12 +376,12 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.03275)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mm.kaist.ac.kr/projects/FC-TFG/)
 
-+ [HNeRV: A Hybrid Neural Representation for Videos](https://arxiv.org/abs/2304.02633) (CVPR 2023)\
++ [HNeRV: A Hybrid Neural Representation for Videos](https://arxiv.org/abs/2304.02633) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02633)
   [![Star](https://img.shields.io/github/stars/haochen-rye/HNeRV.svg?style=social&label=Star)](https://github.com/haochen-rye/HNeRV)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://haochen-rye.github.io/HNeRV/)
 
-+ [BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation](https://arxiv.org/abs/2304.02225) (CVPR 2023)\
++ [BiFormer: Learning Bilateral Motion Estimation via Bilateral Transformer for 4K Video Frame Interpolation](https://arxiv.org/abs/2304.02225) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02225)
   [![Star](https://img.shields.io/github/stars/JunHeum/BiFormer.svg?style=social&label=Star)](https://github.com/JunHeum/BiFormer)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_BiFormer_Learning_Bilateral_Motion_Estimation_via_Bilateral_Transformer_for_4K_CVPR_2023_paper.pdf)
@@ -442,14 +389,14 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles](https://arxiv.org/abs/2304.00334)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.00334)
 
-+ [FONT: Flow-guided One-shot Talking Head Generation with Natural Head Motions](https://arxiv.org/abs/2303.17789) (ICME 2023)\
++ [FONT: Flow-guided One-shot Talking Head Generation with Natural Head Motions](https://arxiv.org/abs/2303.17789) (ICME)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17789)
 
 + [Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models](https://arxiv.org/abs/2303.17599)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17599)
   [![Star](https://img.shields.io/github/stars/baaivision/vid2vid-zero.svg?style=social&label=Star)](https://github.com/baaivision/vid2vid-zero)
 
-+ [Consistent View Synthesis with Pose-Guided Diffusion Models](https://arxiv.org/abs/2303.17598) (CVPR 2023)\
++ [Consistent View Synthesis with Pose-Guided Diffusion Models](https://arxiv.org/abs/2303.17598) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17598)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://poseguided-diffusion.github.io/)
 
@@ -461,25 +408,25 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15880)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/GuillaumeRochette/HumanViewSynthesis)
 
-+ [CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://arxiv.org/abs/2303.14717) (CVPR 2023)\
++ [CelebV-Text: A Large-Scale Facial Text-Video Dataset](https://arxiv.org/abs/2303.14717) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14717)
   [![Star](https://img.shields.io/github/stars/celebv-text/CelebV-Text.svg?style=social&label=Star)](https://github.com/celebv-text/CelebV-Text)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://celebv-text.github.io/)
 
-+ [GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents](https://arxiv.org/abs/2303.14613) (SIGGRAPH 2023)\
++ [GestureDiffuCLIP: Gesture Diffusion Model with CLIP Latents](https://arxiv.org/abs/2303.14613) (SIGGRAPH)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14613)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-mocca.github.io/GestureDiffuCLIP-Page/)
 
-+ [SUDS: Scalable Urban Dynamic Scenes](https://arxiv.org/abs/2303.14536) (CVPR 2023)\
++ [SUDS: Scalable Urban Dynamic Scenes](https://arxiv.org/abs/2303.14536) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14536)
   [![Star](https://img.shields.io/github/stars/hturki/suds.svg?style=social&label=Star)](https://github.com/hturki/suds)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://haithemturki.com/suds/)
 
-+ [NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/abs/2303.14435) (CVPR 2023)\
++ [NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/abs/2303.14435) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14435)
   [![Star](https://img.shields.io/github/stars/JokerYan/NeRF-DS.svg?style=social&label=Star)](https://github.com/JokerYan/NeRF-DS)
 
-+ [HandNeRF: Neural Radiance Fields for Animatable Interacting Hands](https://arxiv.org/abs/2303.13825) (CVPR 2023)\
++ [HandNeRF: Neural Radiance Fields for Animatable Interacting Hands](https://arxiv.org/abs/2303.13825) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13825)
 
 + [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439)\
@@ -497,7 +444,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![Star](https://img.shields.io/github/stars/G-U-N/Pix2Video.pytorch.svg?style=social&label=Star)](https://github.com/G-U-N/Pix2Video.pytorch)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://duyguceylan.github.io/pix2video.github.io/)
 
-+ [Music-Driven Group Choreography](https://arxiv.org/abs/2303.12337) (CVPR 2023)\
++ [Music-Driven Group Choreography](https://arxiv.org/abs/2303.12337) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12337)
   [![Star](https://img.shields.io/github/stars/aioz-ai/AIOZ-GDANCE.svg?style=social&label=Star)](https://github.com/aioz-ai/AIOZ-GDANCE)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://aioz-ai.github.io/AIOZ-GDANCE/)
@@ -545,25 +492,25 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09170)
   [![Star](https://img.shields.io/github/stars/semchan/NLUT.svg?style=social&label=Star)](https://github.com/semchan/NLUT)
 
-+ [Blowing in the Wind: CycleNet for Human Cinemagraphs from Still Images](https://arxiv.org/abs/2303.08639) (CVPR 2023)\
++ [Blowing in the Wind: CycleNet for Human Cinemagraphs from Still Images](https://arxiv.org/abs/2303.08639) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08639)
   [![Star](https://img.shields.io/github/stars/CycleNet/.svg?style=social&label=Star)](https://hbertiche.github.io/CycleNet/)
 
-+ [Blind Video Deflickering by Neural Filtering with a Flawed Atlas](https://arxiv.org/abs/2303.08120) (CVPR 2023)\
++ [Blind Video Deflickering by Neural Filtering with a Flawed Atlas](https://arxiv.org/abs/2303.08120) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08120)
   [![Star](https://img.shields.io/github/stars/ChenyangLEI/All-In-One-Deflicker.svg?style=social&label=Star)](https://github.com/ChenyangLEI/All-In-One-Deflicker)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://chenyanglei.github.io/deflicker/)
 
-+ [Butterfly: Multiple Reference Frames Feature Propagation Mechanism for Neural Video Compression](https://arxiv.org/abs/2303.02959) (DCC 2023)\
++ [Butterfly: Multiple Reference Frames Feature Propagation Mechanism for Neural Video Compression](https://arxiv.org/abs/2303.02959) (DCC)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.02959)
 
-+ [One-Shot Video Inpainting](https://arxiv.org/abs/2302.14362) (AAAI 2023)\
++ [One-Shot Video Inpainting](https://arxiv.org/abs/2302.14362) (AAAI)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.14362)
 
 + [Continuous Space-Time Video Super-Resolution Utilizing Long-Range Temporal Information](https://arxiv.org/abs/2302.13256)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.13256)
 
-+ [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://arxiv.org/abs/2302.12237) (CVPR 2023)\
++ [Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://arxiv.org/abs/2302.12237) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.12237)
   [![Star](https://img.shields.io/github/stars/zju3dv/instant-nvr.svg?style=social&label=Star)](https://github.com/zju3dv/instant-nvr)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://zju3dv.github.io/instant_nvr/)
@@ -572,7 +519,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10001)
   [![Star](https://img.shields.io/github/stars/RLado/STB-VMM.svg?style=social&label=Star)](https://github.com/RLado/STB-VMM)
 
-+ [OPT: One-shot Pose-Controllable Talking Head Generation](https://arxiv.org/abs/2302.08197) (ICASSP 2023)\
++ [OPT: One-shot Pose-Controllable Talking Head Generation](https://arxiv.org/abs/2302.08197) (ICASSP)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.08197)
 
 + [One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2](https://arxiv.org/abs/2302.07848)\
@@ -618,11 +565,11 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [Regeneration Learning: A Learning Paradigm for Data Generation](https://arxiv.org/abs/2301.08846)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.08846)
 
-+ [Event-Based Frame Interpolation with Ad-hoc Deblurring](https://arxiv.org/abs/2301.05191) (CVPR 2023)\
++ [Event-Based Frame Interpolation with Ad-hoc Deblurring](https://arxiv.org/abs/2301.05191) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.05191)
   [![Star](https://img.shields.io/github/stars/AHupuJR/REFID.svg?style=social&label=Star)](https://github.com/AHupuJR/REFID)
 
-+ [DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation](https://arxiv.org/abs/2301.03786) (CVPR 2023)\
++ [DiffTalk: Crafting Diffusion Models for Generalized Audio-Driven Portraits Animation](https://arxiv.org/abs/2301.03786) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.03786)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sstzal.github.io/DiffTalk/)
 
@@ -630,12 +577,12 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.03396)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://mstypulkowski.github.io/diffusedheads/)
 
-+ [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://arxiv.org/abs/2301.02238) (CVPR 2023)\
++ [HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling](https://arxiv.org/abs/2301.02238) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02238)
   [![Star](https://img.shields.io/github/stars/facebookresearch/hyperreel.svg?style=social&label=Star)](https://github.com/facebookresearch/hyperreel)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://hyperreel.github.io/)
 
-+ [StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles](https://arxiv.org/abs/2301.01081) (AAAI 2023)\
++ [StyleTalk: One-shot Talking Head Generation with Controllable Speaking Styles](https://arxiv.org/abs/2301.01081) (AAAI)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.01081)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/FuxiVirtualHuman/styletalk)
 
@@ -658,7 +605,7 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [Avatar Fingerprinting for Authorized Use of Synthetic Talking-Head Videos](https://arxiv.org/abs/2305.03713)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03713)
 
-+ [DynamicStereo: Consistent Dynamic Depth from Stereo Videos](https://arxiv.org/abs/2305.02296) (CVPR 2023)\
++ [DynamicStereo: Consistent Dynamic Depth from Stereo Videos](https://arxiv.org/abs/2305.02296) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.02296)
   [![Star](https://img.shields.io/github/stars/facebookresearch/dynamic_stereo.svg?style=social&label=Star)](https://github.com/facebookresearch/dynamic_stereo)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://dynamic-stereo.github.io/)
@@ -672,30 +619,30 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![Star](https://img.shields.io/github/stars/andrewsonga/Total-Recon.svg?style=social&label=Star)](https://github.com/andrewsonga/Total-Recon)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://andrewsonga.github.io/totalrecon/)
 
-+ [3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes](https://arxiv.org/abs/2304.11470) (CVPR 2023)\
++ [3D-IntPhys: Towards More Generalized 3D-grounded Visual Intuitive Physics under Challenging Scenes](https://arxiv.org/abs/2304.11470) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11470)
 
-+ [Leveraging triplet loss for unsupervised action segmentation](https://arxiv.org/abs/2304.06403) (CVPR 2023)\
++ [Leveraging triplet loss for unsupervised action segmentation](https://arxiv.org/abs/2304.06403) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06403)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/elenabbbuenob/tsa-actionseg)
 
-+ [MonoHuman: Animatable Human Neural Field from Monocular Video](https://arxiv.org/abs/2304.02001) (CVPR 2023)\
++ [MonoHuman: Animatable Human Neural Field from Monocular Video](https://arxiv.org/abs/2304.02001) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02001)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://yzmblog.github.io/projects/MonoHuman/)
 
-+ [Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion](https://arxiv.org/abs/2304.01893) (CVPR 2023)\
++ [Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion](https://arxiv.org/abs/2304.01893) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01893)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/trace-pace/)
 
-+ [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/abs/2303.17480) (CVPR 2023)\
++ [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/abs/2303.17480) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17480)
   [![Star](https://img.shields.io/github/stars/Sxjdwang/TalkLip.svg?style=social&label=Star)](https://github.com/Sxjdwang/TalkLip)
 
-+ [VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs](https://arxiv.org/abs/2303.15893) (CVPR 2023)\
++ [VIVE3D: Viewpoint-Independent Video Editing using 3D-Aware GANs](https://arxiv.org/abs/2303.15893) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15893)
   [![Website](https://img.shields.io/badge/Website-9cf)](http://afruehstueck.github.io/vive3D/)
 
-+ [CAMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis](https://arxiv.org/abs/2303.15469) (CVPR 2023)\
++ [CAMS: CAnonicalized Manipulation Spaces for Category-Level Functional Hand-Object Manipulation Synthesis](https://arxiv.org/abs/2303.15469) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.15469)
   [![Star](https://img.shields.io/github/stars/cams-hoi/CAMS.svg?style=social&label=Star)](https://github.com/cams-hoi/CAMS)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://cams-hoi.github.io/)
@@ -707,7 +654,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13497)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://anantarb.github.io/triplanenet)
 
-+ [Dual-path Adaptation from Image to Video Transformers](https://arxiv.org/abs/2303.09857) (CVPR 2023)\
++ [Dual-path Adaptation from Image to Video Transformers](https://arxiv.org/abs/2303.09857) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09857)
   [![Star](https://img.shields.io/github/stars/park-jungin/DualPath.svg?style=social&label=Star)](https://github.com/park-jungin/DualPath)
 
@@ -720,10 +667,386 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.14683)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://ustc3dv.github.io/IntrinsicNGP/)
 
-+ [Robust Dynamic Radiance Fields](https://arxiv.org/abs/2301.02239) (CVPR 2023)\
++ [Robust Dynamic Radiance Fields](https://arxiv.org/abs/2301.02239) (CVPR)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.02239)
   [![Star](https://img.shields.io/github/stars/facebookresearch/robust-dynrf.svg?style=social&label=Star)](https://github.com/facebookresearch/robust-dynrf)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://robust-dynrf.github.io/)
+
++ [Implicit Identity Representation Conditioned Memory Compensation Network for Talking Head video Generation](https://arxiv.org/abs/2307.09906) (ICCV 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09906)
+  [![Star](https://img.shields.io/github/stars/harlanhong/iccv2023-mcnet.svg?style=social&label=Star)](https://github.com/harlanhong/iccv2023-mcnet)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://harlanhong.github.io/publications/mcnet.html)
+
++ [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://arxiv.org/abs/2205.14135)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14135)
+  [![Star](https://img.shields.io/github/stars/dao-ailab/flash-attention.svg?style=social&label=Star)](https://github.com/dao-ailab/flash-attention)
+
++ [Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer](https://arxiv.org/abs/2307.07754)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07754)
+  [![Star](https://img.shields.io/github/stars/rocketappslab/bdmm.svg?style=social&label=Star)](https://github.com/rocketappslab/bdmm)
+
++ [Animate-A-Story: Storytelling with Retrieval-Augmented Video Generation](https://arxiv.org/abs/2307.06940)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.06940)
+  [![Star](https://img.shields.io/github/stars/videocrafter/animate-a-story.svg?style=social&label=Star)](https://github.com/videocrafter/animate-a-story)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videocrafter.github.io/Animate-A-Story/)
+
++ [GD-VDM: Generated Depth for better Diffusion-based Video Generation](https://arxiv.org/abs/2306.11173)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.11173)
+  [![Star](https://img.shields.io/github/stars/lapid92/gd-vdm.svg?style=social&label=Star)](https://github.com/lapid92/gd-vdm)
+
++ [DDLP: Unsupervised Object-Centric Video Prediction with Deep Dynamic Latent Particles](https://arxiv.org/abs/2306.05957)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.05957)
+  [![Star](https://img.shields.io/github/stars/taldatech/ddlp.svg?style=social&label=Star)](https://github.com/taldatech/ddlp)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://taldatech.github.io/ddlp-web/)
+
++ [Video Diffusion Models with Local-Global Context Guidance](https://arxiv.org/abs/2306.02562) (IJCAI 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02562)
+  [![Star](https://img.shields.io/github/stars/exisas/lgc-vd.svg?style=social&label=Star)](https://github.com/exisas/lgc-vd)
+
++ [Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising](https://arxiv.org/abs/2305.18264)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18264)
+  [![Star](https://img.shields.io/github/stars/g-u-n/gen-l-video.svg?style=social&label=Star)](https://github.com/g-u-n/gen-l-video)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://g-u-n.github.io/projects/gen-long-video/index.html)
+
++ [Large Language Models are Frame-level Directors for Zero-shot Text-to-Video Generation](https://arxiv.org/abs/2305.14330)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14330)
+  [![Star](https://img.shields.io/github/stars/ku-cvlab/direct2v.svg?style=social&label=Star)](https://github.com/ku-cvlab/direct2v)
+
++ [Probabilistic Adaptation of Text-to-Video Models](https://arxiv.org/abs/2306.01872)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01872)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://video-adapter.github.io/video-adapter/)
+
++ [VIDM: Video Implicit Diffusion Models](https://arxiv.org/abs/2212.00235) (AAAI 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.00235)
+  [![Star](https://img.shields.io/github/stars/MKFMIKU/VIDM.svg?style=social&label=Star)](https://github.com/MKFMIKU/VIDM)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://kfmei.page/vidm/)
+
++ [Mm-Diffusion: Learning Multi-Modal Diffusion Models for Joint Audio and Video Generation](https://arxiv.org/abs/2212.09478) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09478)
+  [![Star](https://img.shields.io/github/stars/researchmm/MM-Diffusion.svg?style=social&label=Star)](https://github.com/researchmm/MM-Diffusion)
+
++ [VideoFusion: Decomposed Diffusion Models for High-Quality Video Generation](https://arxiv.org/abs/2303.08320) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.08320)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+
++ [Conditional Image-to-Video Generation with Latent Flow Diffusion Models](https://arxiv.org/abs/2303.13744) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13744)
+  [![Star](https://img.shields.io/github/stars/nihaomiao/CVPR23_LFDM.svg?style=social&label=Star)](https://github.com/nihaomiao/CVPR23_LFDM)
+
++ [Physics-Driven Diffusion Models for Impact Sound Synthesis from Videos](https://arxiv.org/abs/2303.16897) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16897)
+  [![Star](https://img.shields.io/github/stars/sukun1045/video-physics-sound-diffusion.svg?style=social&label=Star)](https://github.com/sukun1045/video-physics-sound-diffusion)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sukun1045.github.io/video-physics-sound-diffusion/)
+
++ [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08818)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
+
++ [3D Cinemagraphy from a Single Image](https://arxiv.org/abs/2303.05724) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.05724)
+  [![Star](https://img.shields.io/github/stars/xingyi-li/3d-cinemagraphy.svg?style=social&label=Star)](https://github.com/xingyi-li/3d-cinemagraphy)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://xingyi-li.github.io/3d-cinemagraphy/)
+
++ [MOSO: Decomposing MOtion, Scene and Object for Video Prediction](https://arxiv.org/abs/2303.03684) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.03684)
+  [![Star](https://img.shields.io/github/stars/iva-mzsun/MOSO.svg?style=social&label=Star)](https://github.com/iva-mzsun/MOSO)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://iva-mzsun.github.io/MOSO)
+
++ [SadTalker: Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation](https://arxiv.org/abs/2211.12194) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.12194)
+  [![Star](https://img.shields.io/github/stars/OpenTalker/SadTalker.svg?style=social&label=Star)](https://github.com/OpenTalker/SadTalker)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sadtalker.github.io/)
+
++ [Towards End-to-End Generative Modeling of Long Videos with Memory-Efficient Bidirectional Transformers](https://arxiv.org/abs/2303.11251) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.11251)
+  [![Star](https://img.shields.io/github/stars/Ugness/MeBT.svg?style=social&label=Star)](https://github.com/Ugness/MeBT)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/mebt-cvpr2023)
+
++ [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00111)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
+
++ [Tell me what happened: Unifying text-guided video completion via multimodal masked video generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Tell_Me_What_Happened_Unifying_Text-Guided_Video_Completion_via_Multimodal_CVPR_2023_paper.pdf) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Tell_Me_What_Happened_Unifying_Text-Guided_Video_Completion_via_Multimodal_CVPR_2023_paper.pdf)
+  [![Star](https://img.shields.io/github/stars/tsujuifu/pytorch_tvc.svg?style=social&label=Star)](https://github.com/tsujuifu/pytorch_tvc)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tvc-mmvg.github.io/)
+
++ [MAGVIT: Masked Generative Video Transformer](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf)
+  [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/)
+
++ [Text2video-zero: Text-to-image diffusion models are zero-shot video generators](https://arxiv.org/abs/2303.13439)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.13439)
+  [![Star](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Star)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/)
+
++ [VarietySound: Timbre-controllable video to sound generation via unsupervised information disentanglement](https://arxiv.org/abs/2211.10666)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.10666)
+
++ [Text-to-4d dynamic scene generation](https://arxiv.org/abs/2301.11280)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.11280)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-video3d.github.io/)
+
++ [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13077)
+  [![Star](https://img.shields.io/github/stars/ybybzhang/controlvideo.svg?style=social&label=Star)](https://github.com/ybybzhang/controlvideo)
+
++ [Control-A-Video: Controllable Text-to-Video Generation with Diffusion Models](https://arxiv.org/pdf/2305.13840)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.13840)
+  [![Star](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Star)](https://github.com/Weifeng-Chen/control-a-video)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://controlavideo.github.io/)
+
++ [VDT: An Empirical Study on Video Diffusion with Transformers](https://arxiv.org/abs/2305.13311)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13311)
+  [![Star](https://img.shields.io/github/stars/rerv/vdt.svg?style=social&label=Star)](https://github.com/rerv/vdt)
+
++ [Sketching the Future (STF): Applying Conditional Control Techniques to Text-to-Video Models](https://arxiv.org/abs/2305.05845)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.05845)
+  [![Star](https://img.shields.io/github/stars/rohandkn/skribble2vid.svg?style=social&label=Star)](https://github.com/rohandkn/skribble2vid)
+
++ [Text2Performer: Text-Driven Human Video Generation](https://arxiv.org/abs/2304.08483)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08483)
+  [![Star](https://img.shields.io/github/stars/yumingj/text2performer.svg?style=social&label=Star)](https://github.com/yumingj/text2performer)
+
++ [Generative Disco: Text-to-Video Generation for Music Visualization](https://arxiv.org/abs/2304.08551)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08551)
+  [![Star](https://img.shields.io/github/stars/hellovivian/generative-disco.svg?style=social&label=Star)](https://github.com/hellovivian/generative-disco)
+
++ [MoStGAN-V: Video Generation with Temporal Motion Styles](https://arxiv.org/abs/2304.02777)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.02777)
+  [![Star](https://img.shields.io/github/stars/xiaoqian-shen/mostgan-v.svg?style=social&label=Star)](https://github.com/xiaoqian-shen/mostgan-v)
+
++ [Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos](https://arxiv.org/abs/2304.01186)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
+  [![Star](https://img.shields.io/github/stars/mayuelala/followyourpose.svg?style=social&label=Star)](https://github.com/mayuelala/followyourpose)
+
++ [Sounding Video Generator: A Unified Framework for Text-guided Sounding Video Generation](https://arxiv.org/abs/2303.16541)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16541)
+  [![Star](https://img.shields.io/github/stars/jwliu-cc/svg.svg?style=social&label=Star)](https://github.com/jwliu-cc/svg)
+
++ [MotionVideoGAN: A Novel Video Generator Based on the Motion Space Learned from Image Pairs](https://arxiv.org/abs/2303.02906)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.02906)
+  [![Star](https://img.shields.io/github/stars/bbzhu-jy16/motionvideogan.svg?style=social&label=Star)](https://github.com/bbzhu-jy16/motionvideogan)
+
++ [Consistency Models](https://arxiv.org/abs/2303.01469)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01469)
+  [![Star](https://img.shields.io/github/stars/openai/consistency_models.svg?style=social&label=Star)](https://github.com/openai/consistency_models)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://jepsen.io/consistency)
+
++ [MotionVideoGAN: A Novel Video Generator Based on the Motion Space Learned from Image Pairs](https://arxiv.org/abs/2303.02906)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.02906)
+  [![Star](https://img.shields.io/github/stars/bbzhu-jy16/motionvideogan.svg?style=social&label=Star)](https://github.com/bbzhu-jy16/motionvideogan)
+
++ [Time-Conditioned Generative Modeling of Object-Centric Representations for Video Decomposition and Prediction](https://arxiv.org/abs/2301.08951)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.08951)
+  [![Star](https://img.shields.io/github/stars/FudanVI/compositional-scene-representation-toolbox.svg?style=social&label=Star)](https://github.com/FudanVI/compositional-scene-representation-toolbox)
+
++ [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/pdf/2306.02018)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2306.02018)
+  [![Star](https://img.shields.io/github/stars/damo-vilab/videocomposer.svg?style=social&label=Star)](https://github.com/damo-vilab/videocomposer)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://videocomposer.github.io/)
+
++ [Cinematic Mindscapes: High-quality Video Reconstruction from Brain Activity](https://arxiv.org/abs/2305.11675) (May, 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11675)
+  [![Star](https://img.shields.io/github/stars/jqin4749/MindVideo.svg?style=social&label=Star)](https://github.com/jqin4749/MindVideo)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mind-video.com/)
+
++ [Any-to-Any Generation via Composable Diffusion](https://arxiv.org/abs/2305.11846)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11846)
+  [![Star](https://img.shields.io/github/stars/microsoft/i-Code/tree/main/i-Code-V3.svg?style=social&label=Star)](https://github.com/microsoft/i-Code/tree/main/i-Code-V3)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://codi-gen.github.io/)
+
++ [VideoFactory: Swap Attention in Spatiotemporal Diffusions for Text-to-Video Generation](https://arxiv.org/abs/2305.10874)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10874)
+
++ [Preserve Your Own Correlation: A Noise Prior for Video Diffusion Models](https://arxiv.org/abs/2305.10474)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10474)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/pyoco/)
+
++ [Motion-Conditioned Diffusion Model for Controllable Video Synthesis](https://arxiv.org/abs/2304.14404)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://tsaishien-chen.github.io/MCDiff/)
+
++ [LaMD: Latent Motion Diffusion for Video Generation](https://arxiv.org/abs/2304.11603)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11603)
+
++ [DreamPose: Fashion Image-to-Video Synthesis via Stable Diffusion](https://arxiv.org/abs/2304.06025)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.06025)
+  [![Star](https://img.shields.io/github/stars/johannakarras/DreamPose.svg?style=social&label=Star)](https://github.com/johannakarras/DreamPose)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://grail.cs.washington.edu/projects/dreampose/)
+
++ [Seer: Language Instructed Video Prediction with Latent Diffusion Models](https://arxiv.org/abs/2303.14897)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.14897)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://seervideodiffusion.github.io/)
+
++ [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10781)
+
++ [InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions](https://arxiv.org/abs/2304.05684)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05684)
+  [![Star](https://img.shields.io/github/stars/tr3e/InterGen.svg?style=social&label=Star)](https://github.com/tr3e/InterGen)
+
++ [ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model](https://arxiv.org/abs/2304.01116)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01116)
+  [![Star](https://img.shields.io/github/stars/mingyuan-zhang/ReMoDiffuse.svg?style=social&label=Star)](https://github.com/mingyuan-zhang/ReMoDiffuse)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html)
+
++ [Human Motion Diffusion as a Generative Prior](https://arxiv.org/abs/2303.01418)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01418)
+  [![Star](https://img.shields.io/github/stars/priorMDM/priorMDM.svg?style=social&label=Star)](https://github.com/priorMDM/priorMDM)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://priormdm.github.io/priorMDM-page/)
+
++ [Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions](https://arxiv.org/abs/2306.03988)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.03988)
+  [![Star](https://img.shields.io/github/stars/araachie/yoda.svg?style=social&label=Star)](https://github.com/araachie/yoda)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://araachie.github.io/yoda/)
+
++ [Make-Your-Video: Customized Video Generation Using Textual and Structural Guidance](https://arxiv.org/abs/2306.00943)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.00943)
+  [![Star](https://img.shields.io/github/stars/VideoCrafter/Make-Your-Video.svg?style=social&label=Star)](https://github.com/VideoCrafter/Make-Your-Video)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/Make-Your-Video/)
+
++ [Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts](https://arxiv.org/abs/2305.08850)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08850)
+  [![Star](https://img.shields.io/github/stars/HeliosZhao/Make-A-Protagonist.svg?style=social&label=Star)](https://github.com/HeliosZhao/Make-A-Protagonist)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://make-a-protagonist.github.io/)
+
++ [DaGAN++: Depth-Aware Generative Adversarial Network for Talking Head Video Generation](https://arxiv.org/abs/2305.06225)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.06225)
+
++ [LEO: Generative Latent Image Animator for Human Video Synthesis](https://arxiv.org/abs/2305.03989)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03989)
+  [![Star](https://img.shields.io/github/stars/wyhsirius/LEO.svg?style=social&label=Star)](https://github.com/wyhsirius/LEO)
+
++ [Multi-object Video Generation from Single Frame Layouts](https://arxiv.org/abs/2305.03983)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03983)
+
++ [StyleLipSync: Style-based Personalized Lip-sync Video Generation](https://arxiv.org/abs/2305.00521)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.00521)
+  [![Star](https://img.shields.io/github/stars/TaekyungKi/StyleLipSync.svg?style=social&label=Star)](https://github.com/TaekyungKi/StyleLipSync)
+
++ [High-Fidelity and Freely Controllable Talking Head Video Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.pdf) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.pdf)
+  [![Star](https://img.shields.io/github/stars/hologerry/PECHead.svg?style=social&label=Star)](https://github.com/hologerry/PECHead)
+
++ [Video Generation Beyond a Single Clip](https://arxiv.org/abs/2304.07483)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.07483)
+
++ [DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions](https://arxiv.org/abs/2303.07697) (ICASSP 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07697)
+  [![Star](https://img.shields.io/github/stars/deepbrainai-research/discohead.svg?style=social&label=Star)](https://github.com/deepbrainai-research/discohead)
+
++ [Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE](https://arxiv.org/abs/2303.05323)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.05323)
+
++ [DPE: Disentanglement of Pose and Expression for General Video Portrait Editing](https://openaccess.thecvf.com/content/CVPR2023/papers/Pang_DPE_Disentanglement_of_Pose_and_Expression_for_General_Video_Portrait_CVPR_2023_paper.pdf) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Pang_DPE_Disentanglement_of_Pose_and_Expression_for_General_Video_Portrait_CVPR_2023_paper.pdf)
+  [![Star](https://img.shields.io/github/stars/OpenTalker/DPE.svg?style=social&label=Star)](https://github.com/OpenTalker/DPE)
+
++ [PV3D: A 3D Generative Model for Portrait Video Generation](https://arxiv.org/abs/2212.06384) (ICLR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.06384)
+  [![Star](https://img.shields.io/github/stars/bytedance/pv3d.svg?style=social&label=Star)](https://github.com/bytedance/pv3d)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/pv3d/)
+
++ [AADiff: Audio-Aligned Video Synthesis with Text-to-Image Diffusion](https://arxiv.org/abs/2305.04001) (CVPR 2023 Workshop)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04001)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://lifrary.github.io/AADiff/)
+
++ [Controllable One-Shot Face Video Synthesis With Semantic Aware Prior](https://arxiv.org/abs/2304.14471)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14471)
+
++ [Decoupling Dynamic Monocular Videos for Dynamic View Synthesis](https://arxiv.org/abs/2304.01716)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01716)
+
++ [Feature-Conditioned Cascaded Video Diffusion Models for Precise Echocardiogram Synthesis](https://arxiv.org/abs/2303.12644) (MICCAI 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12644)
+  [![Star](https://img.shields.io/github/stars/HReynaud/EchoDiffusion.svg?style=social&label=Star)](https://github.com/HReynaud/EchoDiffusion)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://hreynaud.github.io/EchoDiffusion/)
+
++ [WALDO: Future Video Synthesis using Object Layer Decomposition and Parametric Flow Prediction](https://arxiv.org/abs/2211.14308)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.14308)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://16lemoing.github.io/waldo/)
+
++ [Fast Fourier Inception Networks for Occluded Video Prediction](https://arxiv.org/abs/2306.10346)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.10346)
+
++ [Let's Think Frame by Frame: Evaluating Video Chain of Thought with Video Infilling and Prediction](https://arxiv.org/abs/2305.13903)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13903)
+
++ [PastNet: Introducing Physical Inductive Biases for Spatio-temporal Video Prediction](https://arxiv.org/abs/2305.11421)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11421)
+  [![Star](https://img.shields.io/github/stars/easylearningscores/PastNet.svg?style=social&label=Star)](https://github.com/easylearningscores/PastNet)
+
++ [A Control-Centric Benchmark for Video Prediction](https://arxiv.org/abs/2304.13723) (ICLR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.13723)
+  [![Star](https://img.shields.io/github/stars/s-tian/vp2.svg?style=social&label=Star)](https://github.com/s-tian/vp2)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://s-tian.github.io/projects/vp2/)
+
++ [Combining Vision and Tactile Sensation for Video Prediction](https://arxiv.org/abs/2304.11193)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.11193)
+
++ [MS-LSTM: Exploring Spatiotemporal Multiscale Representations in Video Prediction Domain](https://arxiv.org/abs/2304.07724)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.07724)
+  [![Star](https://img.shields.io/github/stars/mazhf/MS-RNN.svg?style=social&label=Star)](https://github.com/mazhf/MS-RNN)
+
++ [Forecasting localized weather impacts on vegetation as seen from space with meteo-guided video prediction](https://arxiv.org/abs/2303.16198)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16198)
+  [![Star](https://img.shields.io/github/stars/XX/YY.svg?style=social&label=Star)](https://github.com/XX/YY)
+
++ [A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf)
+  [![Star](https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN.svg?style=social&label=Star)](https://github.com/megvii-research/CVPR2023-DMVFN)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://huxiaotaostasy.github.io/DMVFN/)
+
++ [TKN: Transformer-based Keypoint Prediction Network For Real-time Video Prediction](https://arxiv.org/abs/2303.09807)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09807)
+
++ [Implicit Stacked Autoregressive Model for Video Prediction](https://arxiv.org/abs/2303.07849)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07849)
+  [![Star](https://img.shields.io/github/stars/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction.svg?style=social&label=Star)](https://github.com/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction)
+
++ [MOSO: Decomposing MOtion, Scene and Object for Video Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf)
+  [![Star](https://img.shields.io/github/stars/iva-mzsun/MOSO.svg?style=social&label=Star)](https://github.com/iva-mzsun/MOSO)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://iva-mzsun.github.io/MOSO)
+
++ [Polar Prediction of Natural Videos](https://arxiv.org/abs/2303.03432)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.03432)
+
++ [STDepthFormer: Predicting Spatio-temporal Depth from Video with a Self-supervised Transformer Model](https://arxiv.org/abs/2303.01196) (IROS 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01196)
+
++ [Object-Centric Video Prediction via Decoupling of Object Dynamics and Interactions](https://arxiv.org/abs/2302.11850)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.11850)
+  [![Star](https://img.shields.io/github/stars/AIS-Bonn/OCVP-object-centric-video-prediction.svg?style=social&label=Star)](https://github.com/AIS-Bonn/OCVP-object-centric-video-prediction)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/ocvp-vp)
+
++ [Anti-aliasing Predictive Coding Network for Future Video Frame Prediction](https://arxiv.org/abs/2301.05421)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.05421)
+  [![Star](https://img.shields.io/github/stars/ling-cf/ppnv2.svg?style=social&label=Star)](https://github.com/ling-cf/ppnv2)
+
++ [Long-horizon video prediction using a dynamic latent hierarchy](https://arxiv.org/abs/2212.14376)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.14376)
+
++ [Motion and Context-Aware Audio-Visual Conditioned Video Prediction](https://arxiv.org/abs/2212.04679)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.04679)
+
++ [MIMO Is All You Need : A Strong Multi-In-Multi-Out Baseline for Video Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/25289) (AAAI 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/25289)
+
++ [A unified model for continuous conditional video prediction](https://arxiv.org/abs/2210.05810) (CVPR 2023 Workshop)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.05810)
+  [![Star](https://img.shields.io/github/stars/XiYe20/NPVP.svg?style=social&label=Star)](https://github.com/XiYe20/NPVP)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://npvp.github.io/)
+
++ [PreCNet: Next-Frame Video Prediction Based on Predictive Coding](https://arxiv.org/abs/2004.14878) (IEEE TNNLS 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2004.14878)
+  [![Star](https://img.shields.io/github/stars/ctu-vras/precnet.svg?style=social&label=Star)](https://github.com/ctu-vras/precnet)
+
++ [NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation](https://arxiv.org/abs/2303.12346)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.12346)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://msra-nuwa.azurewebsites.net/#/)
 
 
 

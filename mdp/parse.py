@@ -2,6 +2,7 @@
 import bs4
 from bs4 import BeautifulSoup
 import sys, os, pickle, re, pprint
+import pandas as pd
 
 def tag_err(expected: str, got: bs4.element.Tag, showGot: bool = False):
     return (f'Line {got.sourceline}, col {got.sourcepos} : '
@@ -54,10 +55,10 @@ for y in years:
             print(tag_err('<br> to follow', a[0]))
             quit()
         
-        if conf is not None and a0_next.next_sibling.name != 'br':
+        if conf is not None and len(a[1:]) != 0 and a0_next.next_sibling.name != 'br':
             print(tag_err('<br> to follow', a[0]))
             quit()
-        
+
         for i in a[1:]:
             img = i.find('img')
             if img is None:
@@ -80,8 +81,10 @@ for y in years:
             'github': github, 'website': website,
         })
 
-pprint.PrettyPrinter(indent=2).pprint(out)
+#pprint.PrettyPrinter(indent=2).pprint(out)
 
-sys.setrecursionlimit(90000)
-with open('out.pkl', 'wb') as f:
-    pickle.dump(out, f)
+for y in out.keys():
+    df = pd.DataFrame.from_dict(out[y])
+    df.to_csv(f'{y}.csv.gz', index=False)
+    #pd.options.display.max_colwidth = 15
+    #print(df)
