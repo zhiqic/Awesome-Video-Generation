@@ -25,17 +25,20 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 </p>
 
 ## Contents
-* [Survey Papers](#survey_papers)
-* [Datasets](#datasets)
-* [Subtopics](#video-generation_subtopics)
-* [2023](#2023)
-* [2022](#2022)
-* [2021](#2021)
-* [2020](#2020)
-* [2019](#2019)
-* [2018](#2018)
-* [2017](#2017)
-* [2016](#2016)
+- [Awesome Video Generation ](#awesome-video-generation-)
+  - [📝 Introduction](#-introduction)
+  - [Contents](#contents)
+  - [✨Survey\_Papers](#survey_papers)
+  - [🌟Datasets](#datasets)
+  - [🚀Video-generation\_subtopics](#video-generation_subtopics)
+  - [2023](#2023)
+  - [2022](#2022)
+  - [2021](#2021)
+  - [2020](#2020)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [2017](#2017)
+  - [2016](#2016)
 
 ## ✨Survey_Papers
 
@@ -780,7 +783,6 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [Phenaki: Variable length video generation from open domain textual description](https://arxiv.org/abs/2210.02399)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.02399)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.research.google/phenaki/)
-  [alt-website](https://phenaki.video/)
 
   Code (unofficial?): [![Star](https://img.shields.io/github/stars/lucidrains/phenaki-pytorch.svg?style=social&label=Star)](https://github.com/XX/YY)
 
@@ -2468,7 +2470,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![Website](https://img.shields.io/badge/Website-9cf)](https://neural-3d-video.github.io/)
 
 + [MotionRNN: A Flexible Model for Video Prediction with Spacetime-Varying Motions](https://arxiv.org/abs/2103.02243) (CVPR 2021)  
-  [![Star](https://img.shields.io/github/stars/facebookresearch/neural_3d_video  .svg?style=social&label=Star)](https://github.com/thuml/MotionRNN)
+  [![Star](https://img.shields.io/github/stars/facebookresearch/neural_3d_video.svg?style=social&label=Star)](https://github.com/thuml/MotionRNN)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2103.02243)
 
 + [Dual-MTGAN: Stochastic and Deterministic Motion Transfer for Image-to-Video Synthesis](https://arxiv.org/abs/2102.13329) (ICPR 2020)  
@@ -2585,7 +2587,7 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![Star](https://img.shields.io/github/stars/rakhimovv/lvt.svg?style=social&label=Star)](https://github.com/rakhimovv/lvt)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1906.02634)
 
-+ [VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation](https://arxiv.org/pdf/1903.04480) (ICLR 2020)
++ [VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation](https://arxiv.org/pdf/1903.04480) (ICLR 2020)  
   [![Star](https://img.shields.io/github/stars/tensorflow/tensor2tensor.svg?style=social&label=Star)](https://github.com/tensorflow/tensor2tensor)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1903.04480)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://lucassheng.github.io/publication/pan-video-2019/)
