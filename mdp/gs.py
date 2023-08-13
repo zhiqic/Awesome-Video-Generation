@@ -73,22 +73,23 @@ def genMarkdown(year: str):
 
             f.write('\n')
 
-def fillArxivLinks(start_row: int = 2):
-    assert 2 <= start_row <= MAX_ROW
+def fillArxivLinks():
+
+    end_row = 196
 
     gc = gspread.oauth()
     wks = gc.open('Video Generation Survey').worksheet('2021')
-    titles = [i[0] for i in wks.get('B2:B129')]
+    titles = [i[0] for i in wks.get(f'B2:B{end_row}')]
     links = []
 
     for t in tqdm(titles):
         link = findLink(t)
+        if link == '':
+            tqdm.write(f'No results found for "{t}"')
+            link = 'N/A'
         links.append([link])
     
-    wks.update('C2:C129', links)
-
-    return links
-    
+    wks.update(f'C2:C{end_row}', links)
 
 def findLink(t: str):
 
@@ -105,7 +106,7 @@ def findLink(t: str):
     ret = [i.findChildren()[0]['href'].strip() for i in ret]
 
     if len(ret) == 0:
-        raise ValueError(f'No results found for "{t}"')
+        return ''
 
     return ret[0]
 

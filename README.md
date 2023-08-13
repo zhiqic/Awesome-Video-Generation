@@ -766,13 +766,13 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.00111)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
 
-+ [Tell me what happened: Unifying text-guided video completion via multimodal masked video generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Tell_Me_What_Happened_Unifying_Text-Guided_Video_Completion_via_Multimodal_CVPR_2023_paper.pdf) (CVPR 2023)\
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Fu_Tell_Me_What_Happened_Unifying_Text-Guided_Video_Completion_via_Multimodal_CVPR_2023_paper.pdf)
++ [Tell me what happened: Unifying text-guided video completion via multimodal masked video generation](https://arxiv.org/abs/2211.12824) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.12824)
   [![Star](https://img.shields.io/github/stars/tsujuifu/pytorch_tvc.svg?style=social&label=Star)](https://github.com/tsujuifu/pytorch_tvc)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://tvc-mmvg.github.io/)
 
-+ [MAGVIT: Masked Generative Video Transformer](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf) (CVPR 2023)\
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_MAGVIT_Masked_Generative_Video_Transformer_CVPR_2023_paper.pdf)
++ [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05199)
   [![Star](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Star)](https://github.com/google-research/magvit)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/)
 
@@ -926,8 +926,8 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.00521)
   [![Star](https://img.shields.io/github/stars/TaekyungKi/StyleLipSync.svg?style=social&label=Star)](https://github.com/TaekyungKi/StyleLipSync)
 
-+ [High-Fidelity and Freely Controllable Talking Head Video Generation](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.pdf) (CVPR 2023)\
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.pdf)
++ [High-Fidelity and Freely Controllable Talking Head Video Generation](https://arxiv.org/abs/2304.10168) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.10168)
   [![Star](https://img.shields.io/github/stars/hologerry/PECHead.svg?style=social&label=Star)](https://github.com/hologerry/PECHead)
 
 + [Video Generation Beyond a Single Clip](https://arxiv.org/abs/2304.07483)\
@@ -940,8 +940,8 @@ Predict the next N frames following a sequence of input video frames, or predict
 + [Controllable Video Generation by Learning the Underlying Dynamical System with Neural ODE](https://arxiv.org/abs/2303.05323)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.05323)
 
-+ [DPE: Disentanglement of Pose and Expression for General Video Portrait Editing](https://openaccess.thecvf.com/content/CVPR2023/papers/Pang_DPE_Disentanglement_of_Pose_and_Expression_for_General_Video_Portrait_CVPR_2023_paper.pdf) (CVPR 2023)\
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Pang_DPE_Disentanglement_of_Pose_and_Expression_for_General_Video_Portrait_CVPR_2023_paper.pdf)
++ [DPE: Disentanglement of Pose and Expression for General Video Portrait Editing](https://arxiv.org/abs/2301.06281) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2301.06281)
   [![Star](https://img.shields.io/github/stars/OpenTalker/DPE.svg?style=social&label=Star)](https://github.com/OpenTalker/DPE)
 
 + [PV3D: A 3D Generative Model for Portrait Video Generation](https://arxiv.org/abs/2212.06384) (ICLR 2023)\
@@ -994,8 +994,8 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16198)
   [![Star](https://img.shields.io/github/stars/XX/YY.svg?style=social&label=Star)](https://github.com/XX/YY)
 
-+ [A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf) (CVPR 2023)\
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Hu_A_Dynamic_Multi-Scale_Voxel_Flow_Network_for_Video_Prediction_CVPR_2023_paper.pdf)
++ [A Dynamic Multi-Scale Voxel Flow Network for Video Prediction](https://arxiv.org/abs/2303.09875) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09875)
   [![Star](https://img.shields.io/github/stars/megvii-research/CVPR2023-DMVFN.svg?style=social&label=Star)](https://github.com/megvii-research/CVPR2023-DMVFN)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://huxiaotaostasy.github.io/DMVFN/)
 
@@ -1006,8 +1006,8 @@ Predict the next N frames following a sequence of input video frames, or predict
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.07849)
   [![Star](https://img.shields.io/github/stars/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction.svg?style=social&label=Star)](https://github.com/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction)
 
-+ [MOSO: Decomposing MOtion, Scene and Object for Video Prediction](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf) (CVPR 2023)\
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MOSO_Decomposing_MOtion_Scene_and_Object_for_Video_Prediction_CVPR_2023_paper.pdf)
++ [MOSO: Decomposing MOtion, Scene and Object for Video Prediction](https://arxiv.org/abs/2303.03684) (CVPR 2023)\
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.03684)
   [![Star](https://img.shields.io/github/stars/iva-mzsun/MOSO.svg?style=social&label=Star)](https://github.com/iva-mzsun/MOSO)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://iva-mzsun.github.io/MOSO)
 
