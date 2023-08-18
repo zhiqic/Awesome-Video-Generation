@@ -1,5 +1,4 @@
-# Human motion generation
-
+## 2023
 + [Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation](https://arxiv.org/abs/2307.00574)\
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.00574)
 
@@ -36,3 +35,17 @@
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.10621)
   [![Star](https://img.shields.io/github/stars/jnnan/chairs.svg?style=social&label=Star)](https://github.com/jnnan/chairs)
   [![Website](https://img.shields.io/badge/Website-9cf)](https://jnnan.github.io/project/chairs/)
+
++ [Bidirectionally Deformable Motion Modulation For Video-based Human Pose Transfer](https://arxiv.org/abs/2307.07754)  
+  [![Star](https://img.shields.io/github/stars/rocketappslab/bdmm.svg?style=social&label=Star)](https://github.com/rocketappslab/bdmm)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.07754)
+
++ [Text2Performer: Text-Driven Human Video Generation](https://arxiv.org/abs/2304.08483)  
+  [![Star](https://img.shields.io/github/stars/yumingj/text2performer.svg?style=social&label=Star)](https://github.com/yumingj/text2performer)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.08483)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://yumingj.github.io/projects/Text2Performer.html)
+
++ [Follow Your Pose: Pose-Guided Text-to-Video Generation using Pose-Free Videos](https://arxiv.org/abs/2304.01186)  
+  [![Star](https://img.shields.io/github/stars/mayuelala/followyourpose.svg?style=social&label=Star)](https://github.com/mayuelala/followyourpose)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.01186)
+  [![Website](https://img.shields.io/badge/Website-9cf)](https://follow-your-pose.github.io/)
