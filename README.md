@@ -16,12 +16,9 @@ A comprehensive collection of works on video generation/synthesis/prediction.
 <img src="https://modelscope.cn/api/v1/models/damo/text-to-video-synthesis/repo?Revision=master&FilePath=./samples/040_Incredibly_detailed_science_fiction_scene_set_on_an_alien_planet,_view_of_a_marketplace._Pixel_art._003.gif&View=true" width="240px"/>
 </p>
 
-<p align="center">
-<img src="https://kfmei.page/vidm/results/sky/vidm.gif" width="480px"/>  
-</p>
 
 <p align="center">
-(Source: <a href="https://mask-cond-video-diffusion.github.io">MCVD</a>, <a href="https://modelscope.cn/models/damo/text-to-video-synthesis/summary">VideoFusion</a>, and <a href="https://kfmei.page/vidm/">VIDM</a>)
+(Source: <a href="https://mask-cond-video-diffusion.github.io">MCVD</a>, <a href="https://modelscope.cn/models/damo/text-to-video-synthesis/summary">VideoFusion</a>)
 </p>
 
 ## Contents
